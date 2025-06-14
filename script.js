@@ -81,6 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
         let currentAnimation;
         let isRadialChartActive = false;
         let isChoroplethMapActive = false;
+        let isAreaChartActive = false;
 
         const alertDataByRegion = new Map(alertDurationData.map(d => [d.region, {
             duration: +d.duration_hours,
@@ -216,6 +217,59 @@ document.addEventListener('DOMContentLoaded', () => {
                 .tickValues(yTicks)
                 .tickFormat(d => `${d} год`)
             );
+
+        const hoverLine = areaChartGroup.append("line")
+            .attr("stroke", alertColor)
+            .attr("stroke-width", 1.5)
+            .style("opacity", 0);
+
+        const hoverCircle = areaChartGroup.append("circle")
+            .attr("r", 5)
+            .attr("fill", alertColor)
+            .style("stroke", "white")
+            .style("stroke-width", 1.5)
+            .style("opacity", 0);
+            
+        const bisectWeek = d3.bisector(d => d.week).left;
+
+        const hoverInteractionRect = areaChartGroup.append('rect')
+            .attr('width', chartW)
+            .attr('height', chartH)
+            .style('fill', 'none')
+            .style('pointer-events', 'all')
+            .on('mouseover', function() {
+                if (!isAreaChartActive) return;
+                tooltip.style("opacity", 1);
+                hoverLine.style("opacity", 1);
+                hoverCircle.style("opacity", 1);
+            })
+            .on('mouseout', function() {
+                tooltip.style("opacity", 0);
+                hoverLine.style("opacity", 0);
+                hoverCircle.style("opacity", 0);
+            })
+            .on('mousemove', function(event) {
+                if (!isAreaChartActive) return;
+
+                const [mx] = d3.pointer(event, this);
+                const weekX = x.invert(mx);
+                const i = bisectWeek(weeklyData, weekX, 1);
+                const d0 = weeklyData[i - 1];
+                const d1 = weeklyData[i];
+                
+                if (!d0 || !d1) return;
+
+                const d = (weekX - d0.week > d1.week - weekX) ? d1 : d0;
+                
+                hoverLine.attr("x1", x(d.week)).attr("x2", x(d.week)).attr("y1", y(d.duration_hours)).attr("y2", chartH);
+                hoverCircle.attr("cx", x(d.week)).attr("cy", y(d.duration_hours));
+                
+                tooltip
+                    .style("opacity", 1)
+                    .html(`Тиждень ${d.week}<br>Тривалість: ${d.duration_hours.toFixed(0)} год.`)
+                    .style("left", (event.pageX + 20) + "px")
+                    .style("top", event.pageY + "px");
+            });
 
         const radialChartGroup = chartGroup.append("g").attr("class", "radial-chart-wrapper").style("opacity", 0);
         
@@ -427,6 +481,9 @@ document.addEventListener('DOMContentLoaded', () => {
             
             isRadialChartActive = (step === 4);
             isChoroplethMapActive = (step === 2);
+            isAreaChartActive = (step === 3);
+
+            hoverInteractionRect.style('pointer-events', isAreaChartActive ? 'all' : 'none');
 
             currentAnimation
                 .to("#text-container", { autoAlpha: isFinalStep ? 0 : 1 }, 0)
