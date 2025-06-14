@@ -11,6 +11,34 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const toClassName = (name) => name.replace(/[^a-zA-Z0-9]/g, '');
 
+    const regionNameMapping = {
+        "Zhytomyr": "Житомирська область",
+        "Zaporizhzhya": "Запорізька область",
+        "Volyn": "Волинська область",
+        "Vinnytsya": "Вінницька область",
+        "Transcarpathia": "Закарпатська область",
+        "Ternopil'": "Тернопільська область",
+        "Sumy": "Сумська область",
+        "Rivne": "Рівненська область",
+        "Poltava": "Полтавська область",
+        "Odessa": "Одеська область",
+        "Mykolayiv": "Миколаївська область",
+        "Luhans'k": "Луганська область",
+        "L'viv": "Львівська область",
+        "Kirovohrad": "Кіровоградська область",
+        "Kiev City": "м. Київ",
+        "Kiev": "Київська область",
+        "Khmel'nyts'kyy": "Хмельницька область",
+        "Kherson": "Херсонська область",
+        "Kharkiv": "Харківська область",
+        "Ivano-Frankivs'k": "Івано-Франківська область",
+        "Donets'k": "Донецька область",
+        "Dnipropetrovs'k": "Дніпропетровська область",
+        "Chernivtsi": "Чернівецька область",
+        "Chernihiv": "Чернігівська область",
+        "Cherkasy": "Черкаська область"
+    };
+
     const alertColor = '#ff4136';
     const topoJsonUrl = 'https://raw.githubusercontent.com/org-scn-design-studio-community/sdkcommunitymaps/refs/heads/master/geojson/Europe/Ukraine-regions.json';
     const alertDataUrl = 'alert_durations_by_region.csv';
@@ -51,6 +79,8 @@ document.addEventListener('DOMContentLoaded', () => {
     ]).then(([topoData, alertDurationData, weeklyAlertData, hourlyAlertData, hourlyAlertsByRegionData]) => {
         const geoData = topojson.feature(topoData, topoData.objects.UKR_adm1);
         let currentAnimation;
+        let isRadialChartActive = false;
+        let isChoroplethMapActive = false;
 
         const alertDataByRegion = new Map(alertDurationData.map(d => [d.region, {
             duration: +d.duration_hours,
@@ -115,6 +145,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 d3.select(this).attr("data-initial-d", initialPathGenerator(d));
                 d3.select(this).attr("data-zoom-d", zoomPathGenerator(d));
                 d3.select(this).attr("data-final-d", finalPathGenerator(d));
+            })
+            .on("mouseover", function(event, d) {
+                if (!isChoroplethMapActive) return;
+                const regionData = alertDataByRegion.get(d.properties.NAME_1);
+                if (!regionData) return;
+                tooltip.style("opacity", 1).html(`<b>${regionNameMapping[d.properties.NAME_1]}</b><br>${regionData.duration.toFixed(0)} годин у тривозі`);
+            })
+            .on("mousemove", (event) => {
+                if (!isChoroplethMapActive) return;
+                tooltip.style("left", `${event.pageX}px`).style("top", `${event.pageY - 20}px`);
+            })
+            .on("mouseout", () => {
+                tooltip.style("opacity", 0);
             });
 
         const areaChartGroup = chartGroup.append("g").attr("class", "area-chart-wrapper").style("opacity", 0);
@@ -178,7 +221,8 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const radialData = hourlyAlertData.map(d => ({
             hour: +d.hour,
-            val: +d.normalized_count
+            val: +d.normalized_count,
+            count: +d.alert_count
         }));
 
         const rMargin = { top: 20, right: 20, bottom: 20, left: 20 };
@@ -197,8 +241,20 @@ document.addEventListener('DOMContentLoaded', () => {
             .data(radialData)
             .enter().append("path")
             .attr("class", "radial-bar")
+            .style("opacity", d => opacityScale(d.val))
             .attr("d", arc)
-            .style("opacity", d => opacityScale(d.val));
+            .on("mouseover", function(event, d) {
+                if (!isRadialChartActive) return;
+                tooltip.style("opacity", 1)
+                    .html(`<b>${d.hour}:00</b><br>Тривоги: ${d.count}`);
+            })
+            .on("mousemove", (event) => {
+                if (!isRadialChartActive) return;
+                tooltip.style("left", `${event.pageX}px`).style("top", `${event.pageY - 20}px`);
+            })
+            .on("mouseout", () => {
+                tooltip.style("opacity", 0);
+            });
 
         radialChartGroup.append("g")
             .selectAll("text")
@@ -242,19 +298,6 @@ document.addEventListener('DOMContentLoaded', () => {
                             },
                             duration: dezoomDuration
                         }, 0);
-                },
-                setupInteractions: () => {
-                    mapGroup.selectAll(".region")
-                        .on("mouseover", function(event, d) {
-                            const regionData = alertDataByRegion.get(d.properties.NAME_1);
-                            if (!regionData) return;
-                            
-                            tooltip.style("opacity", 1).html(`<b>${d.properties.NAME_1}</b><br>${regionData.duration.toFixed(0)} годин у тривозі`);
-                        })
-                        .on("mousemove", (event) => {
-                            tooltip.style("left", `${event.pageX}px`).style("top", `${event.pageY - 20}px`);
-                        })
-                        .on("mouseout", () => tooltip.style("opacity", 0));
                 }
             },
             3: {
@@ -381,6 +424,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const stepConfig = stepDefinitions[step] || {};
             const isChartStep = step === 3 || step === 4;
             const isFinalStep = step === 6;
+            
+            isRadialChartActive = (step === 4);
+            isChoroplethMapActive = (step === 2);
 
             currentAnimation
                 .to("#text-container", { autoAlpha: isFinalStep ? 0 : 1 }, 0)
@@ -394,15 +440,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 .to(radialChartGroup.node(), { autoAlpha: step === 4 ? 1 : 0 }, 0)
                 .to("#timestamp-container", { autoAlpha: isFinalStep ? 1 : 0, duration: 0 }, 0);
 
-            mapGroup.on("mouseover", null).on("mousemove", null).on("mouseout", null);
-            mapGroup.selectAll(".region").on("mouseover", null).on("mousemove", null).on("mouseout", null);
             tooltip.style("opacity", 0);
 
             if (stepConfig.animate) {
                 stepConfig.animate(currentAnimation, direction, isMobile);
-            }
-            if (stepConfig.setupInteractions) {
-                stepConfig.setupInteractions();
             }
         }
     }).catch(error => {
