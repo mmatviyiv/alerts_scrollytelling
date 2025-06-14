@@ -1,0 +1,2881 @@
+hour,regions
+2025-01-01T00:00:00,
+2025-01-01T01:00:00,Kirovohrad
+2025-01-01T02:00:00,Dnipropetrovs'k
+2025-01-01T03:00:00,Dnipropetrovs'k|Kirovohrad
+2025-01-01T04:00:00,Rivne|Khmel'nyts'kyy
+2025-01-01T05:00:00,Kiev City
+2025-01-01T06:00:00,Kiev City|Cherkasy
+2025-01-01T07:00:00,Kiev City|Cherkasy
+2025-01-01T08:00:00,Donets'k
+2025-01-01T09:00:00,Donets'k|Kherson|Mykolayiv|Sumy
+2025-01-01T10:00:00,Sumy
+2025-01-01T11:00:00,Sumy
+2025-01-01T12:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-01-01T13:00:00,Sumy|Kharkiv|Poltava|Cherkasy|Dnipropetrovs'k|Zaporizhzhya|Kirovohrad|Mykolayiv|Odessa|Kherson|Donets'k
+2025-01-01T14:00:00,
+2025-01-01T15:00:00,Donets'k|Sumy|Kharkiv
+2025-01-01T16:00:00,Donets'k|Sumy
+2025-01-01T17:00:00,Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Zaporizhzhya|Chernihiv|Sumy
+2025-01-01T18:00:00,Kharkiv|Poltava|Chernihiv|Dnipropetrovs'k|Sumy
+2025-01-01T19:00:00,Kharkiv|Poltava|Chernihiv|Dnipropetrovs'k|Kherson|Mykolayiv|Zaporizhzhya|Sumy
+2025-01-01T20:00:00,Kherson|Mykolayiv|Kharkiv|Poltava|Cherkasy|Kirovohrad|Sumy
+2025-01-01T21:00:00,Mykolayiv|Cherkasy|Kirovohrad|Odessa|Kharkiv|Sumy
+2025-01-01T22:00:00,Sumy|Chernihiv|Donets'k|Poltava|Cherkasy|Kharkiv
+2025-01-01T23:00:00,Sumy|Chernihiv|Donets'k|Poltava|Cherkasy|Kharkiv|Kiev|Kherson|Mykolayiv
+2025-01-02T00:00:00,Sumy|Chernihiv|Donets'k|Poltava|Cherkasy|Kharkiv|Kiev|Kherson|Mykolayiv|Dnipropetrovs'k|Kirovohrad
+2025-01-02T01:00:00,Sumy|Chernihiv|Donets'k|Poltava|Cherkasy|Kharkiv|Kiev|Dnipropetrovs'k|Kirovohrad|Zaporizhzhya|Vinnytsya
+2025-01-02T02:00:00,Sumy|Chernihiv|Poltava|Cherkasy|Kharkiv|Kiev|Dnipropetrovs'k|Kirovohrad|Kiev City
+2025-01-02T03:00:00,Sumy|Chernihiv|Poltava|Cherkasy|Kharkiv|Kiev|Kirovohrad|Donets'k
+2025-01-02T04:00:00,Sumy|Poltava|Kharkiv
+2025-01-02T05:00:00,Sumy|Poltava|Kharkiv
+2025-01-02T06:00:00,Poltava|Kharkiv
+2025-01-02T07:00:00,Sumy|Donets'k
+2025-01-02T08:00:00,Sumy|Donets'k
+2025-01-02T09:00:00,Sumy|Donets'k|Kharkiv
+2025-01-02T10:00:00,Donets'k
+2025-01-02T11:00:00,Donets'k|Kharkiv|Zaporizhzhya|Cherkasy|Poltava|Dnipropetrovs'k|Kiev|Sumy|Kirovohrad|Chernihiv
+2025-01-02T12:00:00,
+2025-01-02T13:00:00,Poltava|Sumy|Donets'k|Kharkiv|Chernihiv
+2025-01-02T14:00:00,Poltava|Sumy|Donets'k|Kharkiv|Chernihiv|Odessa|Mykolayiv
+2025-01-02T15:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Zaporizhzhya|Dnipropetrovs'k|Kherson
+2025-01-02T16:00:00,Donets'k
+2025-01-02T17:00:00,Kharkiv|Zaporizhzhya|Donets'k|Poltava|Chernihiv|Dnipropetrovs'k|Sumy|Cherkasy|Kiev
+2025-01-02T18:00:00,
+2025-01-02T19:00:00,Sumy
+2025-01-02T20:00:00,Sumy|Zaporizhzhya|Donets'k|Kharkiv
+2025-01-02T21:00:00,Donets'k|Dnipropetrovs'k|Kharkiv
+2025-01-02T22:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Sumy
+2025-01-02T23:00:00,Kharkiv|Sumy|Chernihiv|Poltava|Donets'k
+2025-01-03T00:00:00,Kharkiv|Sumy|Chernihiv|Poltava|Donets'k|Kiev
+2025-01-03T01:00:00,Kharkiv|Sumy|Chernihiv|Poltava|Donets'k|Kiev|Cherkasy|Zhytomyr
+2025-01-03T02:00:00,Sumy|Chernihiv|Poltava|Donets'k|Kiev|Cherkasy|Zhytomyr
+2025-01-03T03:00:00,Sumy|Chernihiv|Poltava|Donets'k|Kiev|Zhytomyr|Kiev City
+2025-01-03T04:00:00,Sumy|Chernihiv|Poltava|Donets'k|Kiev|Zhytomyr|Kiev City
+2025-01-03T05:00:00,Sumy|Chernihiv|Kiev|Zhytomyr|Kiev City|Vinnytsya|Kharkiv|Khmel'nyts'kyy
+2025-01-03T06:00:00,Sumy|Chernihiv|Kiev|Kharkiv|Poltava|Cherkasy|Kirovohrad
+2025-01-03T07:00:00,Sumy|Chernihiv|Kiev|Dnipropetrovs'k|Kiev City|Zaporizhzhya|Poltava|Kirovohrad|Cherkasy|Kharkiv|Donets'k
+2025-01-03T08:00:00,Sumy|Chernihiv|Donets'k
+2025-01-03T09:00:00,Sumy|Donets'k|Zaporizhzhya|Kiev|Kharkiv|Zhytomyr
+2025-01-03T10:00:00,Kharkiv|Zhytomyr|Vinnytsya|Sumy|Chernihiv
+2025-01-03T11:00:00,Zhytomyr|Sumy|Dnipropetrovs'k|Kiev|Zaporizhzhya
+2025-01-03T12:00:00,Sumy|Zaporizhzhya|Vinnytsya|Kiev City|Kharkiv|Dnipropetrovs'k|Cherkasy|Poltava|Kirovohrad|Ternopil'|Odessa|Chernivtsi|Chernihiv|Kherson|Ivano-Frankivs'k|Rivne|Kiev|Transcarpathia|Zhytomyr|Volyn|L'viv|Khmel'nyts'kyy|Mykolayiv|Donets'k
+2025-01-03T13:00:00,Sumy|Poltava|Chernihiv|Donets'k
+2025-01-03T14:00:00,Sumy|Poltava|Chernihiv|Donets'k|Kiev
+2025-01-03T15:00:00,Sumy|Poltava|Chernihiv|Donets'k|Kiev|Zhytomyr|Cherkasy|Kirovohrad|Kharkiv|Kiev City|Khmel'nyts'kyy
+2025-01-03T16:00:00,Sumy|Chernihiv
+2025-01-03T17:00:00,Sumy|Chernihiv|Kherson|Mykolayiv|Cherkasy|Poltava|Kirovohrad|Zaporizhzhya|Dnipropetrovs'k|Kiev
+2025-01-03T18:00:00,Sumy
+2025-01-03T19:00:00,Sumy|Chernihiv|Zaporizhzhya|Poltava|Donets'k
+2025-01-03T20:00:00,Sumy|Chernihiv|Poltava|Donets'k
+2025-01-03T21:00:00,Sumy|Chernihiv|Poltava|Donets'k|Cherkasy|Kiev|Kharkiv|Dnipropetrovs'k
+2025-01-03T22:00:00,Sumy|Chernihiv|Poltava|Cherkasy|Kiev|Zhytomyr
+2025-01-03T23:00:00,Sumy|Chernihiv|Poltava|Cherkasy|Kiev|Zhytomyr
+2025-01-04T00:00:00,Chernihiv|Poltava|Kiev|Zhytomyr|Vinnytsya|Khmel'nyts'kyy|Donets'k|Kharkiv|Sumy
+2025-01-04T01:00:00,Donets'k|Sumy|Chernihiv
+2025-01-04T02:00:00,Donets'k|Sumy|Chernihiv|Zaporizhzhya
+2025-01-04T03:00:00,Sumy|Kharkiv
+2025-01-04T04:00:00,
+2025-01-04T05:00:00,
+2025-01-04T06:00:00,
+2025-01-04T07:00:00,Sumy
+2025-01-04T08:00:00,Sumy
+2025-01-04T09:00:00,Sumy
+2025-01-04T10:00:00,Sumy|Chernihiv
+2025-01-04T11:00:00,Sumy|Chernihiv
+2025-01-04T12:00:00,Sumy|Kharkiv|Poltava
+2025-01-04T13:00:00,Sumy|Kharkiv|Poltava|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-01-04T14:00:00,Sumy|Kharkiv|Dnipropetrovs'k
+2025-01-04T15:00:00,Kharkiv
+2025-01-04T16:00:00,Donets'k|Chernihiv|Sumy
+2025-01-04T17:00:00,Poltava|Chernihiv|Sumy
+2025-01-04T18:00:00,Poltava|Kiev|Chernihiv|Sumy
+2025-01-04T19:00:00,Kharkiv|Chernihiv|Sumy|Poltava
+2025-01-04T20:00:00,Kharkiv|Donets'k|Chernihiv|Sumy|Poltava
+2025-01-04T21:00:00,Kharkiv|Donets'k|Cherkasy|Dnipropetrovs'k|Chernihiv|Sumy|Poltava|Kiev|Zhytomyr
+2025-01-04T22:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Chernihiv|Sumy|Poltava|Kiev|Zhytomyr|Kirovohrad
+2025-01-04T23:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Khmel'nyts'kyy|Chernihiv|Sumy|Poltava|Kiev|Zhytomyr|Kirovohrad
+2025-01-05T00:00:00,Kharkiv|Chernihiv|Sumy|Poltava|Kiev|Zhytomyr|Kirovohrad|Cherkasy
+2025-01-05T01:00:00,Chernihiv|Sumy|Donets'k
+2025-01-05T02:00:00,Sumy
+2025-01-05T03:00:00,Donets'k
+2025-01-05T04:00:00,
+2025-01-05T05:00:00,
+2025-01-05T06:00:00,
+2025-01-05T07:00:00,Sumy
+2025-01-05T08:00:00,Sumy|Donets'k|Kherson|Mykolayiv|Dnipropetrovs'k|Zaporizhzhya
+2025-01-05T09:00:00,Sumy|Donets'k|Poltava|Chernihiv|Odessa|Mykolayiv
+2025-01-05T10:00:00,Sumy|Poltava|Chernihiv|Dnipropetrovs'k|Kiev|Kharkiv
+2025-01-05T11:00:00,Sumy|Poltava|Chernihiv|Dnipropetrovs'k|Kiev|Kharkiv|Kiev City|Cherkasy|Kirovohrad|Zaporizhzhya|Donets'k|Zhytomyr
+2025-01-05T12:00:00,Sumy|Chernihiv|Kiev
+2025-01-05T13:00:00,Sumy|Chernihiv|Zaporizhzhya|Kharkiv|Donets'k
+2025-01-05T14:00:00,Sumy|Kharkiv|Donets'k
+2025-01-05T15:00:00,Sumy
+2025-01-05T16:00:00,Sumy
+2025-01-05T17:00:00,Chernihiv|Poltava|Zaporizhzhya|Donets'k|Sumy|Kharkiv
+2025-01-05T18:00:00,Zaporizhzhya|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k
+2025-01-05T19:00:00,Zaporizhzhya|Donets'k|Kherson|Mykolayiv|Cherkasy|Kirovohrad|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv
+2025-01-05T20:00:00,Donets'k|Kiev City|Cherkasy|Kirovohrad|Kiev|Kherson|Mykolayiv|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv
+2025-01-05T21:00:00,Donets'k|Kherson|Mykolayiv|Zaporizhzhya|Odessa|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kirovohrad
+2025-01-05T22:00:00,Kherson|Mykolayiv|Odessa|Vinnytsya|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kirovohrad|Kiev|Cherkasy
+2025-01-05T23:00:00,Vinnytsya|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kirovohrad|Kiev|Cherkasy|Zaporizhzhya|Zhytomyr
+2025-01-06T00:00:00,Kiev City|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kirovohrad|Kiev|Cherkasy|Zaporizhzhya|Zhytomyr|Kherson|Mykolayiv
+2025-01-06T01:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kirovohrad|Kiev|Cherkasy|Zaporizhzhya|Kherson|Donets'k
+2025-01-06T02:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kirovohrad|Kiev|Cherkasy|Kherson|Donets'k|Zhytomyr
+2025-01-06T03:00:00,Sumy|Kharkiv|Donets'k
+2025-01-06T04:00:00,Donets'k|Dnipropetrovs'k|Poltava|Kharkiv|Chernihiv|Sumy
+2025-01-06T05:00:00,
+2025-01-06T06:00:00,
+2025-01-06T07:00:00,Sumy|Poltava|Donets'k
+2025-01-06T08:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-01-06T09:00:00,Sumy|Donets'k
+2025-01-06T10:00:00,Sumy|Chernihiv|Kharkiv
+2025-01-06T11:00:00,Sumy|Chernihiv|Donets'k
+2025-01-06T12:00:00,Donets'k
+2025-01-06T13:00:00,Donets'k|Sumy
+2025-01-06T14:00:00,Donets'k|Sumy
+2025-01-06T15:00:00,Donets'k|Sumy
+2025-01-06T16:00:00,Sumy|Chernihiv
+2025-01-06T17:00:00,Sumy|Chernihiv
+2025-01-06T18:00:00,Sumy|Kherson|Mykolayiv
+2025-01-06T19:00:00,Sumy|Donets'k|Dnipropetrovs'k|Kirovohrad|Kherson|Mykolayiv|Kharkiv
+2025-01-06T20:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kherson|Mykolayiv|Kharkiv|Poltava
+2025-01-06T21:00:00,Sumy|Donets'k|Dnipropetrovs'k|Cherkasy|Kherson|Mykolayiv|Kharkiv|Poltava|Kirovohrad
+2025-01-06T22:00:00,Dnipropetrovs'k|Kherson|Mykolayiv|Kharkiv|Poltava|Kirovohrad
+2025-01-06T23:00:00,Kherson|Mykolayiv|Kharkiv|Poltava|Kirovohrad
+2025-01-07T00:00:00,Sumy|Kherson|Mykolayiv|Kharkiv|Poltava|Kirovohrad
+2025-01-07T01:00:00,Kharkiv|Poltava|Sumy
+2025-01-07T02:00:00,Kharkiv|Sumy
+2025-01-07T03:00:00,Kharkiv|Sumy
+2025-01-07T04:00:00,
+2025-01-07T05:00:00,
+2025-01-07T06:00:00,
+2025-01-07T07:00:00,
+2025-01-07T08:00:00,Donets'k
+2025-01-07T09:00:00,Donets'k|Sumy
+2025-01-07T10:00:00,Donets'k
+2025-01-07T11:00:00,
+2025-01-07T12:00:00,
+2025-01-07T13:00:00,
+2025-01-07T14:00:00,Donets'k
+2025-01-07T15:00:00,Donets'k|Sumy|Zaporizhzhya
+2025-01-07T16:00:00,Sumy|Zaporizhzhya|Donets'k
+2025-01-07T17:00:00,
+2025-01-07T18:00:00,
+2025-01-07T19:00:00,Kharkiv
+2025-01-07T20:00:00,Donets'k|Kharkiv|Chernihiv|Sumy
+2025-01-07T21:00:00,Donets'k|Kharkiv|Chernihiv|Sumy
+2025-01-07T22:00:00,Donets'k|Dnipropetrovs'k|Chernihiv|Sumy
+2025-01-07T23:00:00,Chernihiv|Sumy|Poltava|Kiev|Kharkiv
+2025-01-08T00:00:00,Kiev City|Zhytomyr|Chernihiv|Sumy|Poltava|Kiev|Kharkiv|Kherson|Mykolayiv|Dnipropetrovs'k
+2025-01-08T01:00:00,Chernihiv|Sumy|Poltava|Kiev|Kherson|Mykolayiv|Dnipropetrovs'k|Cherkasy|Kirovohrad
+2025-01-08T02:00:00,Chernihiv|Sumy|Poltava|Kiev|Dnipropetrovs'k|Cherkasy|Kirovohrad|Zhytomyr
+2025-01-08T03:00:00,Chernihiv|Poltava|Kiev|Cherkasy|Kirovohrad|Zhytomyr|Donets'k
+2025-01-08T04:00:00,Kiev|Kirovohrad|Donets'k|Dnipropetrovs'k|Poltava
+2025-01-08T05:00:00,Kiev|Zhytomyr
+2025-01-08T06:00:00,
+2025-01-08T07:00:00,
+2025-01-08T08:00:00,
+2025-01-08T09:00:00,Donets'k|Kiev City|Dnipropetrovs'k|Vinnytsya|Poltava|Cherkasy|Zaporizhzhya|Sumy|Volyn|Kherson|Chernihiv|Kiev|Kirovohrad|Khmel'nyts'kyy|Zhytomyr|Transcarpathia|L'viv|Ternopil'|Odessa|Ivano-Frankivs'k|Chernivtsi|Rivne|Mykolayiv|Kharkiv
+2025-01-08T10:00:00,Donets'k|Sumy|Kharkiv
+2025-01-08T11:00:00,Donets'k|Kharkiv
+2025-01-08T12:00:00,
+2025-01-08T13:00:00,
+2025-01-08T14:00:00,Donets'k|Zaporizhzhya
+2025-01-08T15:00:00,Donets'k|Sumy
+2025-01-08T16:00:00,Sumy
+2025-01-08T17:00:00,
+2025-01-08T18:00:00,Kharkiv
+2025-01-08T19:00:00,Kharkiv|Donets'k|Poltava|Chernihiv|Zaporizhzhya|Sumy
+2025-01-08T20:00:00,Kharkiv|Donets'k|Poltava|Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Mykolayiv|Kirovohrad|Cherkasy|Sumy
+2025-01-08T21:00:00,Kharkiv|Poltava|Chernihiv|Dnipropetrovs'k|Mykolayiv|Cherkasy|Kherson|Kiev|Sumy
+2025-01-08T22:00:00,Kharkiv|Poltava|Chernihiv|Dnipropetrovs'k|Cherkasy|Kiev|Kirovohrad|Sumy
+2025-01-08T23:00:00,Kharkiv|Poltava|Chernihiv|Dnipropetrovs'k|Cherkasy|Kiev|Sumy
+2025-01-09T00:00:00,Sumy|Dnipropetrovs'k
+2025-01-09T01:00:00,Dnipropetrovs'k
+2025-01-09T02:00:00,Dnipropetrovs'k|Kharkiv|Donets'k
+2025-01-09T03:00:00,Donets'k|Poltava|Sumy|Chernihiv|Kharkiv
+2025-01-09T04:00:00,
+2025-01-09T05:00:00,
+2025-01-09T06:00:00,
+2025-01-09T07:00:00,
+2025-01-09T08:00:00,Donets'k
+2025-01-09T09:00:00,Donets'k|Zaporizhzhya|Kherson|Mykolayiv
+2025-01-09T10:00:00,Donets'k|Zaporizhzhya|Sumy
+2025-01-09T11:00:00,Sumy
+2025-01-09T12:00:00,Sumy
+2025-01-09T13:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Donets'k|Poltava|Zaporizhzhya|Kirovohrad
+2025-01-09T14:00:00,Kharkiv|Donets'k
+2025-01-09T15:00:00,Donets'k|Sumy
+2025-01-09T16:00:00,Donets'k|Sumy|Kharkiv
+2025-01-09T17:00:00,
+2025-01-09T18:00:00,
+2025-01-09T19:00:00,Chernihiv|Sumy
+2025-01-09T20:00:00,Chernihiv|Donets'k|Sumy
+2025-01-09T21:00:00,Chernihiv|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya
+2025-01-09T22:00:00,Chernihiv|Donets'k|Kherson|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava
+2025-01-09T23:00:00,Chernihiv|Donets'k|Kherson|Kiev|Mykolayiv|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava
+2025-01-10T00:00:00,Chernihiv|Kiev|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kirovohrad|Donets'k
+2025-01-10T01:00:00,Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kirovohrad|Kiev
+2025-01-10T02:00:00,Poltava|Kirovohrad|Vinnytsya|Dnipropetrovs'k|Zaporizhzhya
+2025-01-10T03:00:00,Poltava|Kirovohrad|Vinnytsya|Dnipropetrovs'k|Kiev|Khmel'nyts'kyy|Chernivtsi|Kiev City
+2025-01-10T04:00:00,Kiev|Donets'k
+2025-01-10T05:00:00,Donets'k|Kiev
+2025-01-10T06:00:00,Kiev
+2025-01-10T07:00:00,
+2025-01-10T08:00:00,
+2025-01-10T09:00:00,Donets'k|Zaporizhzhya|Kherson|Mykolayiv
+2025-01-10T10:00:00,Donets'k
+2025-01-10T11:00:00,Donets'k
+2025-01-10T12:00:00,Kharkiv|Zaporizhzhya|Donets'k|Dnipropetrovs'k
+2025-01-10T13:00:00,
+2025-01-10T14:00:00,
+2025-01-10T15:00:00,Donets'k
+2025-01-10T16:00:00,Donets'k|Zaporizhzhya
+2025-01-10T17:00:00,Kherson|Mykolayiv|Kirovohrad
+2025-01-10T18:00:00,Zaporizhzhya|Dnipropetrovs'k|Kherson|Donets'k
+2025-01-10T19:00:00,Sumy|Chernihiv|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-01-10T20:00:00,Sumy|Chernihiv|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k|Poltava
+2025-01-10T21:00:00,Sumy|Chernihiv|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Cherkasy|Kirovohrad
+2025-01-10T22:00:00,Sumy|Chernihiv|Zaporizhzhya|Kiev|Mykolayiv|Kherson|Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Cherkasy|Kirovohrad
+2025-01-10T23:00:00,Sumy|Zaporizhzhya|Kiev|Mykolayiv|Kherson|Zhytomyr|Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Cherkasy|Kirovohrad
+2025-01-11T00:00:00,Zaporizhzhya|Kiev|Mykolayiv|Kherson|Zhytomyr|Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Cherkasy|Kirovohrad
+2025-01-11T01:00:00,Dnipropetrovs'k|Poltava|Cherkasy|Kirovohrad|Kherson
+2025-01-11T02:00:00,Dnipropetrovs'k|Poltava|Kherson
+2025-01-11T03:00:00,Poltava|Kherson|Kirovohrad
+2025-01-11T04:00:00,
+2025-01-11T05:00:00,
+2025-01-11T06:00:00,
+2025-01-11T07:00:00,
+2025-01-11T08:00:00,
+2025-01-11T09:00:00,Sumy
+2025-01-11T10:00:00,Sumy|Poltava|Kharkiv|Chernihiv|Cherkasy|Kiev|Kirovohrad
+2025-01-11T11:00:00,Donets'k
+2025-01-11T12:00:00,
+2025-01-11T13:00:00,
+2025-01-11T14:00:00,
+2025-01-11T15:00:00,Sumy|Donets'k
+2025-01-11T16:00:00,Sumy|Donets'k|Chernihiv|Dnipropetrovs'k
+2025-01-11T17:00:00,Sumy|Chernihiv|Kiev
+2025-01-11T18:00:00,Sumy|Chernihiv|Donets'k|Poltava|Kiev|Kharkiv
+2025-01-11T19:00:00,Sumy|Chernihiv|Donets'k|Poltava|Zaporizhzhya|Kiev|Kharkiv|Dnipropetrovs'k
+2025-01-11T20:00:00,Sumy|Chernihiv|Donets'k|Poltava|Zaporizhzhya|Kiev|Kharkiv|Dnipropetrovs'k
+2025-01-11T21:00:00,Sumy|Chernihiv|Poltava|Zaporizhzhya|Zhytomyr|Kirovohrad|Kiev|Kharkiv|Dnipropetrovs'k
+2025-01-11T22:00:00,Sumy|Chernihiv|Poltava|Zaporizhzhya|Zhytomyr|Kirovohrad|Kiev|Kharkiv|Dnipropetrovs'k
+2025-01-11T23:00:00,Sumy|Chernihiv|Poltava|Zhytomyr|Kirovohrad|Khmel'nyts'kyy|Kiev|Kharkiv|Dnipropetrovs'k|Kiev City
+2025-01-12T00:00:00,Sumy|Zhytomyr|Kiev|Kharkiv|Dnipropetrovs'k|Kiev City
+2025-01-12T01:00:00,Dnipropetrovs'k|Kirovohrad|Poltava
+2025-01-12T02:00:00,Dnipropetrovs'k|Kirovohrad|Mykolayiv
+2025-01-12T03:00:00,Sumy
+2025-01-12T04:00:00,
+2025-01-12T05:00:00,
+2025-01-12T06:00:00,
+2025-01-12T07:00:00,
+2025-01-12T08:00:00,Sumy|Kharkiv|Poltava|Dnipropetrovs'k
+2025-01-12T09:00:00,Sumy|Zaporizhzhya|Kiev City
+2025-01-12T10:00:00,Sumy|Donets'k|Chernihiv|Zaporizhzhya|Kiev|Dnipropetrovs'k|Cherkasy|Poltava|Kirovohrad|Kharkiv
+2025-01-12T11:00:00,Sumy|Donets'k|Chernihiv
+2025-01-12T12:00:00,Sumy|Donets'k|Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Poltava|Cherkasy|Kirovohrad|Mykolayiv|Kherson|Kiev City|Odessa|Kiev|Zhytomyr|Khmel'nyts'kyy|Transcarpathia|Vinnytsya|Chernivtsi|Ternopil'|Rivne|Ivano-Frankivs'k|L'viv|Volyn|Kharkiv
+2025-01-12T13:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad
+2025-01-12T14:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad|Kherson|Mykolayiv|Sumy
+2025-01-12T15:00:00,Poltava|Kirovohrad|Sumy|Chernihiv|Dnipropetrovs'k|Mykolayiv
+2025-01-12T16:00:00,Kirovohrad|Sumy|Chernihiv|Mykolayiv
+2025-01-12T17:00:00,Kirovohrad|Mykolayiv|Kherson|Donets'k|Chernihiv|Poltava|Kharkiv
+2025-01-12T18:00:00,Donets'k|Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv|Sumy
+2025-01-12T19:00:00,Donets'k|Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv|Sumy
+2025-01-12T20:00:00,Donets'k|Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv|Sumy|Kirovohrad|Kiev
+2025-01-12T21:00:00,Donets'k|Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv|Sumy|Kirovohrad|Kiev|Zhytomyr
+2025-01-12T22:00:00,Donets'k|Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Khmel'nyts'kyy|Mykolayiv|Poltava|Kharkiv|Sumy|Kirovohrad|Kiev|Zhytomyr
+2025-01-12T23:00:00,Poltava|Kharkiv|Sumy|Kirovohrad|Kiev|Zhytomyr
+2025-01-13T00:00:00,Poltava|Kharkiv|Sumy|Kirovohrad|Kiev|Zhytomyr|Mykolayiv
+2025-01-13T01:00:00,Poltava|Kharkiv|Sumy|Kirovohrad|Mykolayiv|Dnipropetrovs'k
+2025-01-13T02:00:00,Kharkiv|Sumy|Kirovohrad|Mykolayiv
+2025-01-13T03:00:00,Sumy|Kirovohrad|Mykolayiv|Vinnytsya
+2025-01-13T04:00:00,Vinnytsya
+2025-01-13T05:00:00,
+2025-01-13T06:00:00,
+2025-01-13T07:00:00,
+2025-01-13T08:00:00,Sumy
+2025-01-13T09:00:00,Sumy|Chernihiv
+2025-01-13T10:00:00,Sumy|Chernihiv|Poltava|Kiev|Kharkiv|Cherkasy
+2025-01-13T11:00:00,Sumy|Donets'k|Poltava
+2025-01-13T12:00:00,Sumy|Donets'k|Poltava
+2025-01-13T13:00:00,Donets'k|Poltava|Kirovohrad|Chernihiv|Sumy
+2025-01-13T14:00:00,Sumy
+2025-01-13T15:00:00,Chernihiv|Kherson|Mykolayiv|Poltava|Sumy
+2025-01-13T16:00:00,Chernihiv|Kherson|Mykolayiv|Poltava|Donets'k|Kiev|Sumy
+2025-01-13T17:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kiev|Poltava|Zhytomyr|Kirovohrad|Chernihiv|Kiev City|Vinnytsya|Kharkiv|Sumy
+2025-01-13T18:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kiev|Poltava|Zhytomyr|Kirovohrad|Chernihiv|Kiev City|Vinnytsya|Kharkiv|Sumy
+2025-01-13T19:00:00,Kharkiv|Donets'k|Sumy|Poltava
+2025-01-13T20:00:00,Kharkiv|Donets'k|Zaporizhzhya|Sumy|Poltava|Dnipropetrovs'k|Kirovohrad
+2025-01-13T21:00:00,Kharkiv|Donets'k|Zaporizhzhya|Kherson|Mykolayiv|Sumy|Poltava|Dnipropetrovs'k|Kirovohrad|Kiev|Chernihiv
+2025-01-13T22:00:00,Kharkiv|Donets'k|Zaporizhzhya|Kherson|Mykolayiv|Kiev City|Sumy|Poltava|Dnipropetrovs'k|Kirovohrad|Kiev|Chernihiv|Zhytomyr
+2025-01-13T23:00:00,Kharkiv|Donets'k|Zaporizhzhya|Kherson|Mykolayiv|Kiev City|Odessa|Sumy|Poltava|Dnipropetrovs'k|Kirovohrad|Kiev|Chernihiv|Zhytomyr
+2025-01-14T00:00:00,Sumy|Poltava|Dnipropetrovs'k|Kirovohrad|Kiev|Chernihiv|Zhytomyr
+2025-01-14T01:00:00,Sumy|Poltava|Dnipropetrovs'k|Kirovohrad|Kiev|Chernihiv
+2025-01-14T02:00:00,Dnipropetrovs'k|Kiev|Chernihiv|Kharkiv|Sumy
+2025-01-14T03:00:00,Chernihiv|Sumy|Kherson|Mykolayiv|Donets'k|Poltava|Dnipropetrovs'k
+2025-01-14T04:00:00,Sumy|Donets'k|Poltava|Dnipropetrovs'k
+2025-01-14T05:00:00,Poltava
+2025-01-14T06:00:00,Poltava
+2025-01-14T07:00:00,Sumy|Donets'k
+2025-01-14T08:00:00,Sumy|Donets'k
+2025-01-14T09:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k
+2025-01-14T10:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Poltava|Donets'k
+2025-01-14T11:00:00,Sumy|Dnipropetrovs'k|Poltava|Chernihiv|Zaporizhzhya
+2025-01-14T12:00:00,Dnipropetrovs'k|Poltava|Kirovohrad
+2025-01-14T13:00:00,Poltava|Kirovohrad|Sumy
+2025-01-14T14:00:00,Sumy|Donets'k
+2025-01-14T15:00:00,Sumy|Donets'k|Kharkiv
+2025-01-14T16:00:00,Sumy|Donets'k|Kharkiv|Poltava|Chernihiv|Kiev
+2025-01-14T17:00:00,
+2025-01-14T18:00:00,Kharkiv
+2025-01-14T19:00:00,Chernihiv|Donets'k|Kherson|Mykolayiv|Kharkiv|Sumy
+2025-01-14T20:00:00,Chernihiv|Donets'k|Kherson|Mykolayiv|Kirovohrad|Kiev|Kharkiv|Sumy|Dnipropetrovs'k|Poltava
+2025-01-14T21:00:00,Chernihiv|Donets'k|Kirovohrad|Kiev|Zaporizhzhya|Kharkiv|Sumy|Dnipropetrovs'k|Poltava
+2025-01-14T22:00:00,Chernihiv|Kirovohrad|Kiev|Zhytomyr|Kharkiv|Sumy|Dnipropetrovs'k|Poltava
+2025-01-14T23:00:00,Chernihiv|Kirovohrad|Kiev|Zhytomyr|Kiev City|Kharkiv|Sumy|Dnipropetrovs'k|Poltava|Khmel'nyts'kyy
+2025-01-15T00:00:00,Chernihiv|Kirovohrad|Rivne|Kharkiv|Sumy|Dnipropetrovs'k|Poltava|Khmel'nyts'kyy|Ternopil'|L'viv|Volyn
+2025-01-15T01:00:00,Kharkiv|Donets'k
+2025-01-15T02:00:00,Sumy
+2025-01-15T03:00:00,Sumy|Donets'k
+2025-01-15T04:00:00,Sumy|Donets'k|Kiev City|Dnipropetrovs'k|Poltava|Cherkasy|Zaporizhzhya|Kirovohrad|Chernihiv|Vinnytsya|Zhytomyr|Kharkiv|Kiev
+2025-01-15T05:00:00,Sumy|Donets'k|Kiev City|Dnipropetrovs'k|Poltava|Cherkasy|Zaporizhzhya|Kirovohrad|Chernihiv|Vinnytsya|Zhytomyr|Kharkiv|Kiev|Odessa|Kherson|Mykolayiv|Rivne|Chernivtsi|Ivano-Frankivs'k|Ternopil'|L'viv|Transcarpathia|Volyn|Khmel'nyts'kyy
+2025-01-15T06:00:00,Sumy|Donets'k|Kiev City|Dnipropetrovs'k|Poltava|Cherkasy|Zaporizhzhya|Kirovohrad|Chernihiv|Vinnytsya|Zhytomyr|Kharkiv|Kiev|Odessa|Kherson|Mykolayiv|Rivne|Chernivtsi|Ivano-Frankivs'k|Ternopil'|L'viv|Transcarpathia|Volyn|Khmel'nyts'kyy
+2025-01-15T07:00:00,Zaporizhzhya|Donets'k
+2025-01-15T08:00:00,Zaporizhzhya|Donets'k|Sumy
+2025-01-15T09:00:00,Zaporizhzhya|Donets'k|Sumy
+2025-01-15T10:00:00,Donets'k|Sumy
+2025-01-15T11:00:00,
+2025-01-15T12:00:00,
+2025-01-15T13:00:00,Donets'k
+2025-01-15T14:00:00,Donets'k|Sumy
+2025-01-15T15:00:00,Donets'k|Sumy
+2025-01-15T16:00:00,Donets'k
+2025-01-15T17:00:00,
+2025-01-15T18:00:00,Sumy
+2025-01-15T19:00:00,Sumy|Donets'k|Chernihiv|Kharkiv|Dnipropetrovs'k
+2025-01-15T20:00:00,Sumy|Donets'k|Chernihiv|Kharkiv|Dnipropetrovs'k|Poltava|Kherson
+2025-01-15T21:00:00,Sumy|Donets'k|Chernihiv|Kharkiv|Dnipropetrovs'k|Poltava|Kherson|Mykolayiv|Kirovohrad|Kiev
+2025-01-15T22:00:00,Sumy|Donets'k|Chernihiv|Dnipropetrovs'k|Poltava|Kherson|Mykolayiv|Kirovohrad|Zaporizhzhya|Odessa|Kiev
+2025-01-15T23:00:00,Sumy|Donets'k|Poltava|Kirovohrad|Kiev|Zhytomyr
+2025-01-16T00:00:00,Kiev|Zhytomyr
+2025-01-16T01:00:00,Zhytomyr
+2025-01-16T02:00:00,Zhytomyr|Donets'k|Sumy|Khmel'nyts'kyy
+2025-01-16T03:00:00,Donets'k|Khmel'nyts'kyy|Dnipropetrovs'k
+2025-01-16T04:00:00,Sumy
+2025-01-16T05:00:00,
+2025-01-16T06:00:00,
+2025-01-16T07:00:00,Donets'k
+2025-01-16T08:00:00,Donets'k|Sumy
+2025-01-16T09:00:00,Donets'k|Sumy|Chernihiv|Poltava|Kharkiv
+2025-01-16T10:00:00,Donets'k|Sumy|Chernihiv|Kharkiv|Kiev
+2025-01-16T11:00:00,Sumy|Kharkiv|Kiev
+2025-01-16T12:00:00,Kharkiv|Dnipropetrovs'k
+2025-01-16T13:00:00,Kharkiv
+2025-01-16T14:00:00,Kharkiv|Donets'k|Poltava|Sumy
+2025-01-16T15:00:00,Donets'k|Sumy|Dnipropetrovs'k|Chernihiv
+2025-01-16T16:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv|Mykolayiv|Chernihiv
+2025-01-16T17:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv|Mykolayiv|Zaporizhzhya|Kherson|Chernihiv|Poltava
+2025-01-16T18:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv|Mykolayiv|Zaporizhzhya|Kherson|Kirovohrad|Chernihiv|Poltava
+2025-01-16T19:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv|Mykolayiv|Zaporizhzhya|Kherson|Kirovohrad|Kiev|Chernihiv|Poltava
+2025-01-16T20:00:00,Sumy|Dnipropetrovs'k|Kharkiv|Mykolayiv|Kirovohrad|Kiev|Vinnytsya|Odessa|Zaporizhzhya|Donets'k|Kherson|Chernihiv|Poltava
+2025-01-16T21:00:00,Sumy|Kharkiv|Mykolayiv|Kirovohrad|Kiev|Vinnytsya|Odessa|Zhytomyr|Kiev City|Khmel'nyts'kyy|Chernivtsi|Chernihiv|Poltava
+2025-01-16T22:00:00,Kiev|Vinnytsya|Zhytomyr|Khmel'nyts'kyy|Chernivtsi|Chernihiv|Poltava
+2025-01-16T23:00:00,Vinnytsya|Zhytomyr|Khmel'nyts'kyy|Chernivtsi|Ternopil'|Chernihiv|Poltava|Odessa
+2025-01-17T00:00:00,Khmel'nyts'kyy|Chernihiv|Poltava|Odessa
+2025-01-17T01:00:00,Poltava|Odessa|Chernihiv
+2025-01-17T02:00:00,Chernihiv|Dnipropetrovs'k|Kharkiv
+2025-01-17T03:00:00,Chernihiv|Dnipropetrovs'k|Kharkiv|Poltava|Sumy
+2025-01-17T04:00:00,Chernihiv|Dnipropetrovs'k|Kharkiv|Poltava|Sumy
+2025-01-17T05:00:00,Chernihiv|Poltava
+2025-01-17T06:00:00,Kharkiv
+2025-01-17T07:00:00,Dnipropetrovs'k
+2025-01-17T08:00:00,Dnipropetrovs'k
+2025-01-17T09:00:00,
+2025-01-17T10:00:00,
+2025-01-17T11:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kherson|Cherkasy|Kirovohrad|Odessa|Mykolayiv|Donets'k|Kharkiv
+2025-01-17T12:00:00,
+2025-01-17T13:00:00,
+2025-01-17T14:00:00,Kharkiv|Sumy
+2025-01-17T15:00:00,
+2025-01-17T16:00:00,
+2025-01-17T17:00:00,
+2025-01-17T18:00:00,Kharkiv|Sumy|Poltava
+2025-01-17T19:00:00,Kharkiv|Donets'k|Sumy|Poltava|Dnipropetrovs'k
+2025-01-17T20:00:00,Kharkiv|Donets'k|Kirovohrad|Sumy|Poltava|Dnipropetrovs'k
+2025-01-17T21:00:00,Kharkiv|Donets'k|Kirovohrad|Kherson|Mykolayiv|Zaporizhzhya|Sumy|Poltava|Dnipropetrovs'k|Chernihiv
+2025-01-17T22:00:00,Kharkiv|Donets'k|Kirovohrad|Kherson|Mykolayiv|Zaporizhzhya|Odessa|Sumy|Poltava|Dnipropetrovs'k|Chernihiv|Kiev
+2025-01-17T23:00:00,Kirovohrad|Kherson|Mykolayiv|Odessa|Kiev City|Sumy|Poltava|Dnipropetrovs'k|Chernihiv|Kiev|Kharkiv|Zhytomyr
+2025-01-18T00:00:00,Kiev City|Sumy|Poltava|Dnipropetrovs'k|Chernihiv|Kiev|Kharkiv|Zhytomyr
+2025-01-18T01:00:00,Sumy|Poltava|Dnipropetrovs'k|Chernihiv|Kiev|Kharkiv|Zhytomyr|Khmel'nyts'kyy
+2025-01-18T02:00:00,Sumy|Poltava|Chernihiv|Kiev|Dnipropetrovs'k
+2025-01-18T03:00:00,Sumy|Poltava|Chernihiv|Kiev|Khmel'nyts'kyy|Vinnytsya|Kiev City
+2025-01-18T04:00:00,Chernihiv|Kiev|Poltava|Zaporizhzhya|Dnipropetrovs'k|Zhytomyr|Kirovohrad|Kiev City|Sumy|Vinnytsya|Donets'k|Kharkiv
+2025-01-18T05:00:00,Chernihiv|Kiev|Poltava|Zaporizhzhya|Dnipropetrovs'k|Zhytomyr|Kirovohrad|Kiev City|Sumy|Vinnytsya|Donets'k|Kharkiv
+2025-01-18T06:00:00,
+2025-01-18T07:00:00,Kiev|Zhytomyr
+2025-01-18T08:00:00,Donets'k|Sumy
+2025-01-18T09:00:00,Donets'k|Sumy|Zaporizhzhya
+2025-01-18T10:00:00,Donets'k|Kharkiv
+2025-01-18T11:00:00,
+2025-01-18T12:00:00,Sumy
+2025-01-18T13:00:00,Donets'k
+2025-01-18T14:00:00,Sumy|Donets'k
+2025-01-18T15:00:00,Sumy|Donets'k
+2025-01-18T16:00:00,Sumy|Poltava|Zaporizhzhya|Kharkiv|Cherkasy|Dnipropetrovs'k|Kirovohrad|Chernihiv|Donets'k
+2025-01-18T17:00:00,Poltava
+2025-01-18T18:00:00,Kharkiv
+2025-01-18T19:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-01-18T20:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kiev City|Sumy|Kirovohrad|Chernihiv|Kiev|Cherkasy|Kherson|Kharkiv
+2025-01-18T21:00:00,Dnipropetrovs'k|Poltava|Sumy|Chernihiv|Kherson|Mykolayiv|Kharkiv
+2025-01-18T22:00:00,Dnipropetrovs'k|Poltava|Sumy|Chernihiv|Kiev|Zaporizhzhya|Kharkiv
+2025-01-18T23:00:00,Poltava|Sumy|Chernihiv|Kiev|Zhytomyr|Kharkiv
+2025-01-19T00:00:00,Kiev|Kharkiv|Sumy|Zhytomyr
+2025-01-19T01:00:00,Kharkiv|Sumy|Zhytomyr|Poltava|Chernihiv|Dnipropetrovs'k|Rivne|Khmel'nyts'kyy
+2025-01-19T02:00:00,Kharkiv|Sumy|Zhytomyr|Poltava|Chernihiv|Dnipropetrovs'k|Rivne|Khmel'nyts'kyy|Kiev|Zaporizhzhya|Kirovohrad
+2025-01-19T03:00:00,Kharkiv|Sumy|Zhytomyr|Poltava|Chernihiv|Rivne|Khmel'nyts'kyy|Kiev
+2025-01-19T04:00:00,Sumy|Zhytomyr|Poltava|Chernihiv|Kiev|Dnipropetrovs'k
+2025-01-19T05:00:00,Zhytomyr|Chernihiv|Kiev|Sumy|Poltava
+2025-01-19T06:00:00,Zhytomyr|Chernihiv|Kiev|Poltava
+2025-01-19T07:00:00,Kiev|Khmel'nyts'kyy
+2025-01-19T08:00:00,
+2025-01-19T09:00:00,Donets'k|Sumy
+2025-01-19T10:00:00,Donets'k|Kharkiv|Zaporizhzhya|Chernihiv|Poltava|Sumy
+2025-01-19T11:00:00,Chernihiv|Poltava|Kiev|Dnipropetrovs'k|Sumy
+2025-01-19T12:00:00,Poltava|Dnipropetrovs'k|Zaporizhzhya|Sumy
+2025-01-19T13:00:00,Donets'k|Kharkiv|Sumy
+2025-01-19T14:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Kiev City|Kirovohrad|Kiev|Cherkasy|Chernihiv|Sumy|Poltava
+2025-01-19T15:00:00,Donets'k|Sumy|Poltava
+2025-01-19T16:00:00,Donets'k|Zaporizhzhya|Kiev|Sumy|Poltava|Chernihiv|Kharkiv
+2025-01-19T17:00:00,Sumy|Poltava|Chernihiv|Kharkiv
+2025-01-19T18:00:00,Sumy|Poltava|Chernihiv|Kharkiv
+2025-01-19T19:00:00,Dnipropetrovs'k|Donets'k|Sumy|Poltava|Chernihiv|Kharkiv|Kiev
+2025-01-19T20:00:00,Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Sumy|Poltava|Chernihiv|Kharkiv|Kiev
+2025-01-19T21:00:00,Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Kirovohrad|Sumy|Poltava|Chernihiv|Kharkiv|Kiev
+2025-01-19T22:00:00,Donets'k|Kherson|Mykolayiv|Kirovohrad|Sumy|Poltava|Chernihiv|Kharkiv|Kiev
+2025-01-19T23:00:00,Kherson|Mykolayiv|Kirovohrad|Sumy|Poltava|Chernihiv|Kharkiv|Kiev
+2025-01-20T00:00:00,Sumy|Poltava|Chernihiv|Kharkiv|Kiev|Kirovohrad|Vinnytsya|Kiev City|Zaporizhzhya|Donets'k|Zhytomyr|Dnipropetrovs'k
+2025-01-20T01:00:00,Sumy|Poltava|Chernihiv|Kharkiv|Kiev|Kirovohrad|Dnipropetrovs'k
+2025-01-20T02:00:00,Sumy|Poltava|Chernihiv|Kiev
+2025-01-20T03:00:00,Sumy|Poltava|Chernihiv|Kiev|Kharkiv|Donets'k
+2025-01-20T04:00:00,Sumy|Donets'k
+2025-01-20T05:00:00,Kharkiv
+2025-01-20T06:00:00,Kharkiv
+2025-01-20T07:00:00,Donets'k
+2025-01-20T08:00:00,Donets'k|Sumy
+2025-01-20T09:00:00,Donets'k|Sumy|Kharkiv|Zaporizhzhya|Odessa|Dnipropetrovs'k
+2025-01-20T10:00:00,Donets'k|Sumy|Odessa|Zaporizhzhya|Dnipropetrovs'k|Kherson|Kirovohrad|Poltava|Mykolayiv|Kharkiv|Cherkasy|Kiev|Chernihiv|Kiev City
+2025-01-20T11:00:00,Odessa
+2025-01-20T12:00:00,
+2025-01-20T13:00:00,
+2025-01-20T14:00:00,Sumy|Donets'k
+2025-01-20T15:00:00,Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv
+2025-01-20T16:00:00,Sumy|Kharkiv
+2025-01-20T17:00:00,
+2025-01-20T18:00:00,
+2025-01-20T19:00:00,Kharkiv|Donets'k|Dnipropetrovs'k
+2025-01-20T20:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava|Sumy|Chernihiv|Kirovohrad
+2025-01-20T21:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Mykolayiv|Kherson|Poltava|Sumy|Chernihiv|Kirovohrad|Kiev
+2025-01-20T22:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Mykolayiv|Kherson|Odessa|Kiev City|Poltava|Sumy|Chernihiv|Kirovohrad|Kiev
+2025-01-20T23:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Odessa|Kiev City|Poltava|Sumy|Chernihiv|Kirovohrad|Kiev|Vinnytsya|Zhytomyr
+2025-01-21T00:00:00,Poltava|Sumy|Chernihiv|Kirovohrad|Kiev|Vinnytsya|Zhytomyr|Chernivtsi|Khmel'nyts'kyy
+2025-01-21T01:00:00,Poltava|Sumy|Chernihiv|Kirovohrad|Kiev|Vinnytsya|Zhytomyr|Khmel'nyts'kyy|Ternopil'|Donets'k|Rivne
+2025-01-21T02:00:00,Poltava|Sumy|Kiev|Khmel'nyts'kyy|Donets'k|Kherson|Kharkiv|Mykolayiv|Dnipropetrovs'k|Kirovohrad
+2025-01-21T03:00:00,Poltava|Sumy|Kiev|Donets'k|Kherson|Kharkiv|Mykolayiv|Dnipropetrovs'k|Kirovohrad|Odessa|Chernihiv
+2025-01-21T04:00:00,Sumy|Kiev|Donets'k|Chernihiv|Zaporizhzhya
+2025-01-21T05:00:00,Kharkiv
+2025-01-21T06:00:00,
+2025-01-21T07:00:00,
+2025-01-21T08:00:00,Sumy|Donets'k
+2025-01-21T09:00:00,Sumy|Donets'k|Kharkiv
+2025-01-21T10:00:00,Sumy|Donets'k|Kharkiv
+2025-01-21T11:00:00,Sumy
+2025-01-21T12:00:00,
+2025-01-21T13:00:00,
+2025-01-21T14:00:00,Donets'k|Sumy
+2025-01-21T15:00:00,Donets'k|Sumy
+2025-01-21T16:00:00,Donets'k|Sumy|Zaporizhzhya|Kharkiv
+2025-01-21T17:00:00,Sumy|Chernihiv
+2025-01-21T18:00:00,Sumy|Kharkiv|Kiev City|Poltava|Chernihiv|Kiev
+2025-01-21T19:00:00,Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Chernihiv|Kiev
+2025-01-21T20:00:00,Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Zaporizhzhya|Kirovohrad|Chernihiv|Kiev
+2025-01-21T21:00:00,Sumy|Kharkiv|Poltava|Donets'k|Kherson|Mykolayiv|Kirovohrad|Odessa|Chernihiv|Kiev|Cherkasy
+2025-01-21T22:00:00,Sumy|Kharkiv|Poltava|Donets'k|Kirovohrad|Chernihiv|Kiev|Cherkasy|Zhytomyr
+2025-01-21T23:00:00,Sumy|Poltava|Kirovohrad|Kharkiv|Chernihiv|Kiev|Cherkasy|Zhytomyr|Vinnytsya
+2025-01-22T00:00:00,Chernihiv|Kiev|Cherkasy|Zhytomyr|Vinnytsya|Khmel'nyts'kyy|Kherson|Mykolayiv
+2025-01-22T01:00:00,Zhytomyr|Khmel'nyts'kyy|Mykolayiv|Kirovohrad|Sumy
+2025-01-22T02:00:00,Khmel'nyts'kyy|Sumy|Donets'k|Rivne
+2025-01-22T03:00:00,Khmel'nyts'kyy|Sumy|Donets'k|Rivne|Ternopil'
+2025-01-22T04:00:00,Donets'k
+2025-01-22T05:00:00,
+2025-01-22T06:00:00,
+2025-01-22T07:00:00,Donets'k|Sumy
+2025-01-22T08:00:00,Donets'k|Sumy|Kharkiv
+2025-01-22T09:00:00,Donets'k|Sumy|Kharkiv
+2025-01-22T10:00:00,Donets'k
+2025-01-22T11:00:00,
+2025-01-22T12:00:00,
+2025-01-22T13:00:00,Sumy
+2025-01-22T14:00:00,Sumy|Donets'k
+2025-01-22T15:00:00,Sumy|Donets'k|Kherson
+2025-01-22T16:00:00,Kharkiv
+2025-01-22T17:00:00,Kharkiv|Dnipropetrovs'k
+2025-01-22T18:00:00,Kharkiv|Dnipropetrovs'k|Donets'k|Zaporizhzhya|Sumy|Kherson|Mykolayiv
+2025-01-22T19:00:00,Kharkiv|Dnipropetrovs'k|Donets'k|Zaporizhzhya|Sumy|Kherson|Mykolayiv|Poltava|Kirovohrad|Chernihiv
+2025-01-22T20:00:00,Kharkiv|Dnipropetrovs'k|Donets'k|Zaporizhzhya|Sumy|Kherson|Mykolayiv|Poltava|Kirovohrad|Chernihiv|Odessa
+2025-01-22T21:00:00,Kharkiv|Dnipropetrovs'k|Donets'k|Zaporizhzhya|Sumy|Kherson|Mykolayiv|Poltava|Kirovohrad|Chernihiv
+2025-01-22T22:00:00,Kharkiv|Dnipropetrovs'k|Donets'k|Zaporizhzhya|Sumy|Kherson|Poltava|Kirovohrad|Chernihiv|Mykolayiv
+2025-01-22T23:00:00,Kherson|Mykolayiv
+2025-01-23T00:00:00,
+2025-01-23T01:00:00,Sumy|Poltava|Chernihiv
+2025-01-23T02:00:00,Sumy|Poltava|Chernihiv|Donets'k|Kiev City|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Cherkasy|Kirovohrad|Kiev
+2025-01-23T03:00:00,Sumy|Poltava|Chernihiv|Donets'k|Kharkiv|Kiev
+2025-01-23T04:00:00,Sumy|Poltava|Chernihiv|Donets'k|Kharkiv|Kiev
+2025-01-23T05:00:00,Chernihiv|Kiev|Kiev City|Zhytomyr
+2025-01-23T06:00:00,Kiev|Zhytomyr
+2025-01-23T07:00:00,Zhytomyr|Sumy
+2025-01-23T08:00:00,Zhytomyr|Sumy|Kiev|Chernihiv|Donets'k
+2025-01-23T09:00:00,Zhytomyr|Sumy|Chernihiv|Donets'k
+2025-01-23T10:00:00,Zhytomyr|Sumy|Donets'k|Kharkiv
+2025-01-23T11:00:00,Sumy|Kiev|Chernihiv
+2025-01-23T12:00:00,Sumy|Poltava
+2025-01-23T13:00:00,Poltava|Chernihiv
+2025-01-23T14:00:00,Poltava|Chernihiv|Sumy|Kirovohrad
+2025-01-23T15:00:00,Sumy|Kirovohrad|Donets'k|Kharkiv|Zaporizhzhya|Poltava|Dnipropetrovs'k|Kherson|Mykolayiv|Cherkasy
+2025-01-23T16:00:00,Sumy|Donets'k|Poltava|Zaporizhzhya
+2025-01-23T17:00:00,Sumy|Poltava|Dnipropetrovs'k
+2025-01-23T18:00:00,
+2025-01-23T19:00:00,
+2025-01-23T20:00:00,Kharkiv|Chernihiv|Sumy
+2025-01-23T21:00:00,Kharkiv|Chernihiv|Sumy
+2025-01-23T22:00:00,Kharkiv|Sumy|Poltava
+2025-01-23T23:00:00,Kharkiv|Sumy|Poltava|Chernihiv|Kherson|Mykolayiv
+2025-01-24T00:00:00,Sumy|Poltava|Chernihiv|Kherson|Mykolayiv|Dnipropetrovs'k|Kiev|Kirovohrad
+2025-01-24T01:00:00,Sumy|Poltava|Chernihiv|Kiev|Kirovohrad|Kiev City|Vinnytsya
+2025-01-24T02:00:00,Sumy|Chernihiv|Kiev|Vinnytsya|Khmel'nyts'kyy
+2025-01-24T03:00:00,Sumy|Kiev|Khmel'nyts'kyy|Rivne|Ternopil'|L'viv
+2025-01-24T04:00:00,Sumy|Kiev|Khmel'nyts'kyy|Rivne|Ternopil'|L'viv|Kharkiv
+2025-01-24T05:00:00,Kiev
+2025-01-24T06:00:00,Kiev
+2025-01-24T07:00:00,Kiev
+2025-01-24T08:00:00,Kiev|Sumy|Zaporizhzhya|Donets'k|Dnipropetrovs'k
+2025-01-24T09:00:00,Kiev|Sumy|Donets'k
+2025-01-24T10:00:00,Sumy
+2025-01-24T11:00:00,Sumy
+2025-01-24T12:00:00,
+2025-01-24T13:00:00,
+2025-01-24T14:00:00,Sumy
+2025-01-24T15:00:00,Sumy|Chernihiv
+2025-01-24T16:00:00,Sumy|Kharkiv|Chernihiv
+2025-01-24T17:00:00,Sumy|Kharkiv|Chernihiv|Kherson|Mykolayiv|Zaporizhzhya|Donets'k|Poltava|Dnipropetrovs'k|Cherkasy|Kirovohrad|Vinnytsya|Odessa
+2025-01-24T18:00:00,Dnipropetrovs'k|Kharkiv|Donets'k|Poltava|Kirovohrad|Zaporizhzhya|Cherkasy|Kiev|Chernihiv|Vinnytsya|Sumy
+2025-01-24T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy
+2025-01-24T20:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Sumy|Poltava|Kirovohrad|Chernihiv
+2025-01-24T21:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Kherson|Mykolayiv|Sumy|Poltava|Kirovohrad|Chernihiv
+2025-01-24T22:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Kherson|Mykolayiv|Sumy|Poltava|Kirovohrad|Chernihiv|Kiev
+2025-01-24T23:00:00,Kharkiv|Mykolayiv|Sumy|Poltava|Kirovohrad|Chernihiv|Kiev
+2025-01-25T00:00:00,Sumy|Poltava|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Khmel'nyts'kyy
+2025-01-25T01:00:00,Sumy|Kiev|Vinnytsya|Khmel'nyts'kyy|Kiev City
+2025-01-25T02:00:00,Sumy
+2025-01-25T03:00:00,Sumy|Kharkiv
+2025-01-25T04:00:00,Sumy
+2025-01-25T05:00:00,
+2025-01-25T06:00:00,Kiev
+2025-01-25T07:00:00,Sumy
+2025-01-25T08:00:00,Sumy
+2025-01-25T09:00:00,Sumy|Zaporizhzhya
+2025-01-25T10:00:00,Sumy
+2025-01-25T11:00:00,
+2025-01-25T12:00:00,Kharkiv
+2025-01-25T13:00:00,Sumy
+2025-01-25T14:00:00,Sumy|Kharkiv|Donets'k
+2025-01-25T15:00:00,Sumy|Kharkiv|Donets'k
+2025-01-25T16:00:00,Sumy
+2025-01-25T17:00:00,Sumy
+2025-01-25T18:00:00,Sumy
+2025-01-25T19:00:00,Kharkiv|Kherson|Sumy
+2025-01-25T20:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Sumy|Poltava
+2025-01-25T21:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kherson|Mykolayiv|Kirovohrad|Sumy|Poltava
+2025-01-25T22:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kherson|Mykolayiv|Kirovohrad|Sumy|Poltava|Chernihiv|Odessa
+2025-01-25T23:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kherson|Mykolayiv|Kirovohrad|Sumy|Poltava|Chernihiv|Odessa|Kiev
+2025-01-26T00:00:00,Kharkiv|Dnipropetrovs'k|Sumy|Poltava|Chernihiv|Odessa|Kiev|Vinnytsya
+2025-01-26T01:00:00,Sumy|Poltava|Chernihiv|Kiev|Vinnytsya|Khmel'nyts'kyy|Rivne
+2025-01-26T02:00:00,Sumy|Poltava|Chernihiv|Kiev|Vinnytsya|Kharkiv
+2025-01-26T03:00:00,Sumy|Kiev
+2025-01-26T04:00:00,Sumy|Kiev
+2025-01-26T05:00:00,Khmel'nyts'kyy
+2025-01-26T06:00:00,Chernihiv
+2025-01-26T07:00:00,Chernihiv|Kiev|Sumy
+2025-01-26T08:00:00,Chernihiv|Sumy
+2025-01-26T09:00:00,Sumy
+2025-01-26T10:00:00,Sumy|Kharkiv
+2025-01-26T11:00:00,
+2025-01-26T12:00:00,Kharkiv|Donets'k
+2025-01-26T13:00:00,Kharkiv|Donets'k|Sumy
+2025-01-26T14:00:00,Kharkiv|Donets'k|Sumy
+2025-01-26T15:00:00,Kharkiv|Sumy
+2025-01-26T16:00:00,Sumy
+2025-01-26T17:00:00,
+2025-01-26T18:00:00,Zaporizhzhya|Sumy
+2025-01-26T19:00:00,Zaporizhzhya|Sumy|Kharkiv|Kherson|Donets'k|Dnipropetrovs'k|Mykolayiv
+2025-01-26T20:00:00,Zaporizhzhya|Sumy|Kharkiv|Kherson|Donets'k|Dnipropetrovs'k|Poltava|Mykolayiv|Kirovohrad
+2025-01-26T21:00:00,Zaporizhzhya|Sumy|Kharkiv|Kherson|Donets'k|Dnipropetrovs'k|Poltava|Mykolayiv|Kirovohrad|Vinnytsya
+2025-01-26T22:00:00,Zaporizhzhya|Sumy|Kharkiv|Kherson|Donets'k|Dnipropetrovs'k|Poltava|Mykolayiv|Kirovohrad|Vinnytsya|Khmel'nyts'kyy|Chernivtsi
+2025-01-26T23:00:00,Zaporizhzhya|Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Poltava|Mykolayiv|Kirovohrad|Vinnytsya|Khmel'nyts'kyy|Chernivtsi|Cherkasy|Ternopil'|Chernihiv
+2025-01-27T00:00:00,Mykolayiv|Kirovohrad|Vinnytsya|Khmel'nyts'kyy|Chernivtsi|Cherkasy|Ternopil'|Chernihiv|Ivano-Frankivs'k|Kiev|Sumy
+2025-01-27T01:00:00,Kirovohrad|Vinnytsya|Khmel'nyts'kyy|Chernivtsi|Cherkasy|Ternopil'|Chernihiv|Ivano-Frankivs'k|Kiev|Sumy|Kiev City
+2025-01-27T02:00:00,Vinnytsya|Khmel'nyts'kyy|Chernivtsi|Ternopil'|Kiev|Sumy
+2025-01-27T03:00:00,Khmel'nyts'kyy|Chernivtsi|Ternopil'|Kiev|Ivano-Frankivs'k|Sumy
+2025-01-27T04:00:00,Khmel'nyts'kyy|Ternopil'|Ivano-Frankivs'k|L'viv
+2025-01-27T05:00:00,
+2025-01-27T06:00:00,
+2025-01-27T07:00:00,Kharkiv|Poltava|Zaporizhzhya|Donets'k|Dnipropetrovs'k|Sumy
+2025-01-27T08:00:00,
+2025-01-27T09:00:00,
+2025-01-27T10:00:00,Sumy|Zaporizhzhya
+2025-01-27T11:00:00,Sumy
+2025-01-27T12:00:00,Sumy
+2025-01-27T13:00:00,
+2025-01-27T14:00:00,Sumy|Donets'k
+2025-01-27T15:00:00,Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-01-27T16:00:00,Sumy|Kharkiv|Donets'k
+2025-01-27T17:00:00,
+2025-01-27T18:00:00,
+2025-01-27T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad
+2025-01-27T20:00:00,Zaporizhzhya|Dnipropetrovs'k|Donets'k|Odessa|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Chernihiv
+2025-01-27T21:00:00,Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Chernihiv|Cherkasy|Poltava|Kiev
+2025-01-27T22:00:00,Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Chernihiv|Cherkasy|Poltava|Kiev
+2025-01-27T23:00:00,Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Chernihiv|Cherkasy|Poltava|Kiev|Kiev City
+2025-01-28T00:00:00,Kherson|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Chernihiv|Cherkasy|Poltava|Kiev|Kiev City|Dnipropetrovs'k
+2025-01-28T01:00:00,Kherson|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Chernihiv|Cherkasy|Poltava|Kiev|Kiev City|Dnipropetrovs'k|Vinnytsya
+2025-01-28T02:00:00,Kherson|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Chernihiv|Cherkasy|Poltava|Kiev|Kiev City|Dnipropetrovs'k|Vinnytsya
+2025-01-28T03:00:00,Kherson|Mykolayiv|Kirovohrad|Kharkiv|Chernihiv|Cherkasy|Kiev|Odessa
+2025-01-28T04:00:00,Kherson|Mykolayiv|Kirovohrad|Odessa|Dnipropetrovs'k
+2025-01-28T05:00:00,Kirovohrad|Vinnytsya
+2025-01-28T06:00:00,Kirovohrad|Mykolayiv
+2025-01-28T07:00:00,Kirovohrad
+2025-01-28T08:00:00,Kirovohrad
+2025-01-28T09:00:00,
+2025-01-28T10:00:00,Sumy
+2025-01-28T11:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-01-28T12:00:00,Sumy|Donets'k|Kharkiv
+2025-01-28T13:00:00,Sumy|Kharkiv|Donets'k
+2025-01-28T14:00:00,
+2025-01-28T15:00:00,Sumy|Zaporizhzhya|Kherson
+2025-01-28T16:00:00,Sumy
+2025-01-28T17:00:00,
+2025-01-28T18:00:00,Sumy|Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Kherson|Cherkasy|Mykolayiv|Kirovohrad
+2025-01-28T19:00:00,Sumy|Chernihiv|Kharkiv|Donets'k
+2025-01-28T20:00:00,Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Sumy|Dnipropetrovs'k|Poltava
+2025-01-28T21:00:00,Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Sumy|Dnipropetrovs'k|Poltava
+2025-01-28T22:00:00,Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Sumy|Dnipropetrovs'k|Poltava|Kirovohrad
+2025-01-28T23:00:00,Kharkiv|Donets'k|Zaporizhzhya|Kherson|Chernihiv|Dnipropetrovs'k|Poltava|Kirovohrad|Mykolayiv
+2025-01-29T00:00:00,Donets'k|Zaporizhzhya|Kherson|Dnipropetrovs'k|Poltava|Kirovohrad|Mykolayiv|Odessa|Vinnytsya
+2025-01-29T01:00:00,Dnipropetrovs'k|Poltava|Odessa|Vinnytsya|Kharkiv
+2025-01-29T02:00:00,Poltava|Odessa|Kharkiv|Sumy|Chernihiv|Dnipropetrovs'k
+2025-01-29T03:00:00,Poltava|Kharkiv|Sumy|Chernihiv|Dnipropetrovs'k|Zaporizhzhya
+2025-01-29T04:00:00,Poltava|Sumy|Chernihiv|Zaporizhzhya|Kiev|Dnipropetrovs'k|Kharkiv
+2025-01-29T05:00:00,Poltava|Sumy|Chernihiv|Kiev|Dnipropetrovs'k
+2025-01-29T06:00:00,Poltava|Chernihiv|Kiev|Sumy
+2025-01-29T07:00:00,Poltava|Chernihiv|Kiev
+2025-01-29T08:00:00,
+2025-01-29T09:00:00,Sumy|Donets'k
+2025-01-29T10:00:00,Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-01-29T11:00:00,Sumy
+2025-01-29T12:00:00,Kharkiv|Zaporizhzhya|Poltava|Donets'k|Dnipropetrovs'k
+2025-01-29T13:00:00,Kharkiv
+2025-01-29T14:00:00,Sumy|Donets'k
+2025-01-29T15:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-01-29T16:00:00,Sumy
+2025-01-29T17:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kiev|Cherkasy|Chernihiv|Donets'k
+2025-01-29T18:00:00,Chernihiv
+2025-01-29T19:00:00,
+2025-01-29T20:00:00,Kherson|Kharkiv|Donets'k|Zaporizhzhya|Mykolayiv
+2025-01-29T21:00:00,Kherson|Kharkiv|Donets'k|Zaporizhzhya|Mykolayiv|Kirovohrad|Dnipropetrovs'k|Sumy|Poltava
+2025-01-29T22:00:00,Kherson|Kharkiv|Donets'k|Zaporizhzhya|Mykolayiv|Kirovohrad|Dnipropetrovs'k|Sumy|Poltava|Odessa
+2025-01-29T23:00:00,Kherson|Kharkiv|Donets'k|Zaporizhzhya|Mykolayiv|Kirovohrad|Dnipropetrovs'k|Sumy|Poltava|Odessa|Chernihiv|Kiev|Vinnytsya
+2025-01-30T00:00:00,Kherson|Kharkiv|Donets'k|Zaporizhzhya|Mykolayiv|Kirovohrad|Dnipropetrovs'k|Sumy|Poltava|Odessa|Chernihiv|Kiev|Vinnytsya|Khmel'nyts'kyy
+2025-01-30T01:00:00,Kherson|Kharkiv|Donets'k|Zaporizhzhya|Mykolayiv|Kirovohrad|Dnipropetrovs'k|Sumy|Poltava|Odessa|Chernihiv|Kiev|Vinnytsya|Khmel'nyts'kyy|Kiev City
+2025-01-30T02:00:00,Mykolayiv|Kirovohrad|Sumy|Poltava|Odessa|Chernihiv|Kiev|Vinnytsya|Khmel'nyts'kyy|Kiev City|Ternopil'|Rivne
+2025-01-30T03:00:00,Kiev|Sumy
+2025-01-30T04:00:00,
+2025-01-30T05:00:00,
+2025-01-30T06:00:00,
+2025-01-30T07:00:00,Donets'k
+2025-01-30T08:00:00,Donets'k|Sumy|Kharkiv
+2025-01-30T09:00:00,Donets'k|Sumy|Kharkiv
+2025-01-30T10:00:00,Donets'k|Sumy|Kharkiv
+2025-01-30T11:00:00,Sumy|Kharkiv
+2025-01-30T12:00:00,Sumy|Donets'k|Kharkiv
+2025-01-30T13:00:00,Kharkiv
+2025-01-30T14:00:00,Kharkiv|Sumy|Poltava|Donets'k
+2025-01-30T15:00:00,Kharkiv|Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-01-30T16:00:00,Sumy|Donets'k|Kharkiv
+2025-01-30T17:00:00,
+2025-01-30T18:00:00,Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Sumy|Poltava|Kirovohrad|Cherkasy|Donets'k
+2025-01-30T19:00:00,Sumy
+2025-01-30T20:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k
+2025-01-30T21:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Poltava|Sumy
+2025-01-30T22:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Poltava|Sumy|Kherson|Mykolayiv|Chernihiv|Kirovohrad
+2025-01-30T23:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Poltava|Sumy|Kherson|Mykolayiv|Chernihiv|Kirovohrad|Kiev|Odessa
+2025-01-31T00:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Poltava|Sumy|Kherson|Mykolayiv|Chernihiv|Kirovohrad|Kiev|Odessa
+2025-01-31T01:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Poltava|Sumy|Mykolayiv|Chernihiv|Kirovohrad|Kiev|Odessa
+2025-01-31T02:00:00,Kharkiv|Poltava|Sumy|Chernihiv|Kiev|Vinnytsya|Donets'k|Kiev City
+2025-01-31T03:00:00,Kharkiv|Poltava|Sumy|Chernihiv|Vinnytsya|Donets'k|Khmel'nyts'kyy|Ternopil'|Zaporizhzhya
+2025-01-31T04:00:00,Kharkiv|Poltava|Sumy|Chernihiv|Khmel'nyts'kyy|Ternopil'|Kiev|Rivne
+2025-01-31T05:00:00,Kharkiv|Poltava|Sumy|Chernihiv|Khmel'nyts'kyy|Kiev
+2025-01-31T06:00:00,Kharkiv|Poltava|Sumy|Chernihiv|Kiev
+2025-01-31T07:00:00,Kharkiv|Poltava|Sumy|Chernihiv|Dnipropetrovs'k
+2025-01-31T08:00:00,Poltava
+2025-01-31T09:00:00,Poltava|Sumy|Donets'k
+2025-01-31T10:00:00,Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-01-31T11:00:00,Sumy|Kharkiv
+2025-01-31T12:00:00,
+2025-01-31T13:00:00,Sumy
+2025-01-31T14:00:00,Sumy
+2025-01-31T15:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya
+2025-01-31T16:00:00,Sumy
+2025-01-31T17:00:00,
+2025-01-31T18:00:00,Kherson|Odessa|Mykolayiv
+2025-01-31T19:00:00,Odessa
+2025-01-31T20:00:00,Poltava|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k
+2025-01-31T21:00:00,Poltava|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya
+2025-01-31T22:00:00,Poltava|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Chernihiv
+2025-01-31T23:00:00,Poltava|Kiev|Kiev City|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Kherson|Odessa|Mykolayiv|Kirovohrad
+2025-02-01T00:00:00,Poltava|Kiev|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Kherson|Odessa|Mykolayiv|Kirovohrad
+2025-02-01T01:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Odessa|Kiev
+2025-02-01T02:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Chernihiv|Kiev
+2025-02-01T03:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Chernihiv|Kiev|Poltava|Khmel'nyts'kyy
+2025-02-01T04:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Chernihiv|Kiev|Poltava|Khmel'nyts'kyy|Kiev City|Zaporizhzhya|Kirovohrad|Cherkasy
+2025-02-01T05:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Chernihiv|Kiev|Poltava|Khmel'nyts'kyy|Kiev City|Zaporizhzhya|Kirovohrad|Cherkasy|Kherson|Mykolayiv|Chernivtsi|Ivano-Frankivs'k|Rivne|Vinnytsya|Transcarpathia|L'viv|Ternopil'|Volyn|Odessa
+2025-02-01T06:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Chernihiv|Kiev|Poltava|Khmel'nyts'kyy|Kiev City|Zaporizhzhya|Kirovohrad|Cherkasy|Kherson|Mykolayiv|Chernivtsi|Ivano-Frankivs'k|Rivne|Vinnytsya|Transcarpathia|L'viv|Ternopil'|Volyn|Odessa
+2025-02-01T07:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Chernihiv|Kiev|Poltava|Khmel'nyts'kyy|Kiev City|Zaporizhzhya|Kirovohrad|Cherkasy|Kherson|Mykolayiv|Chernivtsi|Ivano-Frankivs'k|Rivne|Vinnytsya|Transcarpathia|L'viv|Ternopil'|Volyn|Odessa
+2025-02-01T08:00:00,
+2025-02-01T09:00:00,
+2025-02-01T10:00:00,
+2025-02-01T11:00:00,Sumy
+2025-02-01T12:00:00,Sumy
+2025-02-01T13:00:00,Sumy|Donets'k|Kharkiv
+2025-02-01T14:00:00,Kharkiv|Sumy
+2025-02-01T15:00:00,
+2025-02-01T16:00:00,Donets'k|Sumy
+2025-02-01T17:00:00,
+2025-02-01T18:00:00,
+2025-02-01T19:00:00,
+2025-02-01T20:00:00,Sumy
+2025-02-01T21:00:00,Sumy|Chernihiv|Poltava|Kharkiv
+2025-02-01T22:00:00,Sumy|Chernihiv|Poltava|Kharkiv|Kherson
+2025-02-01T23:00:00,Kirovohrad|Sumy|Chernihiv|Poltava|Kharkiv|Kherson|Kiev|Mykolayiv
+2025-02-02T00:00:00,Sumy|Chernihiv|Poltava|Kharkiv|Kherson|Kiev|Mykolayiv|Dnipropetrovs'k|Zaporizhzhya
+2025-02-02T01:00:00,Sumy|Chernihiv|Poltava|Kharkiv|Kherson|Kiev|Mykolayiv|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Odessa
+2025-02-02T02:00:00,Sumy|Poltava|Kharkiv|Kirovohrad
+2025-02-02T03:00:00,
+2025-02-02T04:00:00,
+2025-02-02T05:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Odessa|Mykolayiv|Cherkasy|Kherson
+2025-02-02T06:00:00,
+2025-02-02T07:00:00,Kharkiv|Donets'k
+2025-02-02T08:00:00,
+2025-02-02T09:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Sumy|Cherkasy|Poltava|Kharkiv|Kirovohrad|Kiev
+2025-02-02T10:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Sumy|Kharkiv|Cherkasy|Vinnytsya|Kirovohrad|Mykolayiv|Odessa|Kherson|Poltava
+2025-02-02T11:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Sumy|Kharkiv|Poltava
+2025-02-02T12:00:00,Sumy
+2025-02-02T13:00:00,Sumy
+2025-02-02T14:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kherson|Mykolayiv
+2025-02-02T15:00:00,Sumy|Zaporizhzhya|Donets'k|Kharkiv
+2025-02-02T16:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Poltava|Cherkasy|Chernihiv|Kirovohrad|Kiev
+2025-02-02T17:00:00,Sumy|Kharkiv
+2025-02-02T18:00:00,
+2025-02-02T19:00:00,Kherson|Zaporizhzhya|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k
+2025-02-02T20:00:00,Kherson|Zaporizhzhya|Donets'k|Mykolayiv|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv
+2025-02-02T21:00:00,Kherson|Zaporizhzhya|Donets'k|Mykolayiv|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv
+2025-02-02T22:00:00,Zaporizhzhya|Donets'k|Mykolayiv|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Vinnytsya|Kiev
+2025-02-02T23:00:00,Zaporizhzhya|Donets'k|Mykolayiv|Odessa|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Vinnytsya|Kiev
+2025-02-03T00:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Vinnytsya|Kiev|Khmel'nyts'kyy
+2025-02-03T01:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kiev|Khmel'nyts'kyy
+2025-02-03T02:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kiev|Donets'k
+2025-02-03T03:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Chernihiv|Kiev|Donets'k
+2025-02-03T04:00:00,Sumy|Kharkiv|Poltava|Chernihiv|Kiev|Dnipropetrovs'k
+2025-02-03T05:00:00,Sumy|Poltava|Chernihiv|Kiev
+2025-02-03T06:00:00,Sumy
+2025-02-03T07:00:00,Sumy
+2025-02-03T08:00:00,Sumy
+2025-02-03T09:00:00,Sumy|Donets'k|Kharkiv
+2025-02-03T10:00:00,Sumy|Donets'k|Zaporizhzhya|Kharkiv
+2025-02-03T11:00:00,Sumy|Donets'k|Zaporizhzhya|Kharkiv
+2025-02-03T12:00:00,Sumy
+2025-02-03T13:00:00,Sumy
+2025-02-03T14:00:00,Sumy|Kharkiv
+2025-02-03T15:00:00,Sumy|Kharkiv
+2025-02-03T16:00:00,
+2025-02-03T17:00:00,
+2025-02-03T18:00:00,Kharkiv|Sumy
+2025-02-03T19:00:00,Kharkiv|Sumy
+2025-02-03T20:00:00,Donets'k|Kharkiv|Sumy|Chernihiv
+2025-02-03T21:00:00,Donets'k|Kharkiv|Sumy|Chernihiv|Poltava
+2025-02-03T22:00:00,Donets'k|Kharkiv|Sumy|Chernihiv|Poltava
+2025-02-03T23:00:00,Kharkiv|Sumy|Chernihiv|Poltava|Kiev
+2025-02-04T00:00:00,Kharkiv|Sumy|Chernihiv|Poltava|Kiev|Kiev City
+2025-02-04T01:00:00,Kharkiv|Sumy|Chernihiv|Poltava|Kiev|Kiev City|Kirovohrad
+2025-02-04T02:00:00,Sumy|Chernihiv|Poltava|Kiev|Kirovohrad|Donets'k|Kharkiv
+2025-02-04T03:00:00,Sumy|Chernihiv|Poltava|Kiev
+2025-02-04T04:00:00,Chernihiv|Kiev|Kiev City
+2025-02-04T05:00:00,Chernihiv|Sumy
+2025-02-04T06:00:00,Chernihiv
+2025-02-04T07:00:00,Sumy
+2025-02-04T08:00:00,Sumy
+2025-02-04T09:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-02-04T10:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad
+2025-02-04T11:00:00,Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k
+2025-02-04T12:00:00,Kharkiv
+2025-02-04T13:00:00,Kharkiv|Sumy
+2025-02-04T14:00:00,Sumy
+2025-02-04T15:00:00,Sumy|Zaporizhzhya|Kharkiv|Donets'k
+2025-02-04T16:00:00,
+2025-02-04T17:00:00,Donets'k|Kharkiv
+2025-02-04T18:00:00,Kharkiv|Sumy
+2025-02-04T19:00:00,Kharkiv|Sumy|Poltava|Dnipropetrovs'k
+2025-02-04T20:00:00,Kirovohrad|Donets'k|Kiev City|Cherkasy|Kiev|Kharkiv|Sumy|Poltava|Dnipropetrovs'k|Chernihiv
+2025-02-04T21:00:00,Kirovohrad|Donets'k|Kharkiv|Sumy|Poltava|Dnipropetrovs'k|Chernihiv
+2025-02-04T22:00:00,Donets'k|Zaporizhzhya|Kharkiv|Sumy|Poltava|Dnipropetrovs'k|Chernihiv|Kiev|Kiev City|Kherson
+2025-02-04T23:00:00,Donets'k|Zaporizhzhya|Kharkiv|Sumy|Poltava|Dnipropetrovs'k|Chernihiv|Kiev|Kiev City|Kherson|Mykolayiv|Kirovohrad
+2025-02-05T00:00:00,Kharkiv|Sumy|Poltava|Dnipropetrovs'k|Chernihiv|Kiev|Kiev City|Kherson|Mykolayiv|Kirovohrad|Vinnytsya
+2025-02-05T01:00:00,Kharkiv|Sumy|Poltava|Dnipropetrovs'k|Chernihiv|Kiev|Kiev City|Kirovohrad|Vinnytsya|Khmel'nyts'kyy
+2025-02-05T02:00:00,Kharkiv|Sumy|Poltava|Chernihiv|Kiev|Kiev City|Vinnytsya|Khmel'nyts'kyy|Donets'k|Kirovohrad
+2025-02-05T03:00:00,Kharkiv|Sumy|Poltava|Chernihiv|Kiev|Kiev City|Vinnytsya|Donets'k|Dnipropetrovs'k|Khmel'nyts'kyy
+2025-02-05T04:00:00,Poltava|Kiev|Donets'k|Dnipropetrovs'k|Khmel'nyts'kyy|Rivne
+2025-02-05T05:00:00,
+2025-02-05T06:00:00,
+2025-02-05T07:00:00,
+2025-02-05T08:00:00,Donets'k
+2025-02-05T09:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Sumy|Kharkiv
+2025-02-05T10:00:00,Donets'k|Sumy|Kharkiv
+2025-02-05T11:00:00,Donets'k|Sumy|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kherson|Cherkasy|Poltava|Kirovohrad|Mykolayiv
+2025-02-05T12:00:00,Sumy|Kharkiv
+2025-02-05T13:00:00,Sumy|Zaporizhzhya
+2025-02-05T14:00:00,Zaporizhzhya|Donets'k|Sumy
+2025-02-05T15:00:00,Sumy
+2025-02-05T16:00:00,Sumy|Odessa|Kherson|Mykolayiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad
+2025-02-05T17:00:00,
+2025-02-05T18:00:00,Zaporizhzhya|Donets'k|Poltava|Dnipropetrovs'k|Kharkiv|Sumy
+2025-02-05T19:00:00,Zaporizhzhya|Donets'k|Dnipropetrovs'k|Kharkiv|Kherson|Mykolayiv|Sumy|Chernihiv|Poltava
+2025-02-05T20:00:00,Zaporizhzhya|Donets'k|Dnipropetrovs'k|Kharkiv|Sumy|Chernihiv|Poltava
+2025-02-05T21:00:00,Zaporizhzhya|Donets'k|Dnipropetrovs'k|Kharkiv|Sumy|Chernihiv|Poltava|Kirovohrad|Kiev
+2025-02-05T22:00:00,Zaporizhzhya|Donets'k|Dnipropetrovs'k|Kharkiv|Sumy|Chernihiv|Poltava|Kirovohrad|Kiev
+2025-02-05T23:00:00,Mykolayiv|Odessa|Sumy|Chernihiv|Poltava|Kirovohrad|Kiev|Kharkiv|Vinnytsya
+2025-02-06T00:00:00,Mykolayiv|Odessa|Sumy|Chernihiv|Poltava|Kirovohrad|Kiev|Kharkiv|Vinnytsya|Dnipropetrovs'k|Zaporizhzhya|Kiev City|Zhytomyr
+2025-02-06T01:00:00,Sumy|Chernihiv|Poltava|Kirovohrad|Kiev|Kharkiv|Vinnytsya|Dnipropetrovs'k|Zaporizhzhya|Kiev City|Zhytomyr|Donets'k|Mykolayiv
+2025-02-06T02:00:00,Sumy|Poltava|Kirovohrad|Kiev|Kharkiv|Vinnytsya|Dnipropetrovs'k|Zhytomyr|Donets'k|Kherson
+2025-02-06T03:00:00,Kirovohrad|Kiev|Vinnytsya|Zhytomyr
+2025-02-06T04:00:00,
+2025-02-06T05:00:00,Zaporizhzhya
+2025-02-06T06:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Cherkasy|Zaporizhzhya|Chernihiv|Kirovohrad|Sumy|Kiev
+2025-02-06T07:00:00,
+2025-02-06T08:00:00,Sumy|Donets'k
+2025-02-06T09:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kiev City|Kharkiv|Cherkasy|Poltava|Volyn|Ivano-Frankivs'k|Zhytomyr|Odessa|Mykolayiv|Rivne|Chernihiv|Chernivtsi|Transcarpathia|Kirovohrad|Kiev|Khmel'nyts'kyy|L'viv|Ternopil'|Kherson|Vinnytsya
+2025-02-06T10:00:00,Sumy
+2025-02-06T11:00:00,Sumy
+2025-02-06T12:00:00,
+2025-02-06T13:00:00,Kharkiv|Sumy
+2025-02-06T14:00:00,Kharkiv|Cherkasy|Vinnytsya|Odessa|Mykolayiv|Kirovohrad|Kherson|Sumy
+2025-02-06T15:00:00,Kharkiv|Donets'k|Sumy
+2025-02-06T16:00:00,Sumy
+2025-02-06T17:00:00,Kharkiv|Zaporizhzhya|Chernihiv|Dnipropetrovs'k|Sumy|Poltava
+2025-02-06T18:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Sumy|Poltava
+2025-02-06T19:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Donets'k|Sumy|Poltava|Chernihiv
+2025-02-06T20:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Donets'k|Mykolayiv|Sumy|Poltava|Chernihiv|Kiev|Kiev City
+2025-02-06T21:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Donets'k|Sumy|Poltava|Chernihiv|Kiev|Kiev City|Zhytomyr
+2025-02-06T22:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Donets'k|Mykolayiv|Sumy|Poltava|Chernihiv|Kiev|Kiev City|Zhytomyr
+2025-02-06T23:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Donets'k|Mykolayiv|Sumy|Poltava|Chernihiv|Kiev|Kiev City|Zhytomyr
+2025-02-07T00:00:00,Kirovohrad|Mykolayiv|Sumy|Poltava|Chernihiv|Kiev|Kiev City|Zhytomyr|Khmel'nyts'kyy
+2025-02-07T01:00:00,Sumy|Chernihiv
+2025-02-07T02:00:00,Sumy|Donets'k
+2025-02-07T03:00:00,Sumy|Donets'k
+2025-02-07T04:00:00,Chernihiv
+2025-02-07T05:00:00,Kiev|Chernihiv
+2025-02-07T06:00:00,
+2025-02-07T07:00:00,Sumy
+2025-02-07T08:00:00,Sumy|Donets'k
+2025-02-07T09:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-02-07T10:00:00,Sumy|Kharkiv
+2025-02-07T11:00:00,Sumy|Donets'k
+2025-02-07T12:00:00,Kharkiv
+2025-02-07T13:00:00,Poltava|Sumy|Kharkiv
+2025-02-07T14:00:00,Sumy|Kharkiv|Donets'k
+2025-02-07T15:00:00,Sumy|Kharkiv
+2025-02-07T16:00:00,Kharkiv
+2025-02-07T17:00:00,Sumy
+2025-02-07T18:00:00,Poltava|Sumy|Chernihiv
+2025-02-07T19:00:00,Poltava|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Chernihiv|Kiev|Kiev City
+2025-02-07T20:00:00,Poltava|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Zhytomyr|Vinnytsya|Sumy|Chernihiv|Kiev|Kiev City
+2025-02-07T21:00:00,Poltava|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Zhytomyr|Vinnytsya|Khmel'nyts'kyy|Mykolayiv|Sumy|Chernihiv|Kiev|Kiev City
+2025-02-07T22:00:00,Poltava|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Mykolayiv|Kherson|Sumy|Chernihiv|Kiev|Kiev City|Zhytomyr
+2025-02-07T23:00:00,Poltava|Dnipropetrovs'k|Kirovohrad|Mykolayiv|Kherson|Odessa|Sumy|Chernihiv|Kiev|Kiev City|Zhytomyr|Vinnytsya|Khmel'nyts'kyy
+2025-02-08T00:00:00,Poltava|Odessa|Sumy|Chernihiv|Kiev|Kiev City|Zhytomyr|Vinnytsya|Khmel'nyts'kyy
+2025-02-08T01:00:00,Sumy|Chernihiv|Kiev|Kiev City|Zhytomyr|Vinnytsya|Khmel'nyts'kyy|Rivne|Donets'k
+2025-02-08T02:00:00,Sumy|Donets'k
+2025-02-08T03:00:00,Sumy|Donets'k|Zhytomyr|Kharkiv
+2025-02-08T04:00:00,
+2025-02-08T05:00:00,
+2025-02-08T06:00:00,Sumy
+2025-02-08T07:00:00,Sumy|Donets'k
+2025-02-08T08:00:00,Sumy|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-02-08T09:00:00,Sumy|Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kirovohrad
+2025-02-08T10:00:00,Kharkiv|Dnipropetrovs'k|Donets'k|Kirovohrad
+2025-02-08T11:00:00,Dnipropetrovs'k|Zaporizhzhya
+2025-02-08T12:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Sumy
+2025-02-08T13:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Sumy|Poltava
+2025-02-08T14:00:00,Kharkiv|Sumy|Zaporizhzhya
+2025-02-08T15:00:00,Kharkiv|Sumy|Zaporizhzhya|Donets'k|Dnipropetrovs'k
+2025-02-08T16:00:00,
+2025-02-08T17:00:00,
+2025-02-08T18:00:00,Sumy|Chernihiv
+2025-02-08T19:00:00,Sumy|Chernihiv|Donets'k|Kiev
+2025-02-08T20:00:00,Sumy|Chernihiv|Donets'k|Kiev|Zhytomyr|Kharkiv|Poltava
+2025-02-08T21:00:00,Zaporizhzhya|Sumy|Chernihiv|Donets'k|Kiev|Zhytomyr|Kharkiv|Poltava|Dnipropetrovs'k|Kherson|Mykolayiv
+2025-02-08T22:00:00,Zaporizhzhya|Khmel'nyts'kyy|Sumy|Chernihiv|Donets'k|Kiev|Zhytomyr|Kharkiv|Poltava|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad
+2025-02-08T23:00:00,Zaporizhzhya|Sumy|Chernihiv|Donets'k|Kiev|Zhytomyr|Kharkiv|Poltava|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Kiev City
+2025-02-09T00:00:00,Zaporizhzhya|Sumy|Chernihiv|Donets'k|Kiev|Zhytomyr|Kharkiv|Poltava|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Kiev City|Vinnytsya|Rivne
+2025-02-09T01:00:00,Sumy|Chernihiv|Kiev|Zhytomyr|Kharkiv|Poltava|Kherson|Mykolayiv|Kirovohrad|Kiev City|Rivne|Khmel'nyts'kyy|Odessa|Volyn|Ternopil'
+2025-02-09T02:00:00,Sumy|Chernihiv|Kiev|Zhytomyr|Kiev City|Rivne|Khmel'nyts'kyy|Volyn|Ternopil'|Donets'k
+2025-02-09T03:00:00,Sumy|Chernihiv|Kiev|Zhytomyr|Rivne|Khmel'nyts'kyy|Volyn|Ternopil'|Donets'k|Dnipropetrovs'k
+2025-02-09T04:00:00,Chernihiv|Kiev|Zhytomyr|Rivne|Khmel'nyts'kyy|Volyn|Donets'k|Vinnytsya
+2025-02-09T05:00:00,Chernihiv|Kiev|Zhytomyr|Rivne|Khmel'nyts'kyy|Volyn|Vinnytsya|Kiev City
+2025-02-09T06:00:00,Kiev|Zhytomyr|Rivne|Volyn
+2025-02-09T07:00:00,Rivne|Volyn|Sumy|Donets'k
+2025-02-09T08:00:00,Sumy|Donets'k|Dnipropetrovs'k|Odessa
+2025-02-09T09:00:00,Sumy|Donets'k|Dnipropetrovs'k|Odessa|Zaporizhzhya
+2025-02-09T10:00:00,Sumy
+2025-02-09T11:00:00,Sumy|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kherson|Mykolayiv|Kirovohrad|Kharkiv
+2025-02-09T12:00:00,Sumy
+2025-02-09T13:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv
+2025-02-09T14:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Donets'k|Cherkasy|Kirovohrad|Kiev|Chernihiv
+2025-02-09T15:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Donets'k|Kirovohrad|Cherkasy|Kiev|Chernihiv
+2025-02-09T16:00:00,
+2025-02-09T17:00:00,
+2025-02-09T18:00:00,
+2025-02-09T19:00:00,Kharkiv|Sumy|Poltava|Donets'k
+2025-02-09T20:00:00,Kharkiv|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Dnipropetrovs'k
+2025-02-09T21:00:00,Kherson|Mykolayiv|Kiev City|Kharkiv|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad
+2025-02-09T22:00:00,Kherson|Mykolayiv|Kiev City|Zhytomyr|Odessa|Kharkiv|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad
+2025-02-09T23:00:00,Kherson|Mykolayiv|Kiev City|Zhytomyr|Odessa|Vinnytsya|Kharkiv|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad
+2025-02-10T00:00:00,Kherson|Mykolayiv|Kiev City|Zhytomyr|Odessa|Vinnytsya|Kharkiv|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Khmel'nyts'kyy
+2025-02-10T01:00:00,Kharkiv|Sumy|Poltava|Chernihiv|Kiev
+2025-02-10T02:00:00,Sumy|Chernihiv|Donets'k
+2025-02-10T03:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-02-10T04:00:00,
+2025-02-10T05:00:00,Kharkiv
+2025-02-10T06:00:00,
+2025-02-10T07:00:00,Kharkiv|Sumy|Donets'k
+2025-02-10T08:00:00,Kharkiv|Sumy|Donets'k
+2025-02-10T09:00:00,Kharkiv|Sumy
+2025-02-10T10:00:00,Kharkiv|Sumy
+2025-02-10T11:00:00,Kharkiv|Sumy|Donets'k|Zaporizhzhya
+2025-02-10T12:00:00,Donets'k|Kharkiv|Zaporizhzhya|Poltava|Cherkasy|Sumy|Dnipropetrovs'k|Kirovohrad|Kherson|Mykolayiv
+2025-02-10T13:00:00,Sumy
+2025-02-10T14:00:00,Sumy|Kharkiv|Donets'k
+2025-02-10T15:00:00,Sumy|Kharkiv|Donets'k
+2025-02-10T16:00:00,
+2025-02-10T17:00:00,Odessa
+2025-02-10T18:00:00,Odessa|Zaporizhzhya|Donets'k|Dnipropetrovs'k|Kirovohrad|Chernihiv|Kharkiv|Poltava|Sumy
+2025-02-10T19:00:00,Chernihiv|Dnipropetrovs'k|Kirovohrad|Sumy|Kherson|Mykolayiv
+2025-02-10T20:00:00,Chernihiv|Kirovohrad|Kharkiv|Donets'k|Sumy|Kherson|Mykolayiv|Odessa|Poltava
+2025-02-10T21:00:00,Kharkiv|Donets'k|Vinnytsya|Dnipropetrovs'k|Sumy|Kherson|Mykolayiv|Odessa|Poltava
+2025-02-10T22:00:00,Kharkiv|Donets'k|Vinnytsya|Dnipropetrovs'k|Sumy|Kherson|Mykolayiv|Odessa|Poltava|Zaporizhzhya|Cherkasy|Kirovohrad
+2025-02-10T23:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Sumy|Kherson|Mykolayiv|Odessa|Poltava|Zaporizhzhya|Cherkasy|Kirovohrad|Chernihiv|Kiev
+2025-02-11T00:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Sumy|Kherson|Mykolayiv|Odessa|Poltava|Zaporizhzhya|Cherkasy|Kirovohrad|Chernihiv|Kiev|Vinnytsya
+2025-02-11T01:00:00,Sumy|Kherson|Mykolayiv|Poltava|Cherkasy|Kirovohrad|Chernihiv|Kiev|Kiev City|Dnipropetrovs'k
+2025-02-11T02:00:00,Sumy|Kherson|Poltava|Cherkasy|Chernihiv|Kiev|Kiev City|Dnipropetrovs'k|Donets'k|Zaporizhzhya
+2025-02-11T03:00:00,Sumy|Poltava|Cherkasy|Chernihiv|Kiev|Kiev City|Donets'k|Zaporizhzhya|Zhytomyr|Kharkiv
+2025-02-11T04:00:00,Sumy|Poltava|Cherkasy|Chernihiv|Kiev|Kiev City|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kirovohrad
+2025-02-11T05:00:00,Sumy|Poltava|Cherkasy|Chernihiv|Kiev|Kiev City|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kirovohrad|Odessa|Kherson|Mykolayiv
+2025-02-11T06:00:00,Sumy|Poltava|Cherkasy|Chernihiv|Kiev|Kiev City|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kirovohrad|Odessa|Kherson|Mykolayiv
+2025-02-11T07:00:00,Sumy
+2025-02-11T08:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Poltava|Dnipropetrovs'k
+2025-02-11T09:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kharkiv|Cherkasy|Kirovohrad|Chernihiv|Kiev
+2025-02-11T10:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Cherkasy|Kirovohrad|Poltava
+2025-02-11T11:00:00,
+2025-02-11T12:00:00,
+2025-02-11T13:00:00,Sumy
+2025-02-11T14:00:00,Sumy|Kharkiv|Donets'k
+2025-02-11T15:00:00,Sumy|Kharkiv|Donets'k
+2025-02-11T16:00:00,
+2025-02-11T17:00:00,
+2025-02-11T18:00:00,Sumy
+2025-02-11T19:00:00,Kharkiv|Chernihiv|Donets'k|Zaporizhzhya|Poltava|Kirovohrad|Dnipropetrovs'k|Cherkasy|Odessa|Mykolayiv|Kherson|Sumy
+2025-02-11T20:00:00,Kharkiv|Chernihiv|Donets'k|Zaporizhzhya|Poltava|Dnipropetrovs'k|Sumy|Kiev
+2025-02-11T21:00:00,Kharkiv|Chernihiv|Donets'k|Zaporizhzhya|Poltava|Dnipropetrovs'k|Kiev City|Mykolayiv|Kherson|Sumy|Kiev|Zhytomyr
+2025-02-11T22:00:00,Kharkiv|Chernihiv|Donets'k|Zaporizhzhya|Poltava|Dnipropetrovs'k|Kiev City|Mykolayiv|Kherson|Kirovohrad|Sumy|Kiev|Zhytomyr
+2025-02-11T23:00:00,Kharkiv|Chernihiv|Donets'k|Zaporizhzhya|Poltava|Dnipropetrovs'k|Kiev City|Mykolayiv|Kherson|Kirovohrad|Sumy|Kiev|Zhytomyr
+2025-02-12T00:00:00,Kharkiv|Poltava|Dnipropetrovs'k|Sumy|Kiev|Zhytomyr|Vinnytsya
+2025-02-12T01:00:00,Sumy|Kiev|Zhytomyr|Vinnytsya
+2025-02-12T02:00:00,Donets'k
+2025-02-12T03:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kiev City|Vinnytsya|Kharkiv|Poltava|Cherkasy|Sumy|Kirovohrad|Chernihiv|Zhytomyr|Kiev
+2025-02-12T04:00:00,
+2025-02-12T05:00:00,
+2025-02-12T06:00:00,
+2025-02-12T07:00:00,
+2025-02-12T08:00:00,Sumy|Donets'k
+2025-02-12T09:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-02-12T10:00:00,Sumy|Donets'k|Kharkiv
+2025-02-12T11:00:00,Sumy|Donets'k|Kharkiv
+2025-02-12T12:00:00,Sumy|Mykolayiv|Kherson|Kirovohrad|Cherkasy|Odessa|Zaporizhzhya|Dnipropetrovs'k
+2025-02-12T13:00:00,Sumy
+2025-02-12T14:00:00,Sumy|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-02-12T15:00:00,Sumy|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-02-12T16:00:00,Sumy|Donets'k
+2025-02-12T17:00:00,
+2025-02-12T18:00:00,
+2025-02-12T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k
+2025-02-12T20:00:00,Odessa|Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Sumy|Poltava|Chernihiv|Kirovohrad
+2025-02-12T21:00:00,Odessa|Kherson|Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Sumy|Poltava|Chernihiv|Kirovohrad|Mykolayiv
+2025-02-12T22:00:00,Odessa|Kherson|Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Sumy|Poltava|Chernihiv|Kirovohrad|Mykolayiv
+2025-02-12T23:00:00,Kherson|Kiev|Vinnytsya|Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Sumy|Poltava|Chernihiv|Kirovohrad|Mykolayiv
+2025-02-13T00:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Sumy|Poltava|Chernihiv|Kirovohrad|Mykolayiv
+2025-02-13T01:00:00,Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Sumy|Poltava|Chernihiv
+2025-02-13T02:00:00,Dnipropetrovs'k|Sumy|Chernihiv|Kirovohrad
+2025-02-13T03:00:00,Dnipropetrovs'k|Kirovohrad|Donets'k
+2025-02-13T04:00:00,
+2025-02-13T05:00:00,Sumy
+2025-02-13T06:00:00,Sumy|Dnipropetrovs'k
+2025-02-13T07:00:00,Sumy
+2025-02-13T08:00:00,Donets'k
+2025-02-13T09:00:00,Donets'k|Zaporizhzhya|Sumy|Dnipropetrovs'k
+2025-02-13T10:00:00,Donets'k|Sumy
+2025-02-13T11:00:00,Donets'k|Sumy
+2025-02-13T12:00:00,Donets'k|Kharkiv
+2025-02-13T13:00:00,Kharkiv
+2025-02-13T14:00:00,Zaporizhzhya|Donets'k|Sumy
+2025-02-13T15:00:00,Zaporizhzhya|Donets'k|Sumy|Kharkiv
+2025-02-13T16:00:00,Sumy|Kharkiv|Zaporizhzhya|Donets'k
+2025-02-13T17:00:00,
+2025-02-13T18:00:00,Kharkiv
+2025-02-13T19:00:00,Kharkiv|Dnipropetrovs'k|Zaporizhzhya
+2025-02-13T20:00:00,Chernihiv|Kirovohrad|Mykolayiv|Kherson|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Sumy|Donets'k
+2025-02-13T21:00:00,Chernihiv|Kirovohrad|Mykolayiv|Kherson|Odessa|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Sumy|Donets'k
+2025-02-13T22:00:00,Chernihiv|Kirovohrad|Mykolayiv|Kherson|Odessa|Kiev|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Sumy|Donets'k
+2025-02-13T23:00:00,Chernihiv|Kirovohrad|Kiev|Vinnytsya|Kiev City|Rivne|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Sumy|Donets'k|Zhytomyr
+2025-02-14T00:00:00,Chernihiv|Kirovohrad|Kiev|Vinnytsya|Rivne|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Sumy|Donets'k|Zhytomyr|Khmel'nyts'kyy
+2025-02-14T01:00:00,Kharkiv|Poltava|Sumy|Chernihiv
+2025-02-14T02:00:00,Kharkiv|Sumy|Kiev
+2025-02-14T03:00:00,Sumy|Zaporizhzhya|Kiev City|Dnipropetrovs'k|Poltava|Kiev|Kirovohrad|Kharkiv|Cherkasy|Chernihiv|Donets'k
+2025-02-14T04:00:00,
+2025-02-14T05:00:00,
+2025-02-14T06:00:00,
+2025-02-14T07:00:00,Sumy
+2025-02-14T08:00:00,Sumy|Kharkiv|Donets'k
+2025-02-14T09:00:00,Sumy|Kharkiv|Donets'k
+2025-02-14T10:00:00,Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Mykolayiv|Kherson|Sumy
+2025-02-14T11:00:00,Sumy
+2025-02-14T12:00:00,
+2025-02-14T13:00:00,Sumy|Kharkiv
+2025-02-14T14:00:00,Sumy|Donets'k
+2025-02-14T15:00:00,Sumy|Donets'k|Kharkiv
+2025-02-14T16:00:00,Donets'k
+2025-02-14T17:00:00,
+2025-02-14T18:00:00,Sumy
+2025-02-14T19:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv
+2025-02-14T20:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv|Poltava|Kherson|Mykolayiv
+2025-02-14T21:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv|Poltava|Chernihiv|Kherson|Mykolayiv
+2025-02-14T22:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv|Poltava|Kherson|Mykolayiv|Kirovohrad
+2025-02-14T23:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv|Poltava|Cherkasy|Kherson|Mykolayiv|Kirovohrad
+2025-02-15T00:00:00,Sumy|Kherson|Mykolayiv|Kirovohrad|Odessa
+2025-02-15T01:00:00,Kherson|Mykolayiv|Kirovohrad|Odessa
+2025-02-15T02:00:00,
+2025-02-15T03:00:00,
+2025-02-15T04:00:00,
+2025-02-15T05:00:00,
+2025-02-15T06:00:00,
+2025-02-15T07:00:00,
+2025-02-15T08:00:00,Donets'k|Sumy
+2025-02-15T09:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-02-15T10:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv|Zaporizhzhya|Chernihiv
+2025-02-15T11:00:00,
+2025-02-15T12:00:00,Sumy
+2025-02-15T13:00:00,Sumy|Kharkiv
+2025-02-15T14:00:00,Sumy|Kharkiv
+2025-02-15T15:00:00,Sumy|Kharkiv|Donets'k
+2025-02-15T16:00:00,Sumy|Kharkiv|Donets'k
+2025-02-15T17:00:00,Sumy
+2025-02-15T18:00:00,
+2025-02-15T19:00:00,
+2025-02-15T20:00:00,Zaporizhzhya|Sumy|Chernihiv|Poltava
+2025-02-15T21:00:00,Kirovohrad|Sumy|Chernihiv|Poltava|Kiev|Kharkiv
+2025-02-15T22:00:00,Kirovohrad|Sumy|Chernihiv|Poltava|Kiev|Kharkiv|Kiev City
+2025-02-15T23:00:00,Kherson|Mykolayiv|Sumy|Chernihiv|Poltava|Kiev|Kharkiv|Kiev City|Kirovohrad|Zhytomyr
+2025-02-16T00:00:00,Dnipropetrovs'k|Sumy|Chernihiv|Poltava|Kiev|Kharkiv|Kiev City|Kirovohrad|Zhytomyr
+2025-02-16T01:00:00,Sumy|Chernihiv|Poltava|Kiev|Kiev City|Zhytomyr|Rivne|Khmel'nyts'kyy|Ternopil'|Kirovohrad
+2025-02-16T02:00:00,Sumy|Kiev|Kiev City|Zhytomyr|Dnipropetrovs'k
+2025-02-16T03:00:00,Sumy
+2025-02-16T04:00:00,Sumy
+2025-02-16T05:00:00,
+2025-02-16T06:00:00,
+2025-02-16T07:00:00,
+2025-02-16T08:00:00,Sumy|Donets'k
+2025-02-16T09:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-02-16T10:00:00,Sumy|Donets'k|Odessa
+2025-02-16T11:00:00,Donets'k|Dnipropetrovs'k|Kharkiv
+2025-02-16T12:00:00,
+2025-02-16T13:00:00,Sumy
+2025-02-16T14:00:00,Sumy|Donets'k
+2025-02-16T15:00:00,Sumy|Donets'k|Kharkiv
+2025-02-16T16:00:00,Donets'k
+2025-02-16T17:00:00,
+2025-02-16T18:00:00,
+2025-02-16T19:00:00,Kharkiv|Sumy
+2025-02-16T20:00:00,Donets'k|Odessa|Zaporizhzhya|Mykolayiv|Kherson|Kirovohrad|Cherkasy|Vinnytsya|Kharkiv|Sumy|Chernihiv|Dnipropetrovs'k|Poltava
+2025-02-16T21:00:00,Donets'k|Odessa|Zaporizhzhya|Kharkiv|Sumy|Chernihiv|Dnipropetrovs'k|Poltava|Kiev
+2025-02-16T22:00:00,Odessa|Kharkiv|Sumy|Chernihiv|Dnipropetrovs'k|Poltava|Kiev|Kiev City|Kirovohrad
+2025-02-16T23:00:00,Kharkiv|Sumy|Chernihiv|Dnipropetrovs'k|Poltava|Kiev|Kiev City|Kirovohrad|Zhytomyr
+2025-02-17T00:00:00,Kharkiv|Sumy|Chernihiv|Dnipropetrovs'k|Poltava|Kiev|Kiev City|Kirovohrad|Zhytomyr|Zaporizhzhya|Khmel'nyts'kyy
+2025-02-17T01:00:00,Kharkiv|Sumy|Chernihiv|Dnipropetrovs'k|Poltava|Kiev|Kiev City|Kirovohrad|Zhytomyr|Zaporizhzhya|Khmel'nyts'kyy|Donets'k
+2025-02-17T02:00:00,Kharkiv|Sumy|Chernihiv|Poltava|Kiev|Kiev City|Zhytomyr|Donets'k
+2025-02-17T03:00:00,Kharkiv|Sumy|Chernihiv|Donets'k
+2025-02-17T04:00:00,
+2025-02-17T05:00:00,
+2025-02-17T06:00:00,
+2025-02-17T07:00:00,
+2025-02-17T08:00:00,Donets'k|Sumy|Kharkiv
+2025-02-17T09:00:00,Donets'k|Sumy|Kharkiv
+2025-02-17T10:00:00,Sumy
+2025-02-17T11:00:00,
+2025-02-17T12:00:00,Kharkiv
+2025-02-17T13:00:00,Kharkiv|Sumy|Donets'k|Poltava|Cherkasy|Kirovohrad|Kiev|Chernihiv
+2025-02-17T14:00:00,Sumy|Donets'k|Poltava
+2025-02-17T15:00:00,Sumy|Donets'k|Poltava|Zaporizhzhya
+2025-02-17T16:00:00,Sumy
+2025-02-17T17:00:00,
+2025-02-17T18:00:00,Mykolayiv|Kherson|Sumy|Chernihiv
+2025-02-17T19:00:00,Mykolayiv|Kherson|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Poltava|Donets'k|Zaporizhzhya
+2025-02-17T20:00:00,Mykolayiv|Kherson|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Kiev|Cherkasy
+2025-02-17T21:00:00,Kiev City|Vinnytsya|Kherson|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Kiev|Cherkasy
+2025-02-17T22:00:00,Kherson|Mykolayiv|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Kiev|Cherkasy
+2025-02-17T23:00:00,Kherson|Mykolayiv|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Kiev|Cherkasy
+2025-02-18T00:00:00,Mykolayiv|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Kiev|Cherkasy|Kiev City|Zhytomyr
+2025-02-18T01:00:00,Dnipropetrovs'k|Kirovohrad|Poltava|Donets'k|Kiev|Cherkasy|Kiev City|Zhytomyr|Vinnytsya
+2025-02-18T02:00:00,Donets'k|Kiev|Kiev City|Zhytomyr|Sumy
+2025-02-18T03:00:00,Donets'k|Sumy|Kharkiv
+2025-02-18T04:00:00,
+2025-02-18T05:00:00,
+2025-02-18T06:00:00,
+2025-02-18T07:00:00,Donets'k|Sumy|Chernihiv
+2025-02-18T08:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-02-18T09:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-02-18T10:00:00,Kharkiv
+2025-02-18T11:00:00,Kharkiv
+2025-02-18T12:00:00,Donets'k
+2025-02-18T13:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Kiev City|Poltava|Zaporizhzhya|Kirovohrad|Cherkasy|Chernihiv|Kiev|Donets'k
+2025-02-18T14:00:00,Sumy|Kharkiv|Donets'k
+2025-02-18T15:00:00,Sumy|Donets'k|Kharkiv|Poltava|Chernihiv|Kiev
+2025-02-18T16:00:00,Zaporizhzhya
+2025-02-18T17:00:00,
+2025-02-18T18:00:00,
+2025-02-18T19:00:00,Zaporizhzhya|Donets'k|Sumy|Chernihiv
+2025-02-18T20:00:00,Zaporizhzhya|Donets'k|Dnipropetrovs'k|Sumy|Chernihiv|Kiev City|Cherkasy|Poltava|Kharkiv|Kirovohrad|Kiev
+2025-02-18T21:00:00,Zaporizhzhya|Donets'k|Dnipropetrovs'k|Mykolayiv|Kherson|Odessa|Sumy|Chernihiv|Kiev City|Cherkasy|Poltava|Kharkiv|Kirovohrad|Kiev
+2025-02-18T22:00:00,Zaporizhzhya|Donets'k|Dnipropetrovs'k|Mykolayiv|Kherson|Odessa|Sumy|Chernihiv|Kiev City|Cherkasy|Poltava|Kharkiv|Kirovohrad|Kiev
+2025-02-18T23:00:00,Dnipropetrovs'k|Mykolayiv|Odessa|Sumy|Chernihiv|Kiev City|Cherkasy|Poltava|Kharkiv|Kirovohrad|Kiev
+2025-02-19T00:00:00,Sumy|Chernihiv|Kiev City|Cherkasy|Poltava|Kharkiv|Kirovohrad|Kiev|Zhytomyr|Vinnytsya
+2025-02-19T01:00:00,Sumy|Chernihiv|Kiev City|Cherkasy|Poltava|Kharkiv|Kirovohrad|Kiev|Zhytomyr|Vinnytsya|Khmel'nyts'kyy|Rivne|Donets'k
+2025-02-19T02:00:00,Sumy|Chernihiv|Kiev City|Poltava|Kharkiv|Kiev|Zhytomyr|Khmel'nyts'kyy|Rivne|Donets'k
+2025-02-19T03:00:00,Sumy|Chernihiv|Kiev City|Poltava|Kiev|Zhytomyr|Donets'k|Kharkiv
+2025-02-19T04:00:00,
+2025-02-19T05:00:00,
+2025-02-19T06:00:00,Donets'k|Kharkiv
+2025-02-19T07:00:00,Donets'k|Kharkiv|Sumy|Mykolayiv
+2025-02-19T08:00:00,Donets'k|Kharkiv|Sumy
+2025-02-19T09:00:00,Donets'k|Kharkiv|Sumy
+2025-02-19T10:00:00,Donets'k|Kharkiv|Sumy
+2025-02-19T11:00:00,Sumy
+2025-02-19T12:00:00,Sumy|Kharkiv
+2025-02-19T13:00:00,Sumy|Kharkiv|Donets'k
+2025-02-19T14:00:00,Sumy|Kharkiv|Donets'k|Kherson|Mykolayiv
+2025-02-19T15:00:00,Sumy|Donets'k
+2025-02-19T16:00:00,Donets'k|Zaporizhzhya
+2025-02-19T17:00:00,Zaporizhzhya
+2025-02-19T18:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava
+2025-02-19T19:00:00,Odessa|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv
+2025-02-19T20:00:00,Odessa|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Kiev City
+2025-02-19T21:00:00,Kherson|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Kiev City|Zhytomyr
+2025-02-19T22:00:00,Kherson|Mykolayiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Kiev City|Zhytomyr
+2025-02-19T23:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Kiev City|Zhytomyr|Vinnytsya
+2025-02-20T00:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Kiev City|Zhytomyr|Vinnytsya|Mykolayiv|Kherson|Khmel'nyts'kyy
+2025-02-20T01:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Kiev City|Zhytomyr|Vinnytsya|Khmel'nyts'kyy
+2025-02-20T02:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Kiev City|Zhytomyr|Vinnytsya
+2025-02-20T03:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Kiev City|Zhytomyr|Vinnytsya
+2025-02-20T04:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Kharkiv|Donets'k|Kiev|Khmel'nyts'kyy
+2025-02-20T05:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Kharkiv|Donets'k|Kiev|Chernihiv|Odessa|Kherson|Mykolayiv
+2025-02-20T06:00:00,Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Sumy|Kharkiv|Donets'k|Kiev|Chernihiv|Odessa|Kherson|Mykolayiv
+2025-02-20T07:00:00,Sumy
+2025-02-20T08:00:00,Sumy|Donets'k|Kherson
+2025-02-20T09:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya
+2025-02-20T10:00:00,Donets'k|Kharkiv
+2025-02-20T11:00:00,
+2025-02-20T12:00:00,
+2025-02-20T13:00:00,Sumy|Donets'k|Kharkiv
+2025-02-20T14:00:00,Sumy|Donets'k
+2025-02-20T15:00:00,Donets'k|Dnipropetrovs'k|Sumy
+2025-02-20T16:00:00,Donets'k|Sumy
+2025-02-20T17:00:00,Sumy
+2025-02-20T18:00:00,Sumy|Kharkiv|Poltava
+2025-02-20T19:00:00,Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Chernihiv
+2025-02-20T20:00:00,Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Kiev City
+2025-02-20T21:00:00,Kirovohrad|Vinnytsya|Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Kiev City|Zhytomyr
+2025-02-20T22:00:00,Kirovohrad|Vinnytsya|Mykolayiv|Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Kiev City|Zhytomyr
+2025-02-20T23:00:00,Kirovohrad|Vinnytsya|Mykolayiv|Kherson|Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Kiev City|Zhytomyr
+2025-02-21T00:00:00,Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Donets'k|Chernihiv|Kiev|Zaporizhzhya|Kiev City|Zhytomyr
+2025-02-21T01:00:00,Sumy|Kharkiv|Poltava|Chernihiv|Kiev|Rivne|Donets'k
+2025-02-21T02:00:00,Sumy|Poltava|Chernihiv|Kiev|Rivne|Donets'k
+2025-02-21T03:00:00,Sumy|Donets'k|Kirovohrad|Dnipropetrovs'k
+2025-02-21T04:00:00,
+2025-02-21T05:00:00,
+2025-02-21T06:00:00,
+2025-02-21T07:00:00,Sumy|Kharkiv
+2025-02-21T08:00:00,Sumy|Kharkiv
+2025-02-21T09:00:00,Sumy|Donets'k|Kharkiv
+2025-02-21T10:00:00,Sumy|Donets'k
+2025-02-21T11:00:00,Sumy|Donets'k|Kharkiv
+2025-02-21T12:00:00,Sumy
+2025-02-21T13:00:00,Donets'k|Sumy
+2025-02-21T14:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-02-21T15:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv|Poltava|Chernihiv|Cherkasy|Kirovohrad
+2025-02-21T16:00:00,Sumy|Kharkiv
+2025-02-21T17:00:00,
+2025-02-21T18:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k
+2025-02-21T19:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Poltava|Kiev
+2025-02-21T20:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr
+2025-02-21T21:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr|Mykolayiv|Kherson
+2025-02-21T22:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr|Mykolayiv|Kherson|Vinnytsya
+2025-02-21T23:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr|Vinnytsya|Khmel'nyts'kyy
+2025-02-22T00:00:00,Kiev|Sumy|Donets'k|Kharkiv
+2025-02-22T01:00:00,Sumy|Donets'k|Kharkiv
+2025-02-22T02:00:00,Sumy|Donets'k
+2025-02-22T03:00:00,Sumy|Donets'k|Kharkiv
+2025-02-22T04:00:00,
+2025-02-22T05:00:00,
+2025-02-22T06:00:00,
+2025-02-22T07:00:00,Donets'k|Sumy
+2025-02-22T08:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-02-22T09:00:00,Donets'k|Sumy|Zaporizhzhya
+2025-02-22T10:00:00,
+2025-02-22T11:00:00,Kirovohrad
+2025-02-22T12:00:00,
+2025-02-22T13:00:00,Sumy|Kharkiv
+2025-02-22T14:00:00,Sumy|Kharkiv|Donets'k|Zaporizhzhya
+2025-02-22T15:00:00,Sumy|Donets'k|Kherson|Poltava
+2025-02-22T16:00:00,Poltava|Chernihiv
+2025-02-22T17:00:00,Sumy
+2025-02-22T18:00:00,Sumy
+2025-02-22T19:00:00,Mykolayiv|Odessa|Sumy|Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-02-22T20:00:00,Mykolayiv|Odessa|Sumy|Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kiev
+2025-02-22T21:00:00,Sumy|Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr
+2025-02-22T22:00:00,Sumy|Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr|Mykolayiv|Kherson|Vinnytsya
+2025-02-22T23:00:00,Sumy|Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr|Mykolayiv|Kherson|Vinnytsya
+2025-02-23T00:00:00,Sumy|Chernihiv|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr|Mykolayiv|Kherson|Vinnytsya
+2025-02-23T01:00:00,Sumy|Chernihiv|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr|Mykolayiv|Kherson|Vinnytsya
+2025-02-23T02:00:00,Sumy|Chernihiv|Poltava|Kiev|Kirovohrad|Kiev City|Zhytomyr|Mykolayiv|Kherson|Vinnytsya|Donets'k|Rivne|Dnipropetrovs'k|Khmel'nyts'kyy
+2025-02-23T03:00:00,Sumy|Chernihiv|Kiev|Kirovohrad|Zhytomyr|Mykolayiv|Kherson|Donets'k|Rivne|Dnipropetrovs'k|Khmel'nyts'kyy|Odessa|Kiev City
+2025-02-23T04:00:00,Sumy|Kiev|Zhytomyr|Rivne|Khmel'nyts'kyy|Volyn|Chernihiv
+2025-02-23T05:00:00,Sumy|Kiev|Zhytomyr|Khmel'nyts'kyy
+2025-02-23T06:00:00,
+2025-02-23T07:00:00,Sumy|Kharkiv|Donets'k
+2025-02-23T08:00:00,Sumy|Donets'k|Odessa
+2025-02-23T09:00:00,Sumy|Donets'k|Dnipropetrovs'k|Kharkiv|Zaporizhzhya
+2025-02-23T10:00:00,
+2025-02-23T11:00:00,
+2025-02-23T12:00:00,Sumy
+2025-02-23T13:00:00,Sumy|Dnipropetrovs'k|Odessa
+2025-02-23T14:00:00,Sumy|Donets'k|Kharkiv|Poltava|Zaporizhzhya|Dnipropetrovs'k
+2025-02-23T15:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-02-23T16:00:00,
+2025-02-23T17:00:00,Odessa
+2025-02-23T18:00:00,
+2025-02-23T19:00:00,Sumy|Chernihiv|Poltava|Zaporizhzhya
+2025-02-23T20:00:00,Sumy|Chernihiv|Poltava|Odessa|Kharkiv|Kiev
+2025-02-23T21:00:00,Sumy|Chernihiv|Poltava|Kharkiv|Dnipropetrovs'k|Kiev City|Kiev|Kirovohrad
+2025-02-23T22:00:00,Sumy|Chernihiv|Poltava|Kharkiv|Dnipropetrovs'k|Kiev City|Kherson|Kiev|Kirovohrad
+2025-02-23T23:00:00,Sumy|Chernihiv|Poltava|Kharkiv|Dnipropetrovs'k|Kiev City|Mykolayiv|Kiev|Kirovohrad|Zhytomyr
+2025-02-24T00:00:00,Chernihiv|Dnipropetrovs'k|Kiev City|Mykolayiv|Kiev|Kirovohrad|Zhytomyr
+2025-02-24T01:00:00,Zhytomyr|Sumy|Kharkiv|Khmel'nyts'kyy
+2025-02-24T02:00:00,Sumy|Kharkiv
+2025-02-24T03:00:00,Sumy|Kharkiv
+2025-02-24T04:00:00,
+2025-02-24T05:00:00,
+2025-02-24T06:00:00,
+2025-02-24T07:00:00,Sumy
+2025-02-24T08:00:00,Sumy|Kharkiv
+2025-02-24T09:00:00,Sumy|Kharkiv|Donets'k
+2025-02-24T10:00:00,Sumy|Donets'k|Dnipropetrovs'k|Kharkiv|Poltava|Cherkasy|Chernihiv|Kiev
+2025-02-24T11:00:00,
+2025-02-24T12:00:00,
+2025-02-24T13:00:00,Sumy|Chernihiv|Kiev|Odessa
+2025-02-24T14:00:00,Sumy|Chernihiv|Poltava|Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv
+2025-02-24T15:00:00,Dnipropetrovs'k|Donets'k|Odessa|Sumy
+2025-02-24T16:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Sumy
+2025-02-24T17:00:00,Sumy
+2025-02-24T18:00:00,Sumy|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava
+2025-02-24T19:00:00,Mykolayiv|Sumy|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv
+2025-02-24T20:00:00,Sumy|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev
+2025-02-24T21:00:00,Kiev City|Sumy|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev
+2025-02-24T22:00:00,Kiev City|Zhytomyr|Sumy|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev|Kherson|Mykolayiv
+2025-02-24T23:00:00,Kiev City|Zhytomyr|Sumy|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev|Kherson|Mykolayiv
+2025-02-25T00:00:00,Zhytomyr|Sumy|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev|Kherson|Mykolayiv
+2025-02-25T01:00:00,Sumy|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev|Kherson|Mykolayiv
+2025-02-25T02:00:00,Sumy|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev|Kherson|Mykolayiv|Zhytomyr
+2025-02-25T03:00:00,Sumy|Kharkiv|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev|Zhytomyr|Kiev City|Vinnytsya
+2025-02-25T04:00:00,Sumy|Kharkiv|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev|Zhytomyr|Kiev City|Vinnytsya|Zaporizhzhya|Dnipropetrovs'k|Kherson|Odessa|Mykolayiv|Ivano-Frankivs'k|Transcarpathia|Volyn|Khmel'nyts'kyy|Rivne|Ternopil'|Chernivtsi|L'viv
+2025-02-25T05:00:00,Sumy|Kharkiv|Poltava|Kirovohrad|Chernihiv|Donets'k|Kiev|Zhytomyr|Kiev City|Vinnytsya|Zaporizhzhya|Dnipropetrovs'k|Kherson|Odessa|Mykolayiv|Ivano-Frankivs'k|Transcarpathia|Volyn|Khmel'nyts'kyy|Rivne|Ternopil'|Chernivtsi|L'viv
+2025-02-25T06:00:00,Sumy|Poltava|Chernihiv|Kiev|Zhytomyr|Kiev City|Khmel'nyts'kyy
+2025-02-25T07:00:00,Sumy|Zhytomyr|Khmel'nyts'kyy
+2025-02-25T08:00:00,Sumy|Donets'k
+2025-02-25T09:00:00,Sumy|Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya
+2025-02-25T10:00:00,
+2025-02-25T11:00:00,
+2025-02-25T12:00:00,
+2025-02-25T13:00:00,
+2025-02-25T14:00:00,Sumy|Donets'k|Odessa|Zaporizhzhya
+2025-02-25T15:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-02-25T16:00:00,
+2025-02-25T17:00:00,
+2025-02-25T18:00:00,Zaporizhzhya|Kherson|Mykolayiv|Sumy|Dnipropetrovs'k|Poltava|Chernihiv
+2025-02-25T19:00:00,Zaporizhzhya|Kherson|Mykolayiv|Kirovohrad|Sumy|Dnipropetrovs'k|Poltava|Chernihiv
+2025-02-25T20:00:00,Zaporizhzhya|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Poltava|Chernihiv|Kiev
+2025-02-25T21:00:00,Zaporizhzhya|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Donets'k|Zhytomyr|Sumy|Dnipropetrovs'k|Poltava|Chernihiv|Kiev|Kiev City
+2025-02-25T22:00:00,Zaporizhzhya|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Donets'k|Zhytomyr|Sumy|Dnipropetrovs'k|Poltava|Chernihiv|Kiev|Kiev City
+2025-02-25T23:00:00,Zaporizhzhya|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Donets'k|Zhytomyr|Sumy|Dnipropetrovs'k|Poltava|Chernihiv|Kiev|Kiev City
+2025-02-26T00:00:00,Kirovohrad|Kharkiv|Zhytomyr|Sumy|Dnipropetrovs'k|Poltava|Chernihiv|Kiev|Kiev City
+2025-02-26T01:00:00,Sumy|Poltava
+2025-02-26T02:00:00,Poltava|Dnipropetrovs'k
+2025-02-26T03:00:00,
+2025-02-26T04:00:00,
+2025-02-26T05:00:00,
+2025-02-26T06:00:00,Donets'k
+2025-02-26T07:00:00,Sumy
+2025-02-26T08:00:00,Sumy|Donets'k
+2025-02-26T09:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-02-26T10:00:00,Donets'k
+2025-02-26T11:00:00,Chernihiv
+2025-02-26T12:00:00,Chernihiv|Sumy
+2025-02-26T13:00:00,Sumy
+2025-02-26T14:00:00,Donets'k
+2025-02-26T15:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya
+2025-02-26T16:00:00,Donets'k|Kharkiv
+2025-02-26T17:00:00,
+2025-02-26T18:00:00,
+2025-02-26T19:00:00,Kherson|Mykolayiv|Zaporizhzhya|Sumy|Chernihiv|Dnipropetrovs'k
+2025-02-26T20:00:00,Kherson|Mykolayiv|Zaporizhzhya|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Kharkiv|Poltava
+2025-02-26T21:00:00,Kherson|Zaporizhzhya|Donets'k|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Kharkiv|Poltava|Kiev
+2025-02-26T22:00:00,Kherson|Donets'k|Mykolayiv|Odessa|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Kharkiv|Poltava|Kiev|Kiev City
+2025-02-26T23:00:00,Kherson|Donets'k|Mykolayiv|Odessa|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Kharkiv|Poltava|Kiev|Kiev City|Vinnytsya|Zhytomyr
+2025-02-27T00:00:00,Donets'k|Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Kharkiv|Poltava|Kiev|Kiev City|Vinnytsya|Zhytomyr
+2025-02-27T01:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Kharkiv|Poltava|Kiev|Kiev City|Vinnytsya|Zhytomyr|Khmel'nyts'kyy
+2025-02-27T02:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Kirovohrad|Kharkiv|Poltava|Kiev|Kiev City|Khmel'nyts'kyy|Donets'k|Mykolayiv
+2025-02-27T03:00:00,Kiev|Kiev City|Donets'k
+2025-02-27T04:00:00,Donets'k
+2025-02-27T05:00:00,
+2025-02-27T06:00:00,
+2025-02-27T07:00:00,Sumy
+2025-02-27T08:00:00,Sumy|Donets'k
+2025-02-27T09:00:00,Sumy|Donets'k
+2025-02-27T10:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-02-27T11:00:00,Donets'k
+2025-02-27T12:00:00,Sumy
+2025-02-27T13:00:00,Sumy|Donets'k
+2025-02-27T14:00:00,Sumy|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-02-27T15:00:00,Donets'k|Dnipropetrovs'k|Kharkiv
+2025-02-27T16:00:00,
+2025-02-27T17:00:00,
+2025-02-27T18:00:00,Sumy|Kharkiv
+2025-02-27T19:00:00,Kherson|Sumy|Kharkiv|Zaporizhzhya|Poltava|Chernihiv
+2025-02-27T20:00:00,Sumy|Kharkiv|Zaporizhzhya|Poltava|Chernihiv|Dnipropetrovs'k|Donets'k
+2025-02-27T21:00:00,Kirovohrad|Kherson|Sumy|Kharkiv|Zaporizhzhya|Poltava|Chernihiv|Dnipropetrovs'k|Donets'k|Kiev|Mykolayiv
+2025-02-27T22:00:00,Kirovohrad|Kherson|Sumy|Kharkiv|Zaporizhzhya|Poltava|Chernihiv|Dnipropetrovs'k|Donets'k|Kiev|Mykolayiv
+2025-02-27T23:00:00,Kirovohrad|Kherson|Sumy|Kharkiv|Zaporizhzhya|Poltava|Chernihiv|Dnipropetrovs'k|Donets'k|Kiev|Mykolayiv|Kiev City
+2025-02-28T00:00:00,Kirovohrad|Sumy|Kharkiv|Zaporizhzhya|Poltava|Chernihiv|Dnipropetrovs'k|Donets'k|Kiev|Mykolayiv|Kiev City|Vinnytsya
+2025-02-28T01:00:00,Sumy|Kharkiv|Zaporizhzhya|Chernihiv|Dnipropetrovs'k|Kiev|Vinnytsya|Zhytomyr|Donets'k|Kirovohrad
+2025-02-28T02:00:00,Sumy|Zaporizhzhya|Zhytomyr|Donets'k|Kharkiv|Poltava
+2025-02-28T03:00:00,Donets'k
+2025-02-28T04:00:00,
+2025-02-28T05:00:00,
+2025-02-28T06:00:00,
+2025-02-28T07:00:00,Sumy
+2025-02-28T08:00:00,Sumy|Kharkiv|Donets'k
+2025-02-28T09:00:00,Sumy|Kharkiv|Donets'k
+2025-02-28T10:00:00,Donets'k
+2025-02-28T11:00:00,Odessa
+2025-02-28T12:00:00,
+2025-02-28T13:00:00,Sumy|Donets'k
+2025-02-28T14:00:00,Sumy|Donets'k|Odessa
+2025-02-28T15:00:00,Donets'k
+2025-02-28T16:00:00,Donets'k|Zaporizhzhya|Poltava|Chernihiv|Kirovohrad|Dnipropetrovs'k|Mykolayiv|Kherson|Odessa|Sumy
+2025-02-28T17:00:00,Sumy
+2025-02-28T18:00:00,Sumy|Kharkiv
+2025-02-28T19:00:00,Mykolayiv|Kherson|Sumy|Kharkiv|Zaporizhzhya|Donets'k
+2025-02-28T20:00:00,Mykolayiv|Kherson|Odessa|Sumy|Kharkiv|Zaporizhzhya|Donets'k|Dnipropetrovs'k|Chernihiv|Poltava
+2025-02-28T21:00:00,Sumy|Kharkiv|Zaporizhzhya|Donets'k|Dnipropetrovs'k|Chernihiv|Poltava|Kirovohrad|Kiev
+2025-02-28T22:00:00,Sumy|Kharkiv|Zaporizhzhya|Donets'k|Dnipropetrovs'k|Chernihiv|Poltava|Kirovohrad|Kiev|Mykolayiv|Kherson|Kiev City
+2025-02-28T23:00:00,Sumy|Kharkiv|Zaporizhzhya|Donets'k|Dnipropetrovs'k|Chernihiv|Poltava|Kirovohrad|Kiev|Mykolayiv|Kherson|Kiev City
+2025-03-01T00:00:00,Sumy|Kharkiv|Zaporizhzhya|Donets'k|Dnipropetrovs'k|Chernihiv|Poltava|Kirovohrad|Kiev|Mykolayiv|Kherson|Kiev City|Vinnytsya|Zhytomyr
+2025-03-01T01:00:00,Sumy|Kharkiv|Donets'k|Chernihiv|Poltava|Kirovohrad|Kiev|Mykolayiv|Kherson|Kiev City|Vinnytsya|Zhytomyr
+2025-03-01T02:00:00,Sumy|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-03-01T03:00:00,Sumy|Donets'k|Dnipropetrovs'k|Kharkiv
+2025-03-01T04:00:00,Donets'k|Dnipropetrovs'k
+2025-03-01T05:00:00,
+2025-03-01T06:00:00,
+2025-03-01T07:00:00,Donets'k|Kharkiv|Sumy
+2025-03-01T08:00:00,Donets'k|Kharkiv|Sumy
+2025-03-01T09:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-01T10:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-03-01T11:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-03-01T12:00:00,Dnipropetrovs'k
+2025-03-01T13:00:00,Dnipropetrovs'k|Sumy|Donets'k
+2025-03-01T14:00:00,Dnipropetrovs'k|Sumy|Donets'k|Zaporizhzhya|Poltava|Kharkiv
+2025-03-01T15:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-03-01T16:00:00,Dnipropetrovs'k|Zaporizhzhya|Sumy|Poltava|Mykolayiv|Cherkasy|Odessa|Kirovohrad|Kharkiv|Kherson|Donets'k
+2025-03-01T17:00:00,Sumy
+2025-03-01T18:00:00,Sumy|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-03-01T19:00:00,Sumy|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Kherson|Mykolayiv|Kirovohrad
+2025-03-01T20:00:00,Sumy|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Kherson|Mykolayiv|Kirovohrad|Chernihiv|Odessa
+2025-03-01T21:00:00,Sumy|Zaporizhzhya|Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Kherson|Mykolayiv|Kirovohrad|Chernihiv|Odessa|Kiev|Kiev City
+2025-03-01T22:00:00,Sumy|Poltava|Mykolayiv|Kirovohrad|Chernihiv|Kiev|Kiev City|Zhytomyr|Vinnytsya
+2025-03-01T23:00:00,Sumy|Poltava|Kirovohrad|Kiev|Zhytomyr|Vinnytsya|Dnipropetrovs'k|Khmel'nyts'kyy
+2025-03-02T00:00:00,Zaporizhzhya|Zhytomyr|Vinnytsya|Dnipropetrovs'k|Khmel'nyts'kyy
+2025-03-02T01:00:00,Sumy|Kirovohrad|Donets'k
+2025-03-02T02:00:00,Sumy|Donets'k
+2025-03-02T03:00:00,Donets'k
+2025-03-02T04:00:00,
+2025-03-02T05:00:00,
+2025-03-02T06:00:00,
+2025-03-02T07:00:00,Sumy|Kharkiv|Donets'k
+2025-03-02T08:00:00,Sumy|Kharkiv|Donets'k
+2025-03-02T09:00:00,Donets'k|Dnipropetrovs'k|Kharkiv
+2025-03-02T10:00:00,Donets'k|Dnipropetrovs'k
+2025-03-02T11:00:00,
+2025-03-02T12:00:00,Sumy
+2025-03-02T13:00:00,Sumy|Kharkiv|Donets'k
+2025-03-02T14:00:00,Sumy|Kharkiv|Donets'k
+2025-03-02T15:00:00,Donets'k
+2025-03-02T16:00:00,Zaporizhzhya
+2025-03-02T17:00:00,Dnipropetrovs'k|Zaporizhzhya
+2025-03-02T18:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Sumy|Poltava
+2025-03-02T19:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Chernihiv|Sumy
+2025-03-02T20:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Chernihiv|Kirovohrad|Sumy|Kiev
+2025-03-02T21:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Chernihiv|Kirovohrad|Kherson|Mykolayiv|Sumy|Kiev
+2025-03-02T22:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Kirovohrad|Kherson|Mykolayiv|Vinnytsya|Sumy|Kiev|Chernihiv
+2025-03-02T23:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Kirovohrad|Mykolayiv|Vinnytsya|Zhytomyr|Odessa|Sumy|Kiev|Chernihiv
+2025-03-03T00:00:00,Kharkiv|Kirovohrad|Vinnytsya|Zhytomyr|Sumy|Kiev|Chernihiv
+2025-03-03T01:00:00,Sumy|Kiev|Chernihiv|Donets'k|Kharkiv
+2025-03-03T02:00:00,Sumy|Kiev|Chernihiv|Donets'k|Kiev City
+2025-03-03T03:00:00,Donets'k
+2025-03-03T04:00:00,
+2025-03-03T05:00:00,
+2025-03-03T06:00:00,
+2025-03-03T07:00:00,Kharkiv|Sumy|Donets'k
+2025-03-03T08:00:00,Sumy|Donets'k
+2025-03-03T09:00:00,Sumy
+2025-03-03T10:00:00,Sumy|Donets'k|Poltava|Zaporizhzhya|Kirovohrad|Dnipropetrovs'k|Kharkiv|Kiev City|Volyn|Kiev|Cherkasy|Ternopil'|Kherson|Odessa|Ivano-Frankivs'k|Mykolayiv|Rivne|Zhytomyr|Transcarpathia|Khmel'nyts'kyy|Chernivtsi|Chernihiv|L'viv|Vinnytsya
+2025-03-03T11:00:00,
+2025-03-03T12:00:00,
+2025-03-03T13:00:00,Sumy|Donets'k
+2025-03-03T14:00:00,Sumy|Donets'k
+2025-03-03T15:00:00,Zaporizhzhya|Kherson
+2025-03-03T16:00:00,
+2025-03-03T17:00:00,
+2025-03-03T18:00:00,Zaporizhzhya
+2025-03-03T19:00:00,Odessa|Zaporizhzhya|Sumy|Donets'k|Kharkiv|Poltava|Dnipropetrovs'k
+2025-03-03T20:00:00,Odessa|Kherson|Mykolayiv|Zaporizhzhya|Sumy|Donets'k|Kharkiv|Poltava|Dnipropetrovs'k
+2025-03-03T21:00:00,Zaporizhzhya|Sumy|Donets'k|Kharkiv|Poltava|Dnipropetrovs'k
+2025-03-03T22:00:00,Zaporizhzhya|Sumy|Donets'k|Kharkiv|Poltava|Dnipropetrovs'k|Kirovohrad
+2025-03-03T23:00:00,Zaporizhzhya|Sumy|Donets'k|Kharkiv|Poltava|Dnipropetrovs'k|Kirovohrad
+2025-03-04T00:00:00,Zaporizhzhya|Sumy|Donets'k|Kharkiv|Poltava|Dnipropetrovs'k|Kirovohrad
+2025-03-04T01:00:00,Zaporizhzhya|Sumy|Donets'k|Kharkiv|Poltava|Dnipropetrovs'k
+2025-03-04T02:00:00,Donets'k
+2025-03-04T03:00:00,Donets'k
+2025-03-04T04:00:00,
+2025-03-04T05:00:00,
+2025-03-04T06:00:00,
+2025-03-04T07:00:00,Donets'k
+2025-03-04T08:00:00,Donets'k
+2025-03-04T09:00:00,Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya
+2025-03-04T10:00:00,Sumy|Zaporizhzhya
+2025-03-04T11:00:00,Kiev
+2025-03-04T12:00:00,
+2025-03-04T13:00:00,Sumy|Kharkiv|Donets'k
+2025-03-04T14:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k
+2025-03-04T15:00:00,Sumy|Kharkiv|Donets'k
+2025-03-04T16:00:00,Sumy|Kharkiv|Donets'k
+2025-03-04T17:00:00,
+2025-03-04T18:00:00,Kharkiv|Cherkasy|Chernihiv|Kiev|Donets'k|Poltava|Sumy|Dnipropetrovs'k
+2025-03-04T19:00:00,Odessa|Sumy|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Donets'k
+2025-03-04T20:00:00,Odessa|Kherson|Mykolayiv|Sumy|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Donets'k|Kharkiv|Poltava
+2025-03-04T21:00:00,Odessa|Kherson|Mykolayiv|Sumy|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Donets'k|Kharkiv|Poltava|Kiev|Kiev City
+2025-03-04T22:00:00,Sumy|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Donets'k|Kharkiv|Poltava|Kiev|Kiev City
+2025-03-04T23:00:00,Sumy|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Donets'k|Kharkiv|Poltava|Kiev|Kiev City|Kirovohrad
+2025-03-05T00:00:00,Sumy|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Donets'k|Kharkiv|Poltava|Kiev|Kiev City|Kirovohrad|Kherson|Mykolayiv
+2025-03-05T01:00:00,Sumy|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Poltava|Kirovohrad|Kiev
+2025-03-05T02:00:00,Dnipropetrovs'k|Kharkiv|Poltava|Kirovohrad|Sumy|Donets'k
+2025-03-05T03:00:00,Dnipropetrovs'k|Kharkiv|Poltava|Kirovohrad|Sumy|Donets'k|Chernihiv|Kiev
+2025-03-05T04:00:00,Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Kiev|Sumy
+2025-03-05T05:00:00,Kirovohrad|Sumy|Kharkiv
+2025-03-05T06:00:00,
+2025-03-05T07:00:00,Donets'k
+2025-03-05T08:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-05T09:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-05T10:00:00,Donets'k|Sumy|Chernihiv
+2025-03-05T11:00:00,Sumy|Kharkiv
+2025-03-05T12:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-03-05T13:00:00,Sumy|Donets'k|Kharkiv
+2025-03-05T14:00:00,Sumy|Donets'k
+2025-03-05T15:00:00,Sumy|Donets'k
+2025-03-05T16:00:00,Sumy|Kharkiv
+2025-03-05T17:00:00,
+2025-03-05T18:00:00,
+2025-03-05T19:00:00,
+2025-03-05T20:00:00,Odessa|Mykolayiv|Kirovohrad|Cherkasy|Sumy|Donets'k|Poltava|Kharkiv|Zaporizhzhya|Dnipropetrovs'k
+2025-03-05T21:00:00,Sumy|Donets'k|Poltava|Kharkiv|Zaporizhzhya|Dnipropetrovs'k
+2025-03-05T22:00:00,Sumy|Donets'k|Poltava|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Chernihiv
+2025-03-05T23:00:00,Sumy|Donets'k|Poltava|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Chernihiv
+2025-03-06T00:00:00,Sumy|Donets'k|Poltava|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Chernihiv|Kirovohrad
+2025-03-06T01:00:00,Sumy|Donets'k|Poltava|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Chernihiv|Kirovohrad|Kiev
+2025-03-06T02:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Kiev|Kiev City
+2025-03-06T03:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k
+2025-03-06T04:00:00,
+2025-03-06T05:00:00,
+2025-03-06T06:00:00,
+2025-03-06T07:00:00,Kharkiv|Donets'k
+2025-03-06T08:00:00,Donets'k|Sumy
+2025-03-06T09:00:00,Donets'k|Sumy
+2025-03-06T10:00:00,
+2025-03-06T11:00:00,Donets'k|Kharkiv|Dnipropetrovs'k
+2025-03-06T12:00:00,Kharkiv
+2025-03-06T13:00:00,Kharkiv|Donets'k
+2025-03-06T14:00:00,Donets'k|Sumy
+2025-03-06T15:00:00,Donets'k|Sumy|Kharkiv
+2025-03-06T16:00:00,Donets'k
+2025-03-06T17:00:00,
+2025-03-06T18:00:00,Kharkiv
+2025-03-06T19:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava
+2025-03-06T20:00:00,Mykolayiv|Odessa|Kherson|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv
+2025-03-06T21:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv
+2025-03-06T22:00:00,Mykolayiv|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv|Kiev
+2025-03-06T23:00:00,Vinnytsya|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Kirovohrad
+2025-03-07T00:00:00,Kherson|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Kirovohrad|Zhytomyr|Vinnytsya|Kiev City
+2025-03-07T01:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Kirovohrad|Zhytomyr|Mykolayiv|Kherson|Odessa
+2025-03-07T02:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Kirovohrad|Zhytomyr|Mykolayiv|Kherson|Odessa|Vinnytsya|Khmel'nyts'kyy|Kiev City|Ivano-Frankivs'k|Rivne|Transcarpathia|L'viv|Chernivtsi|Ternopil'
+2025-03-07T03:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Kirovohrad|Zhytomyr|Mykolayiv|Kherson|Odessa|Vinnytsya|Khmel'nyts'kyy|Kiev City|Ivano-Frankivs'k|Rivne|Transcarpathia|L'viv|Chernivtsi|Ternopil'|Volyn
+2025-03-07T04:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Kirovohrad|Zhytomyr|Mykolayiv|Kherson|Odessa|Vinnytsya|Khmel'nyts'kyy|Kiev City|Ivano-Frankivs'k|Rivne|Transcarpathia|L'viv|Chernivtsi|Ternopil'|Volyn
+2025-03-07T05:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Donets'k|Chernihiv|Kiev|Kirovohrad|Zhytomyr|Mykolayiv|Kherson|Odessa|Vinnytsya|Khmel'nyts'kyy|Kiev City|Ivano-Frankivs'k|Rivne|Transcarpathia|L'viv|Chernivtsi|Ternopil'|Volyn
+2025-03-07T06:00:00,Kiev|Zhytomyr|Vinnytsya|Khmel'nyts'kyy|Kiev City|Ternopil'
+2025-03-07T07:00:00,Donets'k|Sumy
+2025-03-07T08:00:00,Donets'k|Sumy|Kherson
+2025-03-07T09:00:00,Donets'k|Sumy
+2025-03-07T10:00:00,Donets'k|Kharkiv
+2025-03-07T11:00:00,
+2025-03-07T12:00:00,
+2025-03-07T13:00:00,Sumy|Donets'k
+2025-03-07T14:00:00,Sumy|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-03-07T15:00:00,Sumy|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-03-07T16:00:00,
+2025-03-07T17:00:00,
+2025-03-07T18:00:00,
+2025-03-07T19:00:00,Donets'k|Kherson|Mykolayiv|Odessa|Chernihiv|Poltava|Sumy|Kharkiv
+2025-03-07T20:00:00,Donets'k|Kherson|Mykolayiv|Odessa|Chernihiv|Zaporizhzhya|Kiev|Poltava|Sumy|Kharkiv|Dnipropetrovs'k
+2025-03-07T21:00:00,Donets'k|Chernihiv|Zaporizhzhya|Kiev|Kirovohrad|Cherkasy|Kiev City|Poltava|Sumy|Kharkiv|Dnipropetrovs'k
+2025-03-07T22:00:00,Donets'k|Chernihiv|Zaporizhzhya|Kiev|Kirovohrad|Cherkasy|Poltava|Sumy|Kharkiv|Dnipropetrovs'k
+2025-03-07T23:00:00,Donets'k|Chernihiv|Zaporizhzhya|Kiev|Kirovohrad|Cherkasy|Kherson|Mykolayiv|Odessa|Poltava|Sumy|Kharkiv|Dnipropetrovs'k
+2025-03-08T00:00:00,Kirovohrad|Cherkasy|Poltava|Sumy|Kharkiv|Dnipropetrovs'k
+2025-03-08T01:00:00,Sumy|Kharkiv|Chernihiv|Donets'k
+2025-03-08T02:00:00,Sumy|Kharkiv|Chernihiv|Donets'k
+2025-03-08T03:00:00,Sumy|Kharkiv|Donets'k
+2025-03-08T04:00:00,
+2025-03-08T05:00:00,
+2025-03-08T06:00:00,Donets'k|Dnipropetrovs'k|Poltava|Zaporizhzhya|Sumy|Cherkasy|Kirovohrad|Vinnytsya|Kharkiv
+2025-03-08T07:00:00,Sumy|Kharkiv
+2025-03-08T08:00:00,Sumy|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Cherkasy|Mykolayiv|Kherson|Odessa|Poltava
+2025-03-08T09:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kirovohrad|Cherkasy|Kharkiv|Mykolayiv|Kherson|Odessa|Chernihiv
+2025-03-08T10:00:00,Sumy|Dnipropetrovs'k|Kharkiv
+2025-03-08T11:00:00,Sumy|Dnipropetrovs'k|Kharkiv|Poltava|Chernihiv
+2025-03-08T12:00:00,Mykolayiv|Donets'k
+2025-03-08T13:00:00,Mykolayiv|Donets'k|Kharkiv|Sumy|Zaporizhzhya|Dnipropetrovs'k|Poltava|Chernihiv|Kirovohrad|Cherkasy|Kiev|Kiev City
+2025-03-08T14:00:00,Donets'k|Sumy|Mykolayiv|Kharkiv|Odessa
+2025-03-08T15:00:00,Donets'k|Sumy|Kharkiv|Poltava
+2025-03-08T16:00:00,
+2025-03-08T17:00:00,
+2025-03-08T18:00:00,Sumy|Poltava
+2025-03-08T19:00:00,Sumy|Poltava|Zaporizhzhya|Dnipropetrovs'k|Mykolayiv|Kherson|Kharkiv|Donets'k|Chernihiv
+2025-03-08T20:00:00,Sumy|Poltava|Zaporizhzhya|Dnipropetrovs'k|Mykolayiv|Kherson|Kharkiv|Donets'k|Chernihiv|Kirovohrad|Kiev
+2025-03-08T21:00:00,Sumy|Poltava|Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Chernihiv|Kirovohrad|Kiev|Kiev City|Zhytomyr
+2025-03-08T22:00:00,Sumy|Poltava|Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Donets'k|Chernihiv|Kirovohrad|Kiev|Kiev City|Zhytomyr|Khmel'nyts'kyy|Rivne
+2025-03-08T23:00:00,Dnipropetrovs'k|Chernihiv|Kiev|Kiev City|Zhytomyr
+2025-03-09T00:00:00,
+2025-03-09T01:00:00,Sumy
+2025-03-09T02:00:00,Sumy|Donets'k
+2025-03-09T03:00:00,Donets'k
+2025-03-09T04:00:00,
+2025-03-09T05:00:00,
+2025-03-09T06:00:00,
+2025-03-09T07:00:00,Sumy|Donets'k
+2025-03-09T08:00:00,Sumy|Donets'k|Kharkiv
+2025-03-09T09:00:00,Sumy|Donets'k
+2025-03-09T10:00:00,Donets'k|Sumy|Zaporizhzhya
+2025-03-09T11:00:00,Donets'k|Sumy|Odessa
+2025-03-09T12:00:00,Sumy|Zaporizhzhya
+2025-03-09T13:00:00,Sumy
+2025-03-09T14:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya
+2025-03-09T15:00:00,Donets'k|Kharkiv
+2025-03-09T16:00:00,Donets'k|Zaporizhzhya
+2025-03-09T17:00:00,Donets'k|Odessa|Zaporizhzhya|Sumy
+2025-03-09T18:00:00,Donets'k|Odessa|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava
+2025-03-09T19:00:00,Odessa|Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Donets'k|Kirovohrad|Sumy|Poltava|Chernihiv|Kharkiv
+2025-03-09T20:00:00,Odessa|Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Donets'k|Kirovohrad|Sumy|Poltava|Chernihiv|Kharkiv|Kiev
+2025-03-09T21:00:00,Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Donets'k|Kirovohrad|Vinnytsya|Sumy|Poltava|Chernihiv|Kharkiv|Kiev
+2025-03-09T22:00:00,Kirovohrad|Vinnytsya|Mykolayiv|Zaporizhzhya|Sumy|Poltava|Chernihiv|Kharkiv|Kiev|Kiev City|Dnipropetrovs'k
+2025-03-09T23:00:00,Zaporizhzhya|Sumy|Poltava|Chernihiv|Kharkiv|Kiev|Kiev City|Dnipropetrovs'k
+2025-03-10T00:00:00,Sumy|Poltava|Chernihiv|Kharkiv|Kiev|Kiev City|Dnipropetrovs'k|Zhytomyr
+2025-03-10T01:00:00,Sumy|Poltava|Chernihiv|Kharkiv|Kiev|Kiev City|Dnipropetrovs'k|Donets'k|Zaporizhzhya|Cherkasy|Kirovohrad
+2025-03-10T02:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Donets'k
+2025-03-10T03:00:00,Dnipropetrovs'k|Donets'k
+2025-03-10T04:00:00,
+2025-03-10T05:00:00,
+2025-03-10T06:00:00,
+2025-03-10T07:00:00,Donets'k|Kharkiv|Sumy
+2025-03-10T08:00:00,Donets'k|Kharkiv|Sumy
+2025-03-10T09:00:00,Donets'k|Zaporizhzhya
+2025-03-10T10:00:00,
+2025-03-10T11:00:00,Kharkiv
+2025-03-10T12:00:00,Kharkiv
+2025-03-10T13:00:00,Kharkiv|Sumy|Donets'k
+2025-03-10T14:00:00,Kharkiv|Sumy|Donets'k|Poltava|Dnipropetrovs'k
+2025-03-10T15:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-03-10T16:00:00,
+2025-03-10T17:00:00,Zaporizhzhya|Dnipropetrovs'k
+2025-03-10T18:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad|Sumy
+2025-03-10T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Kharkiv|Donets'k|Kiev|Sumy
+2025-03-10T20:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Kharkiv|Donets'k|Kiev|Mykolayiv|Kherson|Odessa|Sumy
+2025-03-10T21:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Kharkiv|Donets'k|Kiev|Mykolayiv|Kherson|Odessa|Zhytomyr|Sumy
+2025-03-10T22:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Kharkiv|Donets'k|Kiev|Zhytomyr|Kiev City|Sumy
+2025-03-10T23:00:00,Poltava|Kirovohrad|Chernihiv|Kiev|Kiev City|Mykolayiv|Sumy|Vinnytsya
+2025-03-11T00:00:00,Poltava|Kirovohrad|Chernihiv|Kiev|Sumy|Vinnytsya|Kharkiv
+2025-03-11T01:00:00,Sumy|Vinnytsya|Kharkiv|Khmel'nyts'kyy|Zhytomyr
+2025-03-11T02:00:00,Sumy|Kharkiv|Zhytomyr|Poltava|Donets'k
+2025-03-11T03:00:00,Sumy|Kharkiv|Donets'k
+2025-03-11T04:00:00,
+2025-03-11T05:00:00,
+2025-03-11T06:00:00,
+2025-03-11T07:00:00,
+2025-03-11T08:00:00,
+2025-03-11T09:00:00,
+2025-03-11T10:00:00,Donets'k|Sumy
+2025-03-11T11:00:00,Donets'k|Sumy
+2025-03-11T12:00:00,Donets'k
+2025-03-11T13:00:00,Sumy
+2025-03-11T14:00:00,Donets'k|Sumy
+2025-03-11T15:00:00,Donets'k|Sumy
+2025-03-11T16:00:00,Donets'k|Sumy|Zaporizhzhya|Kharkiv
+2025-03-11T17:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kharkiv
+2025-03-11T18:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Kharkiv
+2025-03-11T19:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Cherkasy|Kharkiv|Poltava|Chernihiv|Sumy
+2025-03-11T20:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Cherkasy|Odessa|Vinnytsya|Kharkiv|Poltava|Chernihiv|Sumy
+2025-03-11T21:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Mykolayiv|Kirovohrad|Cherkasy|Vinnytsya|Zhytomyr|Kharkiv|Poltava|Chernihiv|Sumy|Kiev|Khmel'nyts'kyy
+2025-03-11T22:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Cherkasy|Vinnytsya|Ternopil'|Kharkiv|Poltava|Chernihiv|Sumy|Kiev|Khmel'nyts'kyy
+2025-03-11T23:00:00,Cherkasy|Vinnytsya|Kiev City|Kharkiv|Poltava|Chernihiv|Sumy|Kiev|Khmel'nyts'kyy|Zhytomyr
+2025-03-12T00:00:00,Cherkasy|Vinnytsya|Kharkiv|Poltava|Chernihiv|Sumy|Kiev|Khmel'nyts'kyy|Zhytomyr|Ternopil'
+2025-03-12T01:00:00,Kharkiv|Poltava|Chernihiv|Sumy|Kiev|Khmel'nyts'kyy|Zhytomyr|Ternopil'|Rivne|Dnipropetrovs'k
+2025-03-12T02:00:00,Dnipropetrovs'k|Donets'k|Kirovohrad
+2025-03-12T03:00:00,Donets'k
+2025-03-12T04:00:00,Donets'k|Sumy|Chernihiv
+2025-03-12T05:00:00,Donets'k|Sumy|Chernihiv|Poltava|Kiev
+2025-03-12T06:00:00,Donets'k|Sumy|Chernihiv|Poltava|Kiev|Zaporizhzhya|Kirovohrad|Cherkasy|Dnipropetrovs'k|Odessa|Mykolayiv|Kharkiv|Kherson
+2025-03-12T07:00:00,Donets'k|Kharkiv|Sumy
+2025-03-12T08:00:00,Donets'k|Sumy
+2025-03-12T09:00:00,Donets'k|Sumy
+2025-03-12T10:00:00,Donets'k|Dnipropetrovs'k
+2025-03-12T11:00:00,
+2025-03-12T12:00:00,
+2025-03-12T13:00:00,Donets'k|Sumy
+2025-03-12T14:00:00,Donets'k|Sumy|Odessa
+2025-03-12T15:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv
+2025-03-12T16:00:00,
+2025-03-12T17:00:00,Zaporizhzhya|Dnipropetrovs'k
+2025-03-12T18:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv
+2025-03-12T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv
+2025-03-12T20:00:00,Mykolayiv|Odessa|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Chernihiv
+2025-03-12T21:00:00,Kherson|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Chernihiv
+2025-03-12T22:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Chernihiv|Kiev|Kiev City
+2025-03-12T23:00:00,Mykolayiv|Odessa|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Chernihiv|Kiev|Kiev City|Kirovohrad
+2025-03-13T00:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Chernihiv|Kiev|Kiev City|Kirovohrad
+2025-03-13T01:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Chernihiv|Kiev|Kirovohrad|Vinnytsya
+2025-03-13T02:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Chernihiv|Vinnytsya|Khmel'nyts'kyy
+2025-03-13T03:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Mykolayiv|Odessa
+2025-03-13T04:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k
+2025-03-13T05:00:00,
+2025-03-13T06:00:00,
+2025-03-13T07:00:00,
+2025-03-13T08:00:00,Donets'k|Sumy|Kharkiv
+2025-03-13T09:00:00,Donets'k|Sumy|Kharkiv
+2025-03-13T10:00:00,Donets'k|Dnipropetrovs'k
+2025-03-13T11:00:00,
+2025-03-13T12:00:00,
+2025-03-13T13:00:00,Sumy|Donets'k
+2025-03-13T14:00:00,Sumy|Donets'k
+2025-03-13T15:00:00,Sumy|Donets'k|Kharkiv
+2025-03-13T16:00:00,Donets'k
+2025-03-13T17:00:00,
+2025-03-13T18:00:00,Kharkiv
+2025-03-13T19:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kherson|Sumy|Mykolayiv|Donets'k
+2025-03-13T20:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Donets'k
+2025-03-13T21:00:00,Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Donets'k
+2025-03-13T22:00:00,
+2025-03-13T23:00:00,Kharkiv
+2025-03-14T00:00:00,Kharkiv
+2025-03-14T01:00:00,Kharkiv|Sumy|Donets'k
+2025-03-14T02:00:00,Kharkiv|Sumy|Donets'k
+2025-03-14T03:00:00,Donets'k
+2025-03-14T04:00:00,
+2025-03-14T05:00:00,
+2025-03-14T06:00:00,
+2025-03-14T07:00:00,Kharkiv|Donets'k|Sumy
+2025-03-14T08:00:00,Kharkiv|Donets'k|Sumy
+2025-03-14T09:00:00,Kharkiv|Donets'k
+2025-03-14T10:00:00,Kharkiv|Donets'k|Poltava|Dnipropetrovs'k|Sumy|Zaporizhzhya
+2025-03-14T11:00:00,Kharkiv
+2025-03-14T12:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Sumy|Kherson|Mykolayiv
+2025-03-14T13:00:00,Kharkiv|Donets'k|Sumy|Dnipropetrovs'k
+2025-03-14T14:00:00,Kharkiv|Donets'k|Sumy|Dnipropetrovs'k
+2025-03-14T15:00:00,Kharkiv
+2025-03-14T16:00:00,Kiev City|Poltava|Zaporizhzhya|Volyn|Sumy|Dnipropetrovs'k|Donets'k|Zhytomyr|Mykolayiv|Cherkasy|Kharkiv|Chernihiv|Transcarpathia|Rivne|Kirovohrad|Odessa|Khmel'nyts'kyy|Ivano-Frankivs'k|Ternopil'|Vinnytsya|Chernivtsi|Kiev|L'viv|Kherson
+2025-03-14T17:00:00,
+2025-03-14T18:00:00,Zaporizhzhya|Donets'k|Kharkiv|Mykolayiv|Kirovohrad|Dnipropetrovs'k
+2025-03-14T19:00:00,Zaporizhzhya|Donets'k|Kharkiv|Mykolayiv|Kherson|Dnipropetrovs'k|Poltava|Sumy
+2025-03-14T20:00:00,Zaporizhzhya|Donets'k|Kharkiv|Mykolayiv|Kherson|Odessa|Kirovohrad|Dnipropetrovs'k|Poltava|Sumy|Chernihiv
+2025-03-14T21:00:00,Zaporizhzhya|Donets'k|Kharkiv|Mykolayiv|Kherson|Kirovohrad|Dnipropetrovs'k|Poltava|Sumy|Chernihiv|Kiev
+2025-03-14T22:00:00,Mykolayiv|Kirovohrad|Dnipropetrovs'k|Poltava|Sumy|Chernihiv|Kiev
+2025-03-14T23:00:00,Mykolayiv|Kirovohrad|Odessa|Dnipropetrovs'k|Poltava|Sumy|Chernihiv|Kiev|Vinnytsya|Kharkiv|Zhytomyr
+2025-03-15T00:00:00,Kirovohrad|Dnipropetrovs'k|Poltava|Sumy|Chernihiv|Kiev|Vinnytsya|Kharkiv|Zhytomyr|Khmel'nyts'kyy
+2025-03-15T01:00:00,Dnipropetrovs'k|Poltava|Sumy|Chernihiv|Kiev|Vinnytsya|Kharkiv|Zhytomyr|Khmel'nyts'kyy|Donets'k
+2025-03-15T02:00:00,Dnipropetrovs'k|Poltava|Sumy|Chernihiv|Kiev|Vinnytsya|Kharkiv|Zhytomyr|Khmel'nyts'kyy|Donets'k
+2025-03-15T03:00:00,Dnipropetrovs'k|Poltava|Sumy|Kharkiv|Donets'k|Kirovohrad|Zaporizhzhya|Khmel'nyts'kyy|Vinnytsya
+2025-03-15T04:00:00,Dnipropetrovs'k|Donets'k|Kirovohrad|Zaporizhzhya|Mykolayiv
+2025-03-15T05:00:00,
+2025-03-15T06:00:00,
+2025-03-15T07:00:00,Kharkiv|Donets'k|Sumy
+2025-03-15T08:00:00,Kharkiv|Donets'k|Sumy
+2025-03-15T09:00:00,Donets'k|Dnipropetrovs'k|Mykolayiv
+2025-03-15T10:00:00,
+2025-03-15T11:00:00,
+2025-03-15T12:00:00,Kharkiv|Donets'k|Sumy
+2025-03-15T13:00:00,Kharkiv|Donets'k|Sumy|Dnipropetrovs'k
+2025-03-15T14:00:00,Donets'k
+2025-03-15T15:00:00,
+2025-03-15T16:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-03-15T17:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad
+2025-03-15T18:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad|Sumy|Chernihiv|Donets'k
+2025-03-15T19:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad|Sumy|Chernihiv|Donets'k|Kherson|Mykolayiv|Odessa|Kiev
+2025-03-15T20:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad|Sumy|Chernihiv|Donets'k|Kherson|Mykolayiv|Odessa|Kiev City|Kiev
+2025-03-15T21:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad|Sumy|Donets'k|Kiev City|Kiev
+2025-03-15T22:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad|Sumy|Donets'k|Kiev|Vinnytsya|Zhytomyr
+2025-03-15T23:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Kirovohrad|Sumy|Donets'k|Kiev|Vinnytsya|Zhytomyr
+2025-03-16T00:00:00,Kirovohrad|Kiev|Vinnytsya|Zhytomyr
+2025-03-16T01:00:00,Vinnytsya|Sumy|Kharkiv
+2025-03-16T02:00:00,Donets'k|Kiev|Zhytomyr
+2025-03-16T03:00:00,Donets'k
+2025-03-16T04:00:00,
+2025-03-16T05:00:00,
+2025-03-16T06:00:00,
+2025-03-16T07:00:00,Sumy|Donets'k|Kharkiv
+2025-03-16T08:00:00,Sumy|Donets'k
+2025-03-16T09:00:00,Sumy|Donets'k|Kharkiv
+2025-03-16T10:00:00,
+2025-03-16T11:00:00,
+2025-03-16T12:00:00,Chernihiv|Sumy
+2025-03-16T13:00:00,Sumy|Kharkiv|Donets'k
+2025-03-16T14:00:00,Kharkiv|Donets'k
+2025-03-16T15:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Sumy|Poltava|Chernihiv
+2025-03-16T16:00:00,
+2025-03-16T17:00:00,
+2025-03-16T18:00:00,Zaporizhzhya|Dnipropetrovs'k|Chernihiv|Sumy
+2025-03-16T19:00:00,Kirovohrad|Kharkiv|Chernihiv|Sumy|Poltava|Donets'k
+2025-03-16T20:00:00,Kirovohrad|Kiev|Chernihiv|Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv
+2025-03-16T21:00:00,Chernihiv|Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k
+2025-03-16T22:00:00,Chernihiv|Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kiev|Kirovohrad
+2025-03-16T23:00:00,Odessa|Mykolayiv|Chernihiv|Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kiev|Kirovohrad|Kiev City
+2025-03-17T00:00:00,Chernihiv|Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kiev|Kirovohrad|Kiev City
+2025-03-17T01:00:00,Chernihiv|Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kiev|Kirovohrad
+2025-03-17T02:00:00,Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kirovohrad
+2025-03-17T03:00:00,Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Kirovohrad
+2025-03-17T04:00:00,Sumy|Poltava|Donets'k|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Chernihiv
+2025-03-17T05:00:00,Sumy|Poltava|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Chernihiv
+2025-03-17T06:00:00,
+2025-03-17T07:00:00,Donets'k|Sumy
+2025-03-17T08:00:00,Donets'k|Sumy
+2025-03-17T09:00:00,Donets'k|Sumy
+2025-03-17T10:00:00,Donets'k
+2025-03-17T11:00:00,
+2025-03-17T12:00:00,
+2025-03-17T13:00:00,Sumy|Kharkiv|Donets'k
+2025-03-17T14:00:00,Donets'k
+2025-03-17T15:00:00,Donets'k|Kharkiv|Zaporizhzhya
+2025-03-17T16:00:00,Donets'k
+2025-03-17T17:00:00,Dnipropetrovs'k|Zaporizhzhya
+2025-03-17T18:00:00,Dnipropetrovs'k|Zaporizhzhya|Sumy|Kharkiv
+2025-03-17T19:00:00,Dnipropetrovs'k|Poltava|Donets'k|Zaporizhzhya|Sumy|Kharkiv|Kirovohrad
+2025-03-17T20:00:00,Dnipropetrovs'k|Poltava|Donets'k|Mykolayiv|Zaporizhzhya|Sumy|Kharkiv|Kirovohrad
+2025-03-17T21:00:00,Dnipropetrovs'k|Poltava|Donets'k|Mykolayiv|Kherson|Zaporizhzhya|Sumy|Kharkiv|Kirovohrad|Chernihiv|Kiev
+2025-03-17T22:00:00,Dnipropetrovs'k|Poltava|Donets'k|Mykolayiv|Kherson|Zaporizhzhya|Sumy|Kharkiv|Kirovohrad|Chernihiv|Kiev
+2025-03-17T23:00:00,Dnipropetrovs'k|Poltava|Donets'k|Mykolayiv|Vinnytsya|Zaporizhzhya|Sumy|Kharkiv|Kirovohrad|Chernihiv|Kiev
+2025-03-18T00:00:00,Dnipropetrovs'k|Poltava|Donets'k|Kherson|Odessa|Zaporizhzhya|Sumy|Kharkiv|Kirovohrad|Chernihiv|Kiev|Mykolayiv
+2025-03-18T01:00:00,Sumy|Kharkiv|Kirovohrad|Kiev|Mykolayiv
+2025-03-18T02:00:00,Kirovohrad
+2025-03-18T03:00:00,
+2025-03-18T04:00:00,
+2025-03-18T05:00:00,
+2025-03-18T06:00:00,
+2025-03-18T07:00:00,Sumy|Chernihiv
+2025-03-18T08:00:00,Sumy|Chernihiv
+2025-03-18T09:00:00,Chernihiv|Sumy
+2025-03-18T10:00:00,
+2025-03-18T11:00:00,Sumy
+2025-03-18T12:00:00,Kharkiv|Sumy
+2025-03-18T13:00:00,Kharkiv|Sumy|Donets'k|Chernihiv
+2025-03-18T14:00:00,Sumy|Donets'k
+2025-03-18T15:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-03-18T16:00:00,
+2025-03-18T17:00:00,Chernihiv|Sumy
+2025-03-18T18:00:00,Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Kiev|Sumy
+2025-03-18T19:00:00,Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Kiev|Poltava|Kharkiv|Donets'k|Kirovohrad|Cherkasy|Kiev City|Sumy
+2025-03-18T20:00:00,Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Kiev|Poltava|Kharkiv|Donets'k|Kirovohrad|Cherkasy|Kiev City|Zhytomyr|Vinnytsya|Sumy
+2025-03-18T21:00:00,Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Kiev|Poltava|Kharkiv|Donets'k|Kirovohrad|Cherkasy|Kiev City|Zhytomyr|Vinnytsya|Sumy
+2025-03-18T22:00:00,Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Kiev|Poltava|Kharkiv|Donets'k|Kirovohrad|Cherkasy|Kiev City|Zhytomyr|Vinnytsya|Sumy
+2025-03-18T23:00:00,Chernihiv|Zaporizhzhya|Dnipropetrovs'k|Kiev|Poltava|Kharkiv|Donets'k|Kirovohrad|Cherkasy|Kiev City|Zhytomyr|Vinnytsya|Mykolayiv|Odessa|Sumy
+2025-03-19T00:00:00,Chernihiv|Kiev|Kiev City|Sumy
+2025-03-19T01:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-03-19T02:00:00,Sumy|Donets'k|Dnipropetrovs'k|Chernihiv|Poltava
+2025-03-19T03:00:00,Sumy|Chernihiv|Poltava|Zaporizhzhya
+2025-03-19T04:00:00,
+2025-03-19T05:00:00,
+2025-03-19T06:00:00,
+2025-03-19T07:00:00,Donets'k|Sumy
+2025-03-19T08:00:00,Donets'k|Sumy
+2025-03-19T09:00:00,Donets'k|Dnipropetrovs'k
+2025-03-19T10:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-03-19T11:00:00,
+2025-03-19T12:00:00,Kharkiv|Sumy
+2025-03-19T13:00:00,Kharkiv|Sumy|Donets'k
+2025-03-19T14:00:00,Kharkiv|Sumy|Donets'k
+2025-03-19T15:00:00,Kharkiv|Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Cherkasy|Kirovohrad|Kiev|Chernihiv
+2025-03-19T16:00:00,Poltava
+2025-03-19T17:00:00,
+2025-03-19T18:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv|Sumy
+2025-03-19T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv|Chernihiv|Kirovohrad|Donets'k|Kherson|Sumy
+2025-03-19T20:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv|Chernihiv|Kirovohrad|Donets'k|Kherson|Kiev|Mykolayiv|Sumy
+2025-03-19T21:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Kharkiv|Chernihiv|Kirovohrad|Donets'k|Kherson|Kiev|Mykolayiv|Sumy
+2025-03-19T22:00:00,Dnipropetrovs'k|Poltava|Chernihiv|Kirovohrad|Kherson|Kiev|Mykolayiv|Odessa|Sumy
+2025-03-19T23:00:00,Poltava|Chernihiv|Kirovohrad|Kiev|Mykolayiv|Odessa|Sumy|Zhytomyr|Vinnytsya
+2025-03-20T00:00:00,Kiev|Sumy|Zhytomyr|Vinnytsya|Khmel'nyts'kyy
+2025-03-20T01:00:00,Sumy|Zhytomyr|Vinnytsya|Khmel'nyts'kyy|Donets'k
+2025-03-20T02:00:00,Sumy|Donets'k
+2025-03-20T03:00:00,Donets'k
+2025-03-20T04:00:00,Donets'k
+2025-03-20T05:00:00,
+2025-03-20T06:00:00,
+2025-03-20T07:00:00,Donets'k|Sumy|Kharkiv
+2025-03-20T08:00:00,Donets'k|Sumy|Kharkiv|Zaporizhzhya|Dnipropetrovs'k
+2025-03-20T09:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-20T10:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-20T11:00:00,Kharkiv|Odessa|Poltava|Donets'k|Dnipropetrovs'k|Sumy|Zaporizhzhya|Chernihiv
+2025-03-20T12:00:00,Donets'k|Sumy
+2025-03-20T13:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv|Poltava|Zaporizhzhya|Kirovohrad
+2025-03-20T14:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k
+2025-03-20T15:00:00,Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya
+2025-03-20T16:00:00,
+2025-03-20T17:00:00,
+2025-03-20T18:00:00,Zaporizhzhya
+2025-03-20T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Donets'k|Odessa|Poltava
+2025-03-20T20:00:00,Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Chernihiv|Kharkiv|Sumy|Donets'k|Odessa|Poltava
+2025-03-20T21:00:00,Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Chernihiv|Zhytomyr|Kharkiv|Sumy|Donets'k|Odessa|Poltava|Kiev
+2025-03-20T22:00:00,Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Chernihiv|Zhytomyr|Kiev City|Rivne|Kharkiv|Sumy|Donets'k|Odessa|Poltava|Kiev
+2025-03-20T23:00:00,Zaporizhzhya|Dnipropetrovs'k|Kherson|Mykolayiv|Kirovohrad|Chernihiv|Zhytomyr|Kiev City|Khmel'nyts'kyy|Vinnytsya|Kharkiv|Sumy|Donets'k|Odessa|Poltava|Kiev
+2025-03-21T00:00:00,Zaporizhzhya|Dnipropetrovs'k|Zhytomyr|Vinnytsya|Kharkiv|Sumy|Donets'k|Odessa|Poltava|Kiev
+2025-03-21T01:00:00,Kharkiv|Sumy|Donets'k|Odessa
+2025-03-21T02:00:00,Sumy|Odessa
+2025-03-21T03:00:00,Odessa|Donets'k
+2025-03-21T04:00:00,
+2025-03-21T05:00:00,
+2025-03-21T06:00:00,
+2025-03-21T07:00:00,Kharkiv|Sumy|Donets'k
+2025-03-21T08:00:00,Kharkiv|Sumy|Donets'k
+2025-03-21T09:00:00,Donets'k
+2025-03-21T10:00:00,Donets'k
+2025-03-21T11:00:00,Kharkiv
+2025-03-21T12:00:00,Kharkiv|Donets'k|Sumy
+2025-03-21T13:00:00,Donets'k|Sumy|Kharkiv
+2025-03-21T14:00:00,Donets'k|Sumy
+2025-03-21T15:00:00,Donets'k|Sumy|Chernihiv
+2025-03-21T16:00:00,Donets'k|Sumy
+2025-03-21T17:00:00,Sumy|Dnipropetrovs'k|Zaporizhzhya
+2025-03-21T18:00:00,Sumy|Chernihiv|Kirovohrad|Poltava|Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-03-21T19:00:00,Sumy|Chernihiv|Kirovohrad|Poltava|Kiev|Kherson|Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-03-21T20:00:00,Sumy|Chernihiv|Kirovohrad|Poltava|Kiev|Kherson|Mykolayiv|Kiev City|Zhytomyr|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k
+2025-03-21T21:00:00,Sumy|Chernihiv|Kirovohrad|Poltava|Kiev|Kherson|Mykolayiv|Kiev City|Zhytomyr|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k
+2025-03-21T22:00:00,Sumy|Chernihiv|Kirovohrad|Poltava|Kiev|Kiev City|Zhytomyr|Vinnytsya|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k
+2025-03-21T23:00:00,Sumy|Kirovohrad|Poltava|Kiev|Zhytomyr|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k
+2025-03-22T00:00:00,Kirovohrad|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k
+2025-03-22T01:00:00,Dnipropetrovs'k|Donets'k|Sumy
+2025-03-22T02:00:00,Dnipropetrovs'k|Donets'k|Sumy|Kharkiv
+2025-03-22T03:00:00,Dnipropetrovs'k|Donets'k
+2025-03-22T04:00:00,
+2025-03-22T05:00:00,Sumy
+2025-03-22T06:00:00,
+2025-03-22T07:00:00,Sumy|Kharkiv|Donets'k
+2025-03-22T08:00:00,Sumy|Donets'k
+2025-03-22T09:00:00,Donets'k
+2025-03-22T10:00:00,Donets'k|Sumy|Poltava|Chernihiv|Kiev
+2025-03-22T11:00:00,Kharkiv
+2025-03-22T12:00:00,
+2025-03-22T13:00:00,Donets'k|Sumy|Kharkiv
+2025-03-22T14:00:00,Donets'k|Sumy|Kharkiv|Odessa
+2025-03-22T15:00:00,Donets'k|Sumy|Kharkiv
+2025-03-22T16:00:00,
+2025-03-22T17:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Zaporizhzhya
+2025-03-22T18:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Kirovohrad|Kiev
+2025-03-22T19:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Kirovohrad|Kiev|Kiev City|Zhytomyr
+2025-03-22T20:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Kirovohrad|Kiev|Kiev City|Rivne|Zhytomyr
+2025-03-22T21:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Kirovohrad|Kiev|Kiev City|Rivne|Zhytomyr
+2025-03-22T22:00:00,Sumy|Chernihiv|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Donets'k|Poltava|Kirovohrad|Kiev|Kiev City|Vinnytsya|Zhytomyr
+2025-03-22T23:00:00,Sumy|Chernihiv|Poltava|Kirovohrad|Kiev|Kiev City|Vinnytsya|Zhytomyr|Khmel'nyts'kyy
+2025-03-23T00:00:00,Sumy|Vinnytsya|Kharkiv|Zhytomyr|Khmel'nyts'kyy|Donets'k
+2025-03-23T01:00:00,Donets'k|Odessa|Kharkiv|Sumy
+2025-03-23T02:00:00,Donets'k|Kharkiv|Sumy
+2025-03-23T03:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k
+2025-03-23T04:00:00,
+2025-03-23T05:00:00,Zaporizhzhya
+2025-03-23T06:00:00,
+2025-03-23T07:00:00,Donets'k|Kharkiv|Sumy
+2025-03-23T08:00:00,Donets'k|Sumy|Dnipropetrovs'k|Poltava|Kirovohrad|Kharkiv|Zaporizhzhya
+2025-03-23T09:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-23T10:00:00,Donets'k|Dnipropetrovs'k|Odessa
+2025-03-23T11:00:00,
+2025-03-23T12:00:00,
+2025-03-23T13:00:00,Kharkiv|Sumy|Donets'k
+2025-03-23T14:00:00,Kharkiv|Sumy|Donets'k|Dnipropetrovs'k
+2025-03-23T15:00:00,Kharkiv|Sumy|Donets'k|Dnipropetrovs'k
+2025-03-23T16:00:00,Zaporizhzhya
+2025-03-23T17:00:00,
+2025-03-23T18:00:00,
+2025-03-23T19:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Donets'k|Sumy|Odessa
+2025-03-23T20:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Donets'k|Sumy|Kirovohrad|Poltava|Kherson|Chernihiv|Cherkasy
+2025-03-23T21:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Donets'k|Sumy|Kirovohrad|Poltava|Kherson|Chernihiv|Cherkasy|Mykolayiv|Kiev
+2025-03-23T22:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Donets'k|Sumy|Kirovohrad|Poltava|Kherson|Chernihiv|Cherkasy|Mykolayiv|Kiev|Vinnytsya
+2025-03-23T23:00:00,Kharkiv|Sumy|Kirovohrad|Poltava|Chernihiv|Cherkasy|Kiev|Kiev City
+2025-03-24T00:00:00,Sumy
+2025-03-24T01:00:00,Kharkiv|Sumy|Donets'k
+2025-03-24T02:00:00,Kharkiv|Sumy|Donets'k
+2025-03-24T03:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-03-24T04:00:00,
+2025-03-24T05:00:00,
+2025-03-24T06:00:00,
+2025-03-24T07:00:00,Donets'k|Sumy
+2025-03-24T08:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-24T09:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-24T10:00:00,
+2025-03-24T11:00:00,Kharkiv
+2025-03-24T12:00:00,Kharkiv|Donets'k
+2025-03-24T13:00:00,Donets'k|Sumy|Kharkiv
+2025-03-24T14:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k
+2025-03-24T15:00:00,Donets'k|Dnipropetrovs'k
+2025-03-24T16:00:00,Zaporizhzhya|Dnipropetrovs'k
+2025-03-24T17:00:00,Kirovohrad|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava
+2025-03-24T18:00:00,Kirovohrad|Kherson|Mykolayiv|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Chernihiv|Donets'k
+2025-03-24T19:00:00,Kirovohrad|Kiev|Kherson|Mykolayiv|Odessa|Kiev City|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Chernihiv|Donets'k
+2025-03-24T20:00:00,Kirovohrad|Kiev|Kherson|Mykolayiv|Kiev City|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Chernihiv|Donets'k
+2025-03-24T21:00:00,Kirovohrad|Kiev|Kiev City|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Chernihiv|Donets'k
+2025-03-24T22:00:00,Kirovohrad|Kiev|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Chernihiv|Donets'k
+2025-03-24T23:00:00,Kirovohrad|Kiev|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Chernihiv|Donets'k
+2025-03-25T00:00:00,Kiev|Odessa|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Chernihiv|Donets'k
+2025-03-25T01:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Chernihiv|Donets'k
+2025-03-25T02:00:00,Dnipropetrovs'k|Sumy|Poltava|Kharkiv|Donets'k|Kherson
+2025-03-25T03:00:00,Poltava|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-03-25T04:00:00,Dnipropetrovs'k|Zaporizhzhya
+2025-03-25T05:00:00,Dnipropetrovs'k|Zaporizhzhya
+2025-03-25T06:00:00,
+2025-03-25T07:00:00,Sumy|Donets'k
+2025-03-25T08:00:00,Sumy|Donets'k
+2025-03-25T09:00:00,Sumy|Donets'k|Kharkiv
+2025-03-25T10:00:00,Donets'k
+2025-03-25T11:00:00,
+2025-03-25T12:00:00,Sumy
+2025-03-25T13:00:00,Sumy|Donets'k
+2025-03-25T14:00:00,Sumy|Donets'k
+2025-03-25T15:00:00,Donets'k
+2025-03-25T16:00:00,
+2025-03-25T17:00:00,
+2025-03-25T18:00:00,
+2025-03-25T19:00:00,Donets'k|Mykolayiv|Kharkiv|Sumy|Poltava|Kherson
+2025-03-25T20:00:00,Donets'k|Mykolayiv|Chernihiv|Kharkiv|Sumy|Poltava|Kherson|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad
+2025-03-25T21:00:00,Donets'k|Kharkiv|Sumy|Poltava|Kherson|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Chernihiv
+2025-03-25T22:00:00,Donets'k|Kharkiv|Sumy|Poltava|Kherson|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Chernihiv|Mykolayiv
+2025-03-25T23:00:00,Kharkiv|Sumy|Poltava|Kherson|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Chernihiv|Mykolayiv|Kiev
+2025-03-26T00:00:00,Kharkiv|Sumy|Poltava|Kherson|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Chernihiv|Mykolayiv|Kiev
+2025-03-26T01:00:00,Kharkiv|Sumy|Poltava|Kherson|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Chernihiv|Mykolayiv|Kiev
+2025-03-26T02:00:00,Kharkiv|Sumy|Poltava|Kherson|Dnipropetrovs'k|Kirovohrad|Mykolayiv
+2025-03-26T03:00:00,Kharkiv|Sumy|Poltava|Kirovohrad
+2025-03-26T04:00:00,Kharkiv|Sumy|Poltava|Kirovohrad
+2025-03-26T05:00:00,
+2025-03-26T06:00:00,
+2025-03-26T07:00:00,Kharkiv|Sumy
+2025-03-26T08:00:00,Kharkiv|Sumy|Donets'k
+2025-03-26T09:00:00,Sumy|Donets'k
+2025-03-26T10:00:00,Donets'k
+2025-03-26T11:00:00,
+2025-03-26T12:00:00,Sumy|Kharkiv
+2025-03-26T13:00:00,Kharkiv|Sumy
+2025-03-26T14:00:00,Kharkiv|Sumy|Donets'k|Poltava|Chernihiv|Kirovohrad|Mykolayiv|Kherson|Odessa|Dnipropetrovs'k
+2025-03-26T15:00:00,Sumy|Donets'k|Kharkiv
+2025-03-26T16:00:00,Donets'k|Kharkiv
+2025-03-26T17:00:00,
+2025-03-26T18:00:00,
+2025-03-26T19:00:00,Zaporizhzhya|Chernihiv|Dnipropetrovs'k|Sumy|Kharkiv
+2025-03-26T20:00:00,Zaporizhzhya|Chernihiv|Dnipropetrovs'k|Donets'k|Sumy|Kharkiv|Poltava|Kirovohrad
+2025-03-26T21:00:00,Zaporizhzhya|Chernihiv|Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Sumy|Kharkiv|Poltava|Kirovohrad|Kiev
+2025-03-26T22:00:00,Zaporizhzhya|Chernihiv|Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Zhytomyr|Sumy|Kharkiv|Poltava|Kirovohrad|Kiev
+2025-03-26T23:00:00,Zaporizhzhya|Chernihiv|Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Zhytomyr|Khmel'nyts'kyy|Vinnytsya|Sumy|Kharkiv|Poltava|Kirovohrad|Kiev
+2025-03-27T00:00:00,Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kherson|Mykolayiv|Sumy|Kharkiv|Poltava|Kirovohrad|Kiev
+2025-03-27T01:00:00,Sumy|Kharkiv|Kiev
+2025-03-27T02:00:00,Sumy
+2025-03-27T03:00:00,
+2025-03-27T04:00:00,
+2025-03-27T05:00:00,
+2025-03-27T06:00:00,
+2025-03-27T07:00:00,Sumy
+2025-03-27T08:00:00,Sumy|Donets'k
+2025-03-27T09:00:00,Donets'k
+2025-03-27T10:00:00,Donets'k|Sumy|Zaporizhzhya
+2025-03-27T11:00:00,Donets'k|Kharkiv|Dnipropetrovs'k
+2025-03-27T12:00:00,Kharkiv|Sumy
+2025-03-27T13:00:00,Kharkiv|Sumy|Donets'k
+2025-03-27T14:00:00,Sumy|Donets'k
+2025-03-27T15:00:00,Donets'k
+2025-03-27T16:00:00,Donets'k|Sumy
+2025-03-27T17:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava
+2025-03-27T18:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Donets'k|Kirovohrad|Chernihiv|Sumy
+2025-03-27T19:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Donets'k|Kirovohrad|Chernihiv|Sumy
+2025-03-27T20:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Donets'k|Kirovohrad|Chernihiv|Kherson|Kiev|Sumy|Mykolayiv
+2025-03-27T21:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Donets'k|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Sumy|Mykolayiv
+2025-03-27T22:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Donets'k|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Zhytomyr|Khmel'nyts'kyy|Sumy|Mykolayiv
+2025-03-27T23:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Donets'k|Kiev|Zhytomyr|Odessa|Sumy|Mykolayiv
+2025-03-28T00:00:00,Odessa|Khmel'nyts'kyy|Sumy|Mykolayiv
+2025-03-28T01:00:00,Mykolayiv|Sumy
+2025-03-28T02:00:00,Mykolayiv|Sumy
+2025-03-28T03:00:00,Sumy|Kharkiv|Donets'k
+2025-03-28T04:00:00,Sumy|Kharkiv|Donets'k
+2025-03-28T05:00:00,Sumy
+2025-03-28T06:00:00,Sumy
+2025-03-28T07:00:00,Donets'k|Sumy
+2025-03-28T08:00:00,Donets'k|Sumy|Poltava|Chernihiv|Kharkiv|Dnipropetrovs'k
+2025-03-28T09:00:00,Donets'k|Sumy|Poltava|Chernihiv|Kharkiv|Dnipropetrovs'k
+2025-03-28T10:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kiev|Chernihiv
+2025-03-28T11:00:00,Donets'k|Kharkiv
+2025-03-28T12:00:00,Kharkiv|Donets'k
+2025-03-28T13:00:00,Kharkiv|Donets'k|Sumy
+2025-03-28T14:00:00,Donets'k|Sumy
+2025-03-28T15:00:00,Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya
+2025-03-28T16:00:00,
+2025-03-28T17:00:00,
+2025-03-28T18:00:00,Sumy
+2025-03-28T19:00:00,Kharkiv|Chernihiv|Poltava|Dnipropetrovs'k|Kherson|Zaporizhzhya|Donets'k|Sumy
+2025-03-28T20:00:00,Kharkiv|Chernihiv|Poltava|Dnipropetrovs'k|Kherson|Zaporizhzhya|Donets'k|Kiev|Kirovohrad|Sumy
+2025-03-28T21:00:00,Kharkiv|Chernihiv|Poltava|Dnipropetrovs'k|Kherson|Zaporizhzhya|Donets'k|Kiev|Kirovohrad|Zhytomyr|Sumy
+2025-03-28T22:00:00,Kharkiv|Chernihiv|Poltava|Dnipropetrovs'k|Kherson|Zaporizhzhya|Donets'k|Kiev|Kirovohrad|Zhytomyr|Kiev City|Sumy
+2025-03-28T23:00:00,Kharkiv|Chernihiv|Poltava|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kiev|Kirovohrad|Zhytomyr|Kiev City|Vinnytsya|Sumy
+2025-03-29T00:00:00,Kharkiv|Chernihiv|Poltava|Kiev|Zhytomyr|Vinnytsya|Kiev City|Khmel'nyts'kyy|Sumy
+2025-03-29T01:00:00,Sumy|Donets'k
+2025-03-29T02:00:00,Sumy|Donets'k
+2025-03-29T03:00:00,Donets'k
+2025-03-29T04:00:00,
+2025-03-29T05:00:00,
+2025-03-29T06:00:00,
+2025-03-29T07:00:00,Donets'k|Sumy
+2025-03-29T08:00:00,Donets'k|Sumy
+2025-03-29T09:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv
+2025-03-29T10:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv|Poltava|Cherkasy|Kirovohrad|Kherson|Zaporizhzhya|Mykolayiv|Odessa
+2025-03-29T11:00:00,Poltava
+2025-03-29T12:00:00,Poltava|Donets'k
+2025-03-29T13:00:00,Donets'k|Kharkiv|Sumy
+2025-03-29T14:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k
+2025-03-29T15:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k
+2025-03-29T16:00:00,Kharkiv|Sumy
+2025-03-29T17:00:00,
+2025-03-29T18:00:00,
+2025-03-29T19:00:00,Chernihiv|Poltava|Sumy|Kharkiv|Donets'k
+2025-03-29T20:00:00,Chernihiv|Poltava|Dnipropetrovs'k|Kiev|Sumy|Kharkiv|Donets'k
+2025-03-29T21:00:00,Chernihiv|Poltava|Dnipropetrovs'k|Kiev|Kirovohrad|Sumy|Kharkiv|Donets'k
+2025-03-29T22:00:00,Chernihiv|Poltava|Dnipropetrovs'k|Kiev|Kirovohrad|Zhytomyr|Vinnytsya|Mykolayiv|Sumy|Kharkiv|Donets'k
+2025-03-29T23:00:00,Chernihiv|Poltava|Dnipropetrovs'k|Kiev|Kirovohrad|Sumy|Kharkiv|Donets'k
+2025-03-30T00:00:00,Poltava|Dnipropetrovs'k|Kiev|Kirovohrad|Sumy|Kharkiv|Donets'k
+2025-03-30T01:00:00,Sumy
+2025-03-30T02:00:00,Sumy|Odessa|Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Kirovohrad|Cherkasy|Donets'k
+2025-03-30T03:00:00,Sumy|Odessa|Kharkiv
+2025-03-30T04:00:00,
+2025-03-30T05:00:00,
+2025-03-30T06:00:00,
+2025-03-30T07:00:00,Sumy
+2025-03-30T08:00:00,Sumy|Donets'k
+2025-03-30T09:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-03-30T10:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-03-30T11:00:00,Sumy
+2025-03-30T12:00:00,
+2025-03-30T13:00:00,Kharkiv|Poltava|Chernihiv|Sumy
+2025-03-30T14:00:00,Sumy|Donets'k
+2025-03-30T15:00:00,Sumy|Donets'k|Dnipropetrovs'k|Kharkiv
+2025-03-30T16:00:00,Sumy|Donets'k
+2025-03-30T17:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Donets'k
+2025-03-30T18:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Donets'k|Kharkiv|Sumy|Chernihiv
+2025-03-30T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Donets'k|Kharkiv|Sumy|Chernihiv
+2025-03-30T20:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Donets'k|Kharkiv|Kiev City|Sumy|Chernihiv|Kiev
+2025-03-30T21:00:00,Zaporizhzhya|Dnipropetrovs'k|Poltava|Donets'k|Kharkiv|Kiev City|Kirovohrad|Sumy|Chernihiv|Kiev|Zhytomyr
+2025-03-30T22:00:00,Dnipropetrovs'k|Poltava|Kiev City|Kirovohrad|Sumy|Chernihiv|Kiev|Zhytomyr|Vinnytsya
+2025-03-30T23:00:00,Kiev City|Kirovohrad|Mykolayiv|Sumy|Chernihiv|Kiev|Zhytomyr|Vinnytsya
+2025-03-31T00:00:00,Kiev City|Kharkiv|Sumy|Chernihiv|Kiev|Zhytomyr|Vinnytsya
+2025-03-31T01:00:00,Sumy|Chernihiv|Kiev|Zhytomyr|Vinnytsya
+2025-03-31T02:00:00,Sumy|Kiev|Zhytomyr|Donets'k|Kharkiv
+2025-03-31T03:00:00,Sumy|Donets'k|Kharkiv
+2025-03-31T04:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k
+2025-03-31T05:00:00,
+2025-03-31T06:00:00,
+2025-03-31T07:00:00,Donets'k|Sumy
+2025-03-31T08:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-31T09:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-03-31T10:00:00,
+2025-03-31T11:00:00,
+2025-03-31T12:00:00,Sumy
+2025-03-31T13:00:00,Sumy|Kharkiv
+2025-03-31T14:00:00,Sumy|Kharkiv|Donets'k
+2025-03-31T15:00:00,Sumy|Kharkiv|Donets'k|Zaporizhzhya
+2025-03-31T16:00:00,
+2025-03-31T17:00:00,
+2025-03-31T18:00:00,Dnipropetrovs'k|Zaporizhzhya
+2025-03-31T19:00:00,Sumy|Donets'k
+2025-03-31T20:00:00,Sumy
+2025-03-31T21:00:00,Donets'k
+2025-03-31T22:00:00,
+2025-03-31T23:00:00,
+2025-04-01T00:00:00,
+2025-04-01T01:00:00,Sumy
+2025-04-01T02:00:00,Sumy
+2025-04-01T03:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-04-01T04:00:00,
+2025-04-01T05:00:00,
+2025-04-01T06:00:00,
+2025-04-01T07:00:00,Sumy
+2025-04-01T08:00:00,Sumy|Kharkiv|Donets'k
+2025-04-01T09:00:00,Sumy|Donets'k
+2025-04-01T10:00:00,Sumy|Donets'k
+2025-04-01T11:00:00,
+2025-04-01T12:00:00,
+2025-04-01T13:00:00,Donets'k|Sumy
+2025-04-01T14:00:00,Donets'k|Sumy|Kherson|Kharkiv
+2025-04-01T15:00:00,Kherson
+2025-04-01T16:00:00,
+2025-04-01T17:00:00,
+2025-04-01T18:00:00,Zaporizhzhya|Dnipropetrovs'k
+2025-04-01T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Mykolayiv|Donets'k
+2025-04-01T20:00:00,Zaporizhzhya|Sumy|Mykolayiv|Odessa|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-04-01T21:00:00,Donets'k|Kharkiv|Dnipropetrovs'k
+2025-04-01T22:00:00,Donets'k|Kharkiv|Dnipropetrovs'k
+2025-04-01T23:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya
+2025-04-02T00:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya
+2025-04-02T01:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Sumy
+2025-04-02T02:00:00,Donets'k|Kharkiv|Sumy
+2025-04-02T03:00:00,Donets'k
+2025-04-02T04:00:00,
+2025-04-02T05:00:00,
+2025-04-02T06:00:00,
+2025-04-02T07:00:00,Sumy|Kharkiv|Donets'k
+2025-04-02T08:00:00,Sumy|Kharkiv|Donets'k
+2025-04-02T09:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k
+2025-04-02T10:00:00,
+2025-04-02T11:00:00,Kharkiv|Sumy|Poltava|Dnipropetrovs'k
+2025-04-02T12:00:00,
+2025-04-02T13:00:00,Sumy|Kharkiv|Donets'k
+2025-04-02T14:00:00,Donets'k|Zaporizhzhya
+2025-04-02T15:00:00,Donets'k|Dnipropetrovs'k
+2025-04-02T16:00:00,Donets'k|Dnipropetrovs'k
+2025-04-02T17:00:00,
+2025-04-02T18:00:00,
+2025-04-02T19:00:00,Kharkiv|Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-02T20:00:00,Kharkiv|Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-02T21:00:00,Kharkiv|Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-02T22:00:00,
+2025-04-02T23:00:00,
+2025-04-03T00:00:00,
+2025-04-03T01:00:00,Sumy|Donets'k
+2025-04-03T02:00:00,Sumy|Donets'k|Kharkiv
+2025-04-03T03:00:00,Donets'k|Sumy
+2025-04-03T04:00:00,
+2025-04-03T05:00:00,
+2025-04-03T06:00:00,
+2025-04-03T07:00:00,Sumy|Donets'k
+2025-04-03T08:00:00,Sumy|Donets'k|Kharkiv
+2025-04-03T09:00:00,Sumy|Donets'k
+2025-04-03T10:00:00,Donets'k|Kharkiv
+2025-04-03T11:00:00,Kharkiv|Chernihiv|Kiev City|Dnipropetrovs'k|Donets'k|Poltava|Kirovohrad|Cherkasy|Mykolayiv|Vinnytsya|Kiev|Rivne|Odessa|Volyn|Ivano-Frankivs'k|Zhytomyr|Zaporizhzhya
+2025-04-03T12:00:00,Chernihiv|Sumy|Kharkiv
+2025-04-03T13:00:00,Chernihiv|Sumy|Kharkiv|Donets'k
+2025-04-03T14:00:00,Sumy|Kharkiv|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-03T15:00:00,
+2025-04-03T16:00:00,Kharkiv
+2025-04-03T17:00:00,Kharkiv
+2025-04-03T18:00:00,
+2025-04-03T19:00:00,Sumy|Poltava|Chernihiv|Dnipropetrovs'k|Donets'k|Kharkiv
+2025-04-03T20:00:00,Sumy|Poltava|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv
+2025-04-03T21:00:00,Sumy|Poltava|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Kiev|Kiev City|Donets'k|Kharkiv
+2025-04-03T22:00:00,Sumy|Poltava|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Kiev|Donets'k|Kharkiv
+2025-04-03T23:00:00,Sumy|Poltava|Dnipropetrovs'k|Zaporizhzhya|Chernihiv|Donets'k|Kharkiv
+2025-04-04T00:00:00,Donets'k|Kharkiv
+2025-04-04T01:00:00,Donets'k|Kharkiv|Sumy
+2025-04-04T02:00:00,Donets'k|Kharkiv|Sumy
+2025-04-04T03:00:00,Donets'k
+2025-04-04T04:00:00,Donets'k
+2025-04-04T05:00:00,Donets'k
+2025-04-04T06:00:00,
+2025-04-04T07:00:00,Sumy|Kharkiv|Donets'k|Poltava|Dnipropetrovs'k|Zaporizhzhya
+2025-04-04T08:00:00,Sumy|Donets'k
+2025-04-04T09:00:00,Sumy|Donets'k|Poltava|Kharkiv
+2025-04-04T10:00:00,Donets'k
+2025-04-04T11:00:00,Kharkiv
+2025-04-04T12:00:00,Sumy
+2025-04-04T13:00:00,Sumy|Donets'k|Kharkiv
+2025-04-04T14:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Kherson
+2025-04-04T15:00:00,Donets'k|Zaporizhzhya
+2025-04-04T16:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Cherkasy|Kirovohrad|Zaporizhzhya|Kherson|Sumy
+2025-04-04T17:00:00,Dnipropetrovs'k|Kiev City|Zaporizhzhya|Poltava|Kharkiv|Sumy|Cherkasy|Mykolayiv|Zhytomyr|Kirovohrad|Chernihiv|Kiev|Vinnytsya
+2025-04-04T18:00:00,
+2025-04-04T19:00:00,Donets'k|Zaporizhzhya|Chernihiv|Kherson|Dnipropetrovs'k|Kharkiv|Sumy
+2025-04-04T20:00:00,Donets'k|Zaporizhzhya|Chernihiv|Kherson|Dnipropetrovs'k|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Poltava
+2025-04-04T21:00:00,Donets'k|Zaporizhzhya|Chernihiv|Kherson|Dnipropetrovs'k|Mykolayiv|Kirovohrad|Kharkiv|Sumy|Poltava
+2025-04-04T22:00:00,Donets'k|Zaporizhzhya|Chernihiv|Dnipropetrovs'k|Kirovohrad|Kiev|Vinnytsya|Kharkiv|Sumy|Poltava
+2025-04-04T23:00:00,Chernihiv|Dnipropetrovs'k|Kirovohrad|Kiev|Vinnytsya|Khmel'nyts'kyy|Zhytomyr|Kiev City|Kharkiv|Sumy|Poltava
+2025-04-05T00:00:00,Kharkiv|Sumy|Poltava
+2025-04-05T01:00:00,Kharkiv|Sumy|Donets'k
+2025-04-05T02:00:00,Kharkiv|Sumy|Donets'k
+2025-04-05T03:00:00,Donets'k|Dnipropetrovs'k
+2025-04-05T04:00:00,
+2025-04-05T05:00:00,
+2025-04-05T06:00:00,Sumy
+2025-04-05T07:00:00,Sumy|Kharkiv|Donets'k
+2025-04-05T08:00:00,Sumy|Donets'k|Dnipropetrovs'k|Kharkiv
+2025-04-05T09:00:00,Sumy|Donets'k|Kharkiv|Dnipropetrovs'k
+2025-04-05T10:00:00,Donets'k|Dnipropetrovs'k|Sumy|Kharkiv|Poltava|Chernihiv
+2025-04-05T11:00:00,Sumy|Kharkiv
+2025-04-05T12:00:00,
+2025-04-05T13:00:00,Sumy|Kharkiv|Donets'k
+2025-04-05T14:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kherson
+2025-04-05T15:00:00,Donets'k|Dnipropetrovs'k|Kharkiv|Zaporizhzhya
+2025-04-05T16:00:00,
+2025-04-05T17:00:00,
+2025-04-05T18:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv
+2025-04-05T19:00:00,Mykolayiv|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Poltava|Sumy|Chernihiv
+2025-04-05T20:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Poltava|Sumy|Chernihiv
+2025-04-05T21:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Poltava|Sumy|Chernihiv|Kiev
+2025-04-05T22:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Poltava|Sumy|Chernihiv|Kiev|Kirovohrad
+2025-04-05T23:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Poltava|Sumy|Chernihiv|Kiev|Kirovohrad|Kherson|Mykolayiv|Odessa|Vinnytsya|Zhytomyr|Khmel'nyts'kyy|Transcarpathia|Chernivtsi|Ivano-Frankivs'k|L'viv|Rivne|Kiev City|Ternopil'|Volyn
+2025-04-06T00:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Poltava|Sumy|Chernihiv|Kiev|Kirovohrad|Kherson|Mykolayiv|Odessa|Vinnytsya|Zhytomyr|Khmel'nyts'kyy|Transcarpathia|Chernivtsi|Ivano-Frankivs'k|L'viv|Rivne|Kiev City|Ternopil'|Volyn
+2025-04-06T01:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Poltava|Sumy|Chernihiv|Kiev|Kirovohrad|Odessa|Vinnytsya|Zhytomyr|Kiev City
+2025-04-06T02:00:00,Kharkiv|Sumy|Kiev City|Vinnytsya|Chernihiv|Poltava|Cherkasy|Dnipropetrovs'k|Chernivtsi|Zhytomyr|Donets'k|Kiev|L'viv|Zaporizhzhya|Rivne|Ivano-Frankivs'k|Kirovohrad
+2025-04-06T03:00:00,Kharkiv|Sumy|Kiev City|Vinnytsya|Chernihiv|Poltava|Cherkasy|Dnipropetrovs'k|Chernivtsi|Zhytomyr|Donets'k|Kiev|L'viv|Zaporizhzhya|Rivne|Ivano-Frankivs'k|Kirovohrad|Khmel'nyts'kyy|Volyn|Transcarpathia|Ternopil'|Kherson|Mykolayiv|Odessa
+2025-04-06T04:00:00,Kharkiv|Sumy|Kiev City|Vinnytsya|Chernihiv|Poltava|Cherkasy|Dnipropetrovs'k|Chernivtsi|Zhytomyr|Donets'k|Kiev|L'viv|Zaporizhzhya|Rivne|Ivano-Frankivs'k|Kirovohrad|Khmel'nyts'kyy|Volyn|Transcarpathia|Ternopil'|Kherson|Mykolayiv|Odessa
+2025-04-06T05:00:00,
+2025-04-06T06:00:00,
+2025-04-06T07:00:00,Donets'k|Sumy
+2025-04-06T08:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k
+2025-04-06T09:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k
+2025-04-06T10:00:00,Kharkiv
+2025-04-06T11:00:00,
+2025-04-06T12:00:00,Kharkiv|Donets'k
+2025-04-06T13:00:00,Kharkiv|Donets'k|Sumy
+2025-04-06T14:00:00,Donets'k|Sumy|Dnipropetrovs'k|Kharkiv
+2025-04-06T15:00:00,Donets'k|Dnipropetrovs'k|Kharkiv|Zaporizhzhya|Sumy|Poltava
+2025-04-06T16:00:00,Sumy|Kharkiv
+2025-04-06T17:00:00,
+2025-04-06T18:00:00,Kharkiv|Sumy|Donets'k
+2025-04-06T19:00:00,Kharkiv|Donets'k|Sumy
+2025-04-06T20:00:00,Kharkiv|Donets'k|Sumy
+2025-04-06T21:00:00,Donets'k
+2025-04-06T22:00:00,
+2025-04-06T23:00:00,
+2025-04-07T00:00:00,
+2025-04-07T01:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-04-07T02:00:00,Donets'k|Sumy|Dnipropetrovs'k
+2025-04-07T03:00:00,
+2025-04-07T04:00:00,
+2025-04-07T05:00:00,
+2025-04-07T06:00:00,
+2025-04-07T07:00:00,Kharkiv|Sumy|Donets'k
+2025-04-07T08:00:00,Sumy|Donets'k
+2025-04-07T09:00:00,Sumy|Donets'k
+2025-04-07T10:00:00,Sumy|Kharkiv
+2025-04-07T11:00:00,Kharkiv
+2025-04-07T12:00:00,Kharkiv
+2025-04-07T13:00:00,Kharkiv|Sumy
+2025-04-07T14:00:00,Kharkiv|Sumy|Donets'k
+2025-04-07T15:00:00,Kharkiv|Sumy|Donets'k
+2025-04-07T16:00:00,Sumy
+2025-04-07T17:00:00,
+2025-04-07T18:00:00,
+2025-04-07T19:00:00,Sumy|Kherson|Dnipropetrovs'k|Zaporizhzhya|Donets'k
+2025-04-07T20:00:00,Sumy|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kherson|Kharkiv|Poltava|Cherkasy|Kiev|Chernihiv
+2025-04-07T21:00:00,Sumy|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kherson|Kharkiv|Kirovohrad
+2025-04-07T22:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv
+2025-04-07T23:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv
+2025-04-08T00:00:00,Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv
+2025-04-08T01:00:00,Sumy
+2025-04-08T02:00:00,Sumy
+2025-04-08T03:00:00,Sumy
+2025-04-08T04:00:00,
+2025-04-08T05:00:00,Donets'k
+2025-04-08T06:00:00,
+2025-04-08T07:00:00,Sumy|Donets'k
+2025-04-08T08:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-04-08T09:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-08T10:00:00,
+2025-04-08T11:00:00,Dnipropetrovs'k|Poltava|Kharkiv|Zaporizhzhya|Kirovohrad|Donets'k
+2025-04-08T12:00:00,Sumy
+2025-04-08T13:00:00,Sumy
+2025-04-08T14:00:00,Sumy
+2025-04-08T15:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-04-08T16:00:00,
+2025-04-08T17:00:00,
+2025-04-08T18:00:00,Kharkiv|Donets'k
+2025-04-08T19:00:00,Kharkiv|Donets'k|Kherson|Dnipropetrovs'k|Zaporizhzhya|Poltava|Sumy
+2025-04-08T20:00:00,Kharkiv|Donets'k|Kherson|Dnipropetrovs'k|Zaporizhzhya|Poltava|Sumy
+2025-04-08T21:00:00,Kharkiv|Sumy
+2025-04-08T22:00:00,Kharkiv|Kherson|Dnipropetrovs'k|Mykolayiv|Sumy
+2025-04-08T23:00:00,Sumy
+2025-04-09T00:00:00,Sumy
+2025-04-09T01:00:00,Sumy
+2025-04-09T02:00:00,Sumy
+2025-04-09T03:00:00,Sumy
+2025-04-09T04:00:00,Sumy
+2025-04-09T05:00:00,Sumy
+2025-04-09T06:00:00,Sumy|Kharkiv|Chernihiv|Kiev|Poltava|Cherkasy|Kiev City
+2025-04-09T07:00:00,Sumy
+2025-04-09T08:00:00,Sumy|Donets'k
+2025-04-09T09:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Kiev City|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Cherkasy|Zhytomyr|Kiev|Vinnytsya
+2025-04-09T10:00:00,Sumy
+2025-04-09T11:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Kirovohrad|Poltava|Kherson|Mykolayiv
+2025-04-09T12:00:00,Sumy
+2025-04-09T13:00:00,Sumy
+2025-04-09T14:00:00,Sumy|Kharkiv|Donets'k
+2025-04-09T15:00:00,Sumy|Kharkiv|Donets'k
+2025-04-09T16:00:00,Donets'k|Zaporizhzhya
+2025-04-09T17:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k
+2025-04-09T18:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kherson|Mykolayiv|Chernihiv
+2025-04-09T19:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kherson|Mykolayiv|Chernihiv|Kiev|Kirovohrad
+2025-04-09T20:00:00,Donets'k|Kharkiv|Sumy|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kherson|Mykolayiv|Chernihiv|Kiev|Kirovohrad
+2025-04-09T21:00:00,Kharkiv|Sumy|Poltava|Kherson|Mykolayiv|Chernihiv|Kiev|Kirovohrad|Odessa|Vinnytsya|Zhytomyr|Kiev City
+2025-04-09T22:00:00,Kharkiv|Sumy|Poltava|Kherson|Mykolayiv|Chernihiv|Kiev|Kirovohrad|Odessa|Vinnytsya|Zhytomyr|Kiev City|Khmel'nyts'kyy
+2025-04-09T23:00:00,Kharkiv|Sumy|Chernihiv|Kiev|Vinnytsya|Zhytomyr|Khmel'nyts'kyy
+2025-04-10T00:00:00,Vinnytsya|Mykolayiv|Kherson|Khmel'nyts'kyy|Kharkiv|Sumy|Chernivtsi|Ternopil'
+2025-04-10T01:00:00,Kharkiv|Sumy
+2025-04-10T02:00:00,Kharkiv|Sumy
+2025-04-10T03:00:00,Sumy
+2025-04-10T04:00:00,Sumy|Kharkiv
+2025-04-10T05:00:00,Kharkiv
+2025-04-10T06:00:00,Sumy
+2025-04-10T07:00:00,Sumy|Kharkiv
+2025-04-10T08:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava
+2025-04-10T09:00:00,Sumy|Kharkiv|Donets'k
+2025-04-10T10:00:00,Sumy|Kharkiv
+2025-04-10T11:00:00,Kharkiv
+2025-04-10T12:00:00,
+2025-04-10T13:00:00,Sumy|Chernihiv|Kharkiv
+2025-04-10T14:00:00,Sumy|Chernihiv|Kharkiv|Kiev|Donets'k
+2025-04-10T15:00:00,Sumy|Chernihiv|Kharkiv|Kiev|Donets'k|Zhytomyr|Zaporizhzhya
+2025-04-10T16:00:00,Sumy|Chernihiv|Kharkiv|Kiev|Donets'k|Zhytomyr|Poltava
+2025-04-10T17:00:00,Sumy|Chernihiv|Kharkiv|Kiev|Donets'k|Zhytomyr|Poltava
+2025-04-10T18:00:00,Sumy|Kharkiv|Donets'k|Poltava|Dnipropetrovs'k|Zaporizhzhya|Kherson|Kirovohrad|Mykolayiv|Kiev City
+2025-04-10T19:00:00,Sumy|Kharkiv|Poltava|Dnipropetrovs'k|Kherson|Kirovohrad|Mykolayiv
+2025-04-10T20:00:00,Sumy|Kharkiv|Kirovohrad|Zaporizhzhya|Donets'k
+2025-04-10T21:00:00,Kirovohrad|Donets'k|Dnipropetrovs'k
+2025-04-10T22:00:00,
+2025-04-10T23:00:00,
+2025-04-11T00:00:00,Sumy
+2025-04-11T01:00:00,Sumy
+2025-04-11T02:00:00,Sumy
+2025-04-11T03:00:00,Sumy
+2025-04-11T04:00:00,Sumy|Kharkiv
+2025-04-11T05:00:00,
+2025-04-11T06:00:00,Kharkiv
+2025-04-11T07:00:00,Kharkiv|Sumy|Donets'k
+2025-04-11T08:00:00,Kharkiv|Sumy|Donets'k
+2025-04-11T09:00:00,Kharkiv|Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-11T10:00:00,
+2025-04-11T11:00:00,
+2025-04-11T12:00:00,Kharkiv|Donets'k|Sumy
+2025-04-11T13:00:00,Sumy
+2025-04-11T14:00:00,Kharkiv|Sumy
+2025-04-11T15:00:00,Kharkiv|Sumy
+2025-04-11T16:00:00,Kharkiv|Kiev City|Dnipropetrovs'k|Donets'k|Poltava|Zaporizhzhya|Kiev|Cherkasy|Kirovohrad|Chernihiv|Sumy
+2025-04-11T17:00:00,Zaporizhzhya|Sumy
+2025-04-11T18:00:00,Zaporizhzhya|Kharkiv|Sumy|Donets'k
+2025-04-11T19:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Sumy|Donets'k
+2025-04-11T20:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Sumy|Donets'k|Kirovohrad
+2025-04-11T21:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Mykolayiv|Odessa|Kherson|Sumy|Donets'k|Kirovohrad
+2025-04-11T22:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Mykolayiv|Odessa|Kherson|Sumy|Donets'k|Kirovohrad
+2025-04-11T23:00:00,Zaporizhzhya|Kharkiv|Dnipropetrovs'k|Poltava|Mykolayiv|Odessa|Kherson|Sumy|Donets'k|Kirovohrad|Vinnytsya
+2025-04-12T00:00:00,Sumy|Donets'k|Kirovohrad|Vinnytsya|Chernihiv
+2025-04-12T01:00:00,Sumy|Vinnytsya|Chernihiv|Kiev|Kharkiv
+2025-04-12T02:00:00,Sumy|Chernihiv|Kiev|Kharkiv|Kiev City
+2025-04-12T03:00:00,Sumy
+2025-04-12T04:00:00,Sumy|Kharkiv
+2025-04-12T05:00:00,
+2025-04-12T06:00:00,
+2025-04-12T07:00:00,Sumy|Kharkiv|Donets'k
+2025-04-12T08:00:00,Sumy|Kharkiv|Donets'k
+2025-04-12T09:00:00,Sumy|Kharkiv|Donets'k|Poltava|Dnipropetrovs'k|Chernihiv|Kiev City|Kiev
+2025-04-12T10:00:00,Sumy|Donets'k|Zaporizhzhya
+2025-04-12T11:00:00,
+2025-04-12T12:00:00,
+2025-04-12T13:00:00,Sumy|Poltava|Chernihiv
+2025-04-12T14:00:00,Sumy|Kharkiv
+2025-04-12T15:00:00,Sumy|Kharkiv
+2025-04-12T16:00:00,Sumy|Kharkiv
+2025-04-12T17:00:00,Sumy
+2025-04-12T18:00:00,Sumy|Chernihiv
+2025-04-12T19:00:00,Sumy|Chernihiv|Kharkiv|Donets'k|Kiev
+2025-04-12T20:00:00,Sumy|Chernihiv|Kharkiv|Donets'k|Kiev|Poltava|Kiev City
+2025-04-12T21:00:00,Sumy|Chernihiv|Donets'k|Kiev|Poltava|Kiev City|Zhytomyr
+2025-04-12T22:00:00,Sumy|Chernihiv|Kiev|Poltava|Kiev City|Zhytomyr|Kherson|Mykolayiv
+2025-04-12T23:00:00,Sumy|Chernihiv|Poltava|Kiev|Odessa
+2025-04-13T00:00:00,Kiev|Zhytomyr|Sumy
+2025-04-13T01:00:00,Sumy
+2025-04-13T02:00:00,Sumy
+2025-04-13T03:00:00,Sumy
+2025-04-13T04:00:00,
+2025-04-13T05:00:00,
+2025-04-13T06:00:00,Kharkiv
+2025-04-13T07:00:00,Kharkiv|Sumy|Donets'k
+2025-04-13T08:00:00,Kharkiv|Sumy|Donets'k
+2025-04-13T09:00:00,Donets'k|Odessa
+2025-04-13T10:00:00,Kharkiv
+2025-04-13T11:00:00,Kharkiv
+2025-04-13T12:00:00,Donets'k|Sumy|Odessa
+2025-04-13T13:00:00,Donets'k|Sumy|Odessa|Kharkiv
+2025-04-13T14:00:00,Donets'k|Sumy|Kharkiv|Zaporizhzhya
+2025-04-13T15:00:00,Sumy|Kharkiv
+2025-04-13T16:00:00,
+2025-04-13T17:00:00,
+2025-04-13T18:00:00,Kherson|Mykolayiv
+2025-04-13T19:00:00,Kherson|Mykolayiv|Sumy|Kharkiv|Donets'k|Odessa
+2025-04-13T20:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Poltava|Zaporizhzhya
+2025-04-13T21:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Poltava|Kirovohrad|Chernihiv|Zaporizhzhya|Kiev|Cherkasy|Kiev City|Vinnytsya
+2025-04-13T22:00:00,Kirovohrad
+2025-04-13T23:00:00,Odessa
+2025-04-14T00:00:00,
+2025-04-14T01:00:00,Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-14T02:00:00,Sumy|Zaporizhzhya|Dnipropetrovs'k|Kharkiv|Kiev City|Vinnytsya|Donets'k|Poltava|Kirovohrad
+2025-04-14T03:00:00,Sumy|Kharkiv|Poltava
+2025-04-14T04:00:00,Sumy|Kharkiv|Poltava
+2025-04-14T05:00:00,Sumy|Kharkiv|Poltava|Vinnytsya|Chernihiv|Kiev|Cherkasy|Kirovohrad|Kiev City
+2025-04-14T06:00:00,
+2025-04-14T07:00:00,Sumy|Donets'k|Kharkiv
+2025-04-14T08:00:00,Sumy|Kharkiv|Chernihiv|Poltava
+2025-04-14T09:00:00,Sumy|Kharkiv|Chernihiv|Poltava
+2025-04-14T10:00:00,Sumy|Kharkiv|Donets'k
+2025-04-14T11:00:00,Sumy|Kharkiv
+2025-04-14T12:00:00,Sumy|Kharkiv
+2025-04-14T13:00:00,Sumy|Kharkiv|Donets'k
+2025-04-14T14:00:00,Sumy|Kharkiv|Donets'k
+2025-04-14T15:00:00,Sumy|Kharkiv|Donets'k
+2025-04-14T16:00:00,Sumy
+2025-04-14T17:00:00,Sumy|Donets'k|Kharkiv
+2025-04-14T18:00:00,Sumy|Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Vinnytsya|Kiev City|Kirovohrad|Chernihiv|Cherkasy|Kiev
+2025-04-14T19:00:00,Sumy|Donets'k|Kharkiv|Poltava
+2025-04-14T20:00:00,Sumy|Donets'k|Kharkiv
+2025-04-14T21:00:00,Sumy|Donets'k
+2025-04-14T22:00:00,Sumy
+2025-04-14T23:00:00,Sumy
+2025-04-15T00:00:00,
+2025-04-15T01:00:00,Sumy
+2025-04-15T02:00:00,Sumy
+2025-04-15T03:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya
+2025-04-15T04:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Poltava
+2025-04-15T05:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad
+2025-04-15T06:00:00,Sumy|Donets'k|Kharkiv|Poltava|Kirovohrad
+2025-04-15T07:00:00,Sumy|Donets'k|Kharkiv|Chernihiv|Kirovohrad
+2025-04-15T08:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya|Kherson
+2025-04-15T09:00:00,Donets'k
+2025-04-15T10:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kirovohrad|Sumy
+2025-04-15T11:00:00,Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kirovohrad|Sumy
+2025-04-15T12:00:00,Sumy
+2025-04-15T13:00:00,Sumy|Donets'k
+2025-04-15T14:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-04-15T15:00:00,Sumy|Donets'k|Dnipropetrovs'k
+2025-04-15T16:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kirovohrad|Poltava
+2025-04-15T17:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kirovohrad|Poltava|Kharkiv
+2025-04-15T18:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-04-15T19:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Sumy|Odessa|Chernihiv|Kherson|Mykolayiv|Kirovohrad
+2025-04-15T20:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Sumy|Chernihiv|Mykolayiv|Kirovohrad
+2025-04-15T21:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava|Sumy|Chernihiv|Mykolayiv|Kiev|Kiev City|Kirovohrad
+2025-04-15T22:00:00,Donets'k|Poltava|Sumy|Chernihiv|Kiev|Odessa|Kirovohrad
+2025-04-15T23:00:00,Donets'k|Poltava|Sumy|Chernihiv|Kiev|Odessa|Kharkiv|Kiev City|Kirovohrad
+2025-04-16T00:00:00,Chernihiv|Kiev|Kiev City|Kirovohrad
+2025-04-16T01:00:00,Sumy|Donets'k
+2025-04-16T02:00:00,Donets'k
+2025-04-16T03:00:00,Zaporizhzhya
+2025-04-16T04:00:00,Kherson
+2025-04-16T05:00:00,
+2025-04-16T06:00:00,
+2025-04-16T07:00:00,Sumy|Donets'k|Kharkiv
+2025-04-16T08:00:00,Sumy|Donets'k|Kharkiv
+2025-04-16T09:00:00,Donets'k|Kharkiv
+2025-04-16T10:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kharkiv|Sumy|Kherson|Kirovohrad|Cherkasy|Mykolayiv|Vinnytsya|Odessa
+2025-04-16T11:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kiev City|Sumy|Poltava|Kharkiv|Kirovohrad|Cherkasy|Chernihiv|Kiev|Vinnytsya
+2025-04-16T12:00:00,Sumy
+2025-04-16T13:00:00,Sumy|Kharkiv|Donets'k|Chernihiv|Mykolayiv|Odessa
+2025-04-16T14:00:00,Sumy|Kharkiv|Donets'k|Chernihiv|Kiev|Poltava
+2025-04-16T15:00:00,Donets'k
+2025-04-16T16:00:00,
+2025-04-16T17:00:00,Zaporizhzhya|Dnipropetrovs'k
+2025-04-16T18:00:00,Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv
+2025-04-16T19:00:00,Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv|Sumy|Poltava|Cherkasy|Kirovohrad|Chernihiv|Kherson
+2025-04-16T20:00:00,Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kharkiv|Sumy|Poltava
+2025-04-16T21:00:00,Zaporizhzhya|Donets'k
+2025-04-16T22:00:00,Sumy
+2025-04-16T23:00:00,Sumy|Poltava
+2025-04-17T00:00:00,Dnipropetrovs'k|Poltava|Zaporizhzhya|Sumy|Kharkiv|Donets'k
+2025-04-17T01:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Poltava
+2025-04-17T02:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Poltava|Zaporizhzhya
+2025-04-17T03:00:00,Donets'k
+2025-04-17T04:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Odessa
+2025-04-17T05:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Odessa|Mykolayiv|Kirovohrad
+2025-04-17T06:00:00,Mykolayiv|Kirovohrad
+2025-04-17T07:00:00,Kirovohrad|Sumy|Kharkiv
+2025-04-17T08:00:00,Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Donets'k|Kherson|Zaporizhzhya|Kirovohrad|Cherkasy
+2025-04-17T09:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-17T10:00:00,Kharkiv|Sumy|Zaporizhzhya|Dnipropetrovs'k
+2025-04-17T11:00:00,Kharkiv|Sumy|Zaporizhzhya|Dnipropetrovs'k|Kiev City|Vinnytsya|Poltava|Transcarpathia|Rivne|Volyn|Chernihiv|Mykolayiv|Chernivtsi|Cherkasy|Kiev|Zhytomyr|Ivano-Frankivs'k|Khmel'nyts'kyy|L'viv|Donets'k|Kherson|Odessa|Kirovohrad|Ternopil'
+2025-04-17T12:00:00,Sumy
+2025-04-17T13:00:00,Sumy|Kharkiv
+2025-04-17T14:00:00,Donets'k|Sumy
+2025-04-17T15:00:00,Donets'k|Sumy|Zaporizhzhya
+2025-04-17T16:00:00,Sumy|Kharkiv
+2025-04-17T17:00:00,
+2025-04-17T18:00:00,
+2025-04-17T19:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Kirovohrad|Vinnytsya|Cherkasy|Mykolayiv|Kherson|Odessa
+2025-04-17T20:00:00,Donets'k|Sumy
+2025-04-17T21:00:00,Donets'k|Sumy|Poltava|Kharkiv|Chernihiv
+2025-04-17T22:00:00,Sumy|Poltava|Chernihiv|Kiev
+2025-04-17T23:00:00,Kiev City|Chernihiv|Kiev|Zhytomyr
+2025-04-18T00:00:00,Chernihiv|Kiev|Zhytomyr|Donets'k|Sumy|Kharkiv
+2025-04-18T01:00:00,Chernihiv|Donets'k|Sumy|Kharkiv|Dnipropetrovs'k
+2025-04-18T02:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Zaporizhzhya
+2025-04-18T03:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Poltava|Zaporizhzhya|Kirovohrad|Cherkasy|Chernihiv|Kiev
+2025-04-18T04:00:00,Sumy|Kharkiv|Chernihiv|Kiev
+2025-04-18T05:00:00,
+2025-04-18T06:00:00,
+2025-04-18T07:00:00,Donets'k|Kharkiv|Sumy
+2025-04-18T08:00:00,Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya
+2025-04-18T09:00:00,Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Kirovohrad|Poltava|Cherkasy
+2025-04-18T10:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Sumy|Poltava|Kharkiv
+2025-04-18T11:00:00,Dnipropetrovs'k
+2025-04-18T12:00:00,Dnipropetrovs'k
+2025-04-18T13:00:00,Kharkiv|Sumy
+2025-04-18T14:00:00,Kharkiv|Sumy|Donets'k
+2025-04-18T15:00:00,Kharkiv|Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-18T16:00:00,Kharkiv|Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-18T17:00:00,Sumy|Chernihiv
+2025-04-18T18:00:00,
+2025-04-18T19:00:00,Odessa|Poltava|Chernihiv|Vinnytsya|Cherkasy|Kherson|Mykolayiv|Kirovohrad|Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya
+2025-04-18T20:00:00,Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya
+2025-04-18T21:00:00,Kiev|Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya|Poltava|Chernihiv
+2025-04-18T22:00:00,Mykolayiv|Kherson|Odessa|Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya|Poltava|Chernihiv|Kirovohrad
+2025-04-18T23:00:00,Mykolayiv|Kherson|Odessa|Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya|Poltava|Chernihiv|Kirovohrad
+2025-04-19T00:00:00,Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya|Poltava|Chernihiv|Kirovohrad
+2025-04-19T01:00:00,Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya|Poltava|Chernihiv|Kirovohrad
+2025-04-19T02:00:00,Kharkiv|Donets'k|Sumy|Poltava|Kirovohrad|Dnipropetrovs'k
+2025-04-19T03:00:00,Donets'k
+2025-04-19T04:00:00,
+2025-04-19T05:00:00,
+2025-04-19T06:00:00,Donets'k
+2025-04-19T07:00:00,Donets'k|Sumy
+2025-04-19T08:00:00,Donets'k|Sumy|Zaporizhzhya
+2025-04-19T09:00:00,Donets'k|Sumy
+2025-04-19T10:00:00,
+2025-04-19T11:00:00,Zaporizhzhya
+2025-04-19T12:00:00,Kiev|Chernihiv|Kharkiv|Sumy
+2025-04-19T13:00:00,Kharkiv|Sumy
+2025-04-19T14:00:00,Donets'k|Kiev
+2025-04-19T15:00:00,Kiev|Kiev City|Dnipropetrovs'k
+2025-04-19T16:00:00,
+2025-04-19T17:00:00,
+2025-04-19T18:00:00,Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-04-19T19:00:00,Kiev City|Kiev
+2025-04-19T20:00:00,
+2025-04-19T21:00:00,
+2025-04-19T22:00:00,
+2025-04-19T23:00:00,
+2025-04-20T00:00:00,
+2025-04-20T01:00:00,
+2025-04-20T02:00:00,
+2025-04-20T03:00:00,
+2025-04-20T04:00:00,
+2025-04-20T05:00:00,
+2025-04-20T06:00:00,
+2025-04-20T07:00:00,
+2025-04-20T08:00:00,
+2025-04-20T09:00:00,
+2025-04-20T10:00:00,
+2025-04-20T11:00:00,
+2025-04-20T12:00:00,
+2025-04-20T13:00:00,
+2025-04-20T14:00:00,
+2025-04-20T15:00:00,
+2025-04-20T16:00:00,
+2025-04-20T17:00:00,
+2025-04-20T18:00:00,
+2025-04-20T19:00:00,
+2025-04-20T20:00:00,
+2025-04-20T21:00:00,
+2025-04-20T22:00:00,Kharkiv|Sumy
+2025-04-20T23:00:00,Kharkiv|Chernihiv|Sumy|Donets'k
+2025-04-21T00:00:00,Sumy|Donets'k|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Kharkiv
+2025-04-21T01:00:00,Sumy|Donets'k|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Kharkiv|Poltava|Kiev
+2025-04-21T02:00:00,Sumy|Donets'k|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Kharkiv|Poltava|Kiev|Kiev City|Mykolayiv|Kherson|Odessa|Kirovohrad|Vinnytsya
+2025-04-21T03:00:00,Sumy|Donets'k|Dnipropetrovs'k|Chernihiv|Zaporizhzhya|Kharkiv|Poltava|Kiev
+2025-04-21T04:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kharkiv|Poltava
+2025-04-21T05:00:00,Sumy|Donets'k
+2025-04-21T06:00:00,Donets'k
+2025-04-21T07:00:00,
+2025-04-21T08:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Kherson|Mykolayiv|Donets'k
+2025-04-21T09:00:00,Sumy|Donets'k|Zaporizhzhya|Dnipropetrovs'k|Poltava|Kirovohrad|Mykolayiv|Kharkiv|Kherson|Cherkasy
+2025-04-21T10:00:00,Sumy|Donets'k|Kharkiv|Zaporizhzhya
+2025-04-21T11:00:00,
+2025-04-21T12:00:00,Donets'k
+2025-04-21T13:00:00,
+2025-04-21T14:00:00,Sumy|Donets'k|Kharkiv
+2025-04-21T15:00:00,Donets'k
+2025-04-21T16:00:00,Donets'k
+2025-04-21T17:00:00,
+2025-04-21T18:00:00,Kherson|Mykolayiv
+2025-04-21T19:00:00,Kherson|Mykolayiv|Sumy|Kharkiv|Donets'k|Odessa
+2025-04-21T20:00:00,Kherson|Mykolayiv|Sumy|Donets'k|Chernihiv
+2025-04-21T21:00:00,Sumy|Donets'k|Chernihiv|Dnipropetrovs'k|Kharkiv
+2025-04-21T22:00:00,Sumy|Donets'k|Chernihiv|Dnipropetrovs'k|Kharkiv|Kiev|Kiev City
+2025-04-21T23:00:00,
+2025-04-22T00:00:00,Sumy
+2025-04-22T01:00:00,Sumy|Kharkiv|Donets'k
+2025-04-22T02:00:00,Donets'k
+2025-04-22T03:00:00,Donets'k
+2025-04-22T04:00:00,Donets'k
+2025-04-22T05:00:00,
+2025-04-22T06:00:00,Sumy|Kharkiv|Chernihiv|Poltava
+2025-04-22T07:00:00,Sumy|Kharkiv|Chernihiv|Poltava|Kiev
+2025-04-22T08:00:00,Sumy|Kharkiv|Chernihiv|Poltava|Kiev|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-22T09:00:00,Sumy|Kharkiv|Chernihiv|Poltava|Kiev|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-22T10:00:00,Sumy|Kharkiv|Chernihiv|Poltava|Donets'k|Zaporizhzhya|Dnipropetrovs'k
+2025-04-22T11:00:00,Kharkiv|Donets'k
+2025-04-22T12:00:00,Kharkiv|Donets'k|Sumy
+2025-04-22T13:00:00,Kharkiv|Donets'k|Sumy
+2025-04-22T14:00:00,Kharkiv|Donets'k|Sumy
+2025-04-22T15:00:00,Kharkiv|Donets'k|Sumy
+2025-04-22T16:00:00,Kharkiv|Donets'k|Sumy|Dnipropetrovs'k|Zaporizhzhya
+2025-04-22T17:00:00,
+2025-04-22T18:00:00,Kharkiv
+2025-04-22T19:00:00,Sumy|Kharkiv|Donets'k
+2025-04-22T20:00:00,Sumy|Odessa|Poltava|Kharkiv|Donets'k
+2025-04-22T21:00:00,Sumy|Poltava|Chernihiv|Kharkiv|Donets'k
+2025-04-22T22:00:00,Sumy|Poltava|Chernihiv|Kiev|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-22T23:00:00,Sumy|Poltava|Chernihiv|Kiev|Kiev City|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-23T00:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Sumy
+2025-04-23T01:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Sumy
+2025-04-23T02:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Sumy|Poltava
+2025-04-23T03:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Sumy|Poltava|Kirovohrad
+2025-04-23T04:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Sumy|Poltava|Kirovohrad|Chernihiv
+2025-04-23T05:00:00,Dnipropetrovs'k|Poltava|Kirovohrad
+2025-04-23T06:00:00,
+2025-04-23T07:00:00,Sumy|Kharkiv|Donets'k
+2025-04-23T08:00:00,Donets'k
+2025-04-23T09:00:00,Donets'k|Zaporizhzhya|Dnipropetrovs'k|Kherson
+2025-04-23T10:00:00,
+2025-04-23T11:00:00,
+2025-04-23T12:00:00,
+2025-04-23T13:00:00,Sumy|Kharkiv|Donets'k
+2025-04-23T14:00:00,Sumy|Donets'k|Dnipropetrovs'k|Kirovohrad
+2025-04-23T15:00:00,Sumy|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-23T16:00:00,Kharkiv|Donets'k
+2025-04-23T17:00:00,Kharkiv|Donets'k|Poltava
+2025-04-23T18:00:00,Kharkiv|Dnipropetrovs'k|Poltava
+2025-04-23T19:00:00,Zaporizhzhya|Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad
+2025-04-23T20:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Chernihiv|Kiev|Vinnytsya
+2025-04-23T21:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Dnipropetrovs'k|Mykolayiv|Kherson|Zhytomyr
+2025-04-23T22:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Dnipropetrovs'k|Mykolayiv|Kherson|Zhytomyr|Khmel'nyts'kyy|Odessa|Zaporizhzhya|Kiev City|Volyn|Ivano-Frankivs'k|Rivne|Ternopil'|Transcarpathia|L'viv|Chernivtsi
+2025-04-23T23:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Dnipropetrovs'k|Mykolayiv|Kherson|Zhytomyr|Khmel'nyts'kyy|Odessa|Zaporizhzhya|Kiev City|Volyn|Ivano-Frankivs'k|Rivne|Ternopil'|Transcarpathia|L'viv|Chernivtsi
+2025-04-24T00:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Dnipropetrovs'k|Mykolayiv|Kherson|Zhytomyr|Khmel'nyts'kyy|Odessa|Zaporizhzhya|Kiev City|Volyn|Ivano-Frankivs'k|Rivne|Ternopil'|Transcarpathia|L'viv|Chernivtsi
+2025-04-24T01:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Dnipropetrovs'k|Mykolayiv|Kherson|Zhytomyr|Khmel'nyts'kyy|Odessa|Zaporizhzhya|Kiev City|Volyn|Ivano-Frankivs'k|Rivne|Ternopil'|Transcarpathia|L'viv|Chernivtsi
+2025-04-24T02:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Dnipropetrovs'k|Mykolayiv|Kherson|Zhytomyr|Khmel'nyts'kyy|Odessa|Zaporizhzhya|Kiev City|Volyn|Ivano-Frankivs'k|Rivne|Ternopil'|Transcarpathia|L'viv|Chernivtsi
+2025-04-24T03:00:00,Poltava|Sumy|Donets'k|Kharkiv|Kirovohrad|Chernihiv|Kiev|Vinnytsya|Dnipropetrovs'k|Mykolayiv|Kherson|Zhytomyr|Khmel'nyts'kyy|Odessa|Zaporizhzhya|Kiev City|Volyn|Ivano-Frankivs'k|Rivne|Ternopil'|Transcarpathia|L'viv|Chernivtsi
+2025-04-24T04:00:00,
+2025-04-24T05:00:00,Kharkiv
+2025-04-24T06:00:00,Kharkiv
+2025-04-24T07:00:00,Kharkiv|Donets'k|Sumy|Chernihiv
+2025-04-24T08:00:00,Kharkiv|Donets'k|Sumy|Zaporizhzhya
+2025-04-24T09:00:00,Kharkiv|Donets'k|Sumy|Zaporizhzhya|Dnipropetrovs'k
+2025-04-24T10:00:00,Donets'k|Dnipropetrovs'k
+2025-04-24T11:00:00,Donets'k
+2025-04-24T12:00:00,Kharkiv|Donets'k
+2025-04-24T13:00:00,Donets'k|Sumy|Kharkiv
+2025-04-24T14:00:00,Donets'k|Kharkiv|Sumy|Poltava|Chernihiv|Dnipropetrovs'k
+2025-04-24T15:00:00,Donets'k|Dnipropetrovs'k
+2025-04-24T16:00:00,
+2025-04-24T17:00:00,
+2025-04-24T18:00:00,
+2025-04-24T19:00:00,Kharkiv|Mykolayiv|Kherson|Zaporizhzhya|Sumy
+2025-04-24T20:00:00,Kharkiv|Donets'k|Chernihiv|Sumy
+2025-04-24T21:00:00,Chernihiv|Sumy|Poltava|Kharkiv
+2025-04-24T22:00:00,Chernihiv|Zhytomyr|Donets'k|Sumy|Poltava|Kharkiv|Kiev
+2025-04-24T23:00:00,Kirovohrad|Sumy|Poltava|Kharkiv|Kiev
+2025-04-25T00:00:00,Vinnytsya|Sumy|Poltava|Kharkiv|Kiev|Dnipropetrovs'k
+2025-04-25T01:00:00,Sumy|Poltava|Kharkiv|Kiev|Dnipropetrovs'k|Donets'k
+2025-04-25T02:00:00,Sumy|Poltava|Kharkiv|Dnipropetrovs'k|Donets'k|Zaporizhzhya
+2025-04-25T03:00:00,Poltava|Kharkiv|Dnipropetrovs'k|Donets'k|Zaporizhzhya
+2025-04-25T04:00:00,Donets'k
+2025-04-25T05:00:00,Kharkiv
+2025-04-25T06:00:00,
+2025-04-25T07:00:00,Donets'k|Sumy|Kharkiv|Dnipropetrovs'k|Zaporizhzhya|Poltava|Mykolayiv|Kherson|Kirovohrad|Odessa|Cherkasy
+2025-04-25T08:00:00,Donets'k
+2025-04-25T09:00:00,Donets'k|Zaporizhzhya|Kherson
+2025-04-25T10:00:00,Donets'k|Dnipropetrovs'k|Kharkiv
+2025-04-25T11:00:00,
+2025-04-25T12:00:00,Donets'k|Sumy
+2025-04-25T13:00:00,Donets'k|Sumy
+2025-04-25T14:00:00,Donets'k
+2025-04-25T15:00:00,Donets'k
+2025-04-25T16:00:00,Kharkiv
+2025-04-25T17:00:00,
+2025-04-25T18:00:00,
+2025-04-25T19:00:00,Sumy|Kharkiv
+2025-04-25T20:00:00,Mykolayiv|Kherson|Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-25T21:00:00,Mykolayiv|Kherson|Kirovohrad|Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-25T22:00:00,Kirovohrad|Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava
+2025-04-25T23:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava|Chernihiv
+2025-04-26T00:00:00,Sumy|Kharkiv|Donets'k|Dnipropetrovs'k|Zaporizhzhya|Poltava|Chernihiv
+2025-04-26T01:00:00,Sumy|Kharkiv|Zaporizhzhya|Poltava|Chernihiv|Kiev|Donets'k
+2025-04-26T02:00:00,Sumy|Poltava|Chernihiv|Kiev|Donets'k|Vinnytsya|Mykolayiv|Kirovohrad|Kherson|Odessa|Dnipropetrovs'k|Zaporizhzhya|Kharkiv
+2025-04-26T03:00:00,Sumy|Poltava|Chernihiv|Kiev|Donets'k|Kharkiv
+2025-04-26T04:00:00,Sumy|Poltava|Chernihiv|Kiev|Donets'k|Kharkiv|Kiev City|Dnipropetrovs'k
+2025-04-26T05:00:00,Sumy|Poltava|Chernihiv|Kiev|Donets'k|Zhytomyr|Vinnytsya
+2025-04-26T06:00:00,Sumy|Kiev|Donets'k|Zhytomyr|Vinnytsya
+2025-04-26T07:00:00,Donets'k|Sumy|Kharkiv
+2025-04-26T08:00:00,Donets'k|Sumy|Kharkiv|Zaporizhzhya|Kherson
+2025-04-26T09:00:00,Donets'k|Zaporizhzhya
+2025-04-26T10:00:00,
+2025-04-26T11:00:00,
+2025-04-26T12:00:00,Sumy
+2025-04-26T13:00:00,Sumy|Donets'k
+2025-04-26T14:00:00,Donets'k
+2025-04-26T15:00:00,Donets'k|Dnipropetrovs'k
+2025-04-26T16:00:00,
+2025-04-26T17:00:00,Kharkiv
+2025-04-26T18:00:00,
+2025-04-26T19:00:00,Sumy|Donets'k|Kharkiv
+2025-04-26T20:00:00,Sumy|Donets'k|Kharkiv|Chernihiv|Dnipropetrovs'k
+2025-04-26T21:00:00,Kiev|Zhytomyr|Sumy|Donets'k|Kharkiv|Chernihiv|Dnipropetrovs'k|Poltava|Zaporizhzhya
+2025-04-26T22:00:00,Kiev|Sumy|Donets'k|Kharkiv|Chernihiv|Dnipropetrovs'k|Poltava|Zaporizhzhya
+2025-04-26T23:00:00,Sumy|Donets'k|Kharkiv|Chernihiv|Dnipropetrovs'k|Poltava|Zaporizhzhya
+2025-04-27T00:00:00,Zhytomyr|Odessa|Mykolayiv|Sumy|Donets'k|Kharkiv|Chernihiv|Dnipropetrovs'k|Poltava|Zaporizhzhya|Kiev|Kirovohrad
+2025-04-27T01:00:00,Sumy|Donets'k|Kharkiv|Chernihiv|Dnipropetrovs'k|Poltava|Zaporizhzhya|Kiev|Kirovohrad
+2025-04-27T02:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Poltava|Kiev|Kirovohrad
+2025-04-27T03:00:00,Donets'k|Kiev|Kirovohrad|Dnipropetrovs'k
+2025-04-27T04:00:00,Donets'k
+2025-04-27T05:00:00,
+2025-04-27T06:00:00,Kharkiv|Dnipropetrovs'k|Donets'k
+2025-04-27T07:00:00,Sumy|Kharkiv|Kherson
+2025-04-27T08:00:00,Sumy|Zaporizhzhya|Donets'k
+2025-04-27T09:00:00,Donets'k
+2025-04-27T10:00:00,Donets'k
+2025-04-27T11:00:00,Sumy
+2025-04-27T12:00:00,
+2025-04-27T13:00:00,Sumy|Donets'k
+2025-04-27T14:00:00,Sumy|Donets'k
+2025-04-27T15:00:00,Donets'k
+2025-04-27T16:00:00,
+2025-04-27T17:00:00,
+2025-04-27T18:00:00,
+2025-04-27T19:00:00,Sumy|Kharkiv|Donets'k
+2025-04-27T20:00:00,Zaporizhzhya|Donets'k
+2025-04-27T21:00:00,Donets'k|Kharkiv|Sumy
+2025-04-27T22:00:00,Donets'k|Kharkiv|Sumy
+2025-04-27T23:00:00,Poltava|Dnipropetrovs'k|Chernihiv|Donets'k|Kharkiv|Sumy
+2025-04-28T00:00:00,Poltava|Dnipropetrovs'k|Zaporizhzhya|Donets'k|Kharkiv|Sumy
+2025-04-28T01:00:00,Donets'k|Kharkiv|Sumy
+2025-04-28T02:00:00,Donets'k
+2025-04-28T03:00:00,Donets'k|Kharkiv|Sumy
+2025-04-28T04:00:00,Sumy|Poltava|Kharkiv
+2025-04-28T05:00:00,Sumy|Poltava|Kharkiv|Chernihiv|Dnipropetrovs'k
+2025-04-28T06:00:00,Sumy|Poltava|Kharkiv|Chernihiv|Dnipropetrovs'k|Kirovohrad|Donets'k
+2025-04-28T07:00:00,Sumy|Poltava|Kharkiv|Chernihiv|Kirovohrad|Donets'k|Kiev
+2025-04-28T08:00:00,Sumy|Poltava|Chernihiv|Kirovohrad|Donets'k|Kiev
+2025-04-28T09:00:00,Poltava|Kirovohrad|Donets'k|Kiev
+2025-04-28T10:00:00,Donets'k|Kharkiv|Dnipropetrovs'k|Zaporizhzhya
+2025-04-28T11:00:00,
+2025-04-28T12:00:00,Kharkiv|Sumy
+2025-04-28T13:00:00,Kharkiv|Sumy|Donets'k
+2025-04-28T14:00:00,Donets'k
+2025-04-28T15:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya
+2025-04-28T16:00:00,Donets'k|Dnipropetrovs'k|Zaporizhzhya|Kirovohrad|Cherkasy|Kherson|Mykolayiv|Odessa|Kharkiv|Poltava|Sumy|Vinnytsya
+2025-04-28T17:00:00,
+2025-04-28T18:00:00,
+2025-04-28T19:00:00,Sumy|Kharkiv
+2025-04-28T20:00:00,Zaporizhzhya|Chernihiv|Donets'k|Sumy|Odessa
+2025-04-28T21:00:00,Chernihiv|Donets'k|Sumy|Odessa
+2025-04-28T22:00:00,Chernihiv|Kiev|Kiev City|Donets'k|Sumy|Odessa|Kharkiv
+2025-04-28T23:00:00,Chernihiv|Kiev|Kiev City|Donets'k|Sumy|Odessa|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Poltava
+2025-04-29T00:00:00,Chernihiv|Donets'k|Sumy|Odessa|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Poltava
+2025-04-29T01:00:00,Donets'k|Sumy|Odessa|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Poltava
+2025-04-29T02:00:00,Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Poltava
+2025-04-29T03:00:00,Donets'k|Kharkiv|Zaporizhzhya|Dnipropetrovs'k|Poltava|Sumy
+2025-04-29T04:00:00,Zaporizhzhya|Dnipropetrovs'k|Sumy|Kharkiv|Donets'k
+2025-04-29T05:00:00,
+2025-04-29T06:00:00,
+2025-04-29T07:00:00,Sumy|Donets'k
+2025-04-29T08:00:00,Sumy|Donets'k
+2025-04-29T09:00:00,Donets'k
+2025-04-29T10:00:00,Donets'k
+2025-04-29T11:00:00,Donets'k|Kharkiv|Sumy|Poltava|Chernihiv
+2025-04-29T12:00:00,
+2025-04-29T13:00:00,Donets'k|Sumy
+2025-04-29T14:00:00,Donets'k|Sumy
+2025-04-29T15:00:00,Donets'k|Sumy
+2025-04-29T16:00:00,
+2025-04-29T17:00:00,
+2025-04-29T18:00:00,
+2025-04-29T19:00:00,Kharkiv|Sumy|Poltava|Zaporizhzhya|Dnipropetrovs'k|Donets'k
+2025-04-29T20:00:00,Kharkiv|Sumy|Poltava|Zaporizhzhya|Dnipropetrovs'k|Donets'k|Kherson
+2025-04-29T21:00:00,Donets'k
+2025-04-29T22:00:00,Donets'k|Kharkiv
+2025-04-29T23:00:00,Kharkiv
+2025-04-30T00:00:00,Kharkiv|Donets'k
+2025-04-30T01:00:00,Kharkiv|Donets'k|Kiev City|Cherkasy|Dnipropetrovs'k|Poltava|Zaporizhzhya|Sumy|Zhytomyr|Kherson|Chernivtsi|Kiev|Vinnytsya|Mykolayiv|Kirovohrad|Ivano-Frankivs'k|Khmel'nyts'kyy|Rivne|Odessa|Chernihiv|Volyn|Transcarpathia|Ternopil'|L'viv
+2025-04-30T02:00:00,Kharkiv|Donets'k|Dnipropetrovs'k
+2025-04-30T03:00:00,Kharkiv|Donets'k|Dnipropetrovs'k|Sumy|Chernihiv
+2025-04-30T04:00:00,Kharkiv|Donets'k|Sumy|Chernihiv|Poltava|Kiev
+2025-04-30T05:00:00,Kharkiv|Sumy|Chernihiv|Poltava|Kiev|Vinnytsya
+2025-04-30T06:00:00,Chernihiv|Poltava|Kiev|Vinnytsya|Zhytomyr|Khmel'nyts'kyy|Kharkiv
+2025-04-30T07:00:00,Zhytomyr|Khmel'nyts'kyy|Donets'k|Sumy|Ternopil'|Rivne|Zaporizhzhya
+2025-04-30T08:00:00,Khmel'nyts'kyy|Donets'k|Sumy|Ternopil'|Rivne|Volyn|L'viv|Kherson
+2025-04-30T09:00:00,Khmel'nyts'kyy|Donets'k|Ternopil'|Rivne|Volyn|Sumy
+2025-04-30T10:00:00,Donets'k|Zaporizhzhya
+2025-04-30T11:00:00,Donets'k
+2025-04-30T12:00:00,Sumy
+2025-04-30T13:00:00,Sumy|Kharkiv|Donets'k
+2025-04-30T14:00:00,Kharkiv|Donets'k
+2025-04-30T15:00:00,Kharkiv|Donets'k|Sumy
+2025-04-30T16:00:00,
+2025-04-30T17:00:00,Chernihiv
+2025-04-30T18:00:00,
+2025-04-30T19:00:00,Kirovohrad|Kharkiv
+2025-04-30T20:00:00,Kirovohrad|Kharkiv|Kiev|Donets'k
+2025-04-30T21:00:00,Kirovohrad|Kiev|Donets'k|Mykolayiv|Odessa
+2025-04-30T22:00:00,Kiev|Donets'k|Kiev City|Dnipropetrovs'k
+2025-04-30T23:00:00,

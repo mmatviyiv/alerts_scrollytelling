@@ -1,0 +1,271 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    color: #333;
+    background-color: #f0f2f5;
+    line-height: 1.7;
+}
+
+#intro-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    box-sizing: border-box;
+    background-color: #f0f2f5;
+    position: relative;
+}
+
+#intro-section h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #0056b3;
+}
+
+.scroll-down-icon {
+    position: absolute;
+    bottom: 3rem;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #0056b3;
+}
+
+.scroll-down-icon .scroll-wheel {
+    animation: scroll-animation 2.2s infinite cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+@keyframes scroll-animation {
+    0% {
+        cy: 15;
+        opacity: 1;
+    }
+    70% {
+        cy: 35;
+        opacity: 0;
+    }
+    80% {
+        cy: 15;
+        opacity: 0;
+    }
+    100% {
+        cy: 15;
+        opacity: 1;
+    }
+}
+
+#scrolly-container {
+    position: relative;
+    width: 100%;
+}
+
+#vis-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 55%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
+    overflow: hidden;
+    padding: 10vh;
+    box-sizing: border-box;
+}
+
+#vis-svg {
+    width: 100%;
+    height: 100%;
+}
+
+.region {
+    stroke: #333;
+    stroke-width: 0.5px;
+    fill: #ccc;
+    transition: fill 0.4s ease, opacity 0.4s ease;
+}
+
+.region:hover {
+    fill: #999;
+}
+
+#tooltip {
+    position: absolute;
+    background-color: rgba(28, 30, 33, 0.9);
+    color: #f0f2f5;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s;
+    white-space: nowrap;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transform: translate(-50%, -100%);
+}
+
+#timestamp-container {
+    position: absolute;
+    top: 120px;
+    right: 120px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.4s ease;
+    z-index: 10;
+    text-align: right;
+}
+
+.timestamp-title {
+    color: #0056b3;
+    font-size: 1.6rem;
+    margin: 0;
+    font-weight: 700;
+}
+
+#timestamp-display {
+    color: #333;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #333;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    fill: #333;
+}
+
+.line-chart-area {
+    fill: #ff4136;
+    opacity: 0.5;
+}
+.line-chart-line {
+    fill: none;
+    stroke: #ff4136;
+    stroke-width: 2px;
+    opacity: 0.6;
+}
+.radial-bar {
+    fill: #ff4136;
+}
+
+.hour-label {
+    font-size: 11px;
+    fill: #333;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#text-container {
+    position: relative;
+    z-index: 1;
+    width: 45%;
+    margin-left: 55%;
+}
+
+.text-wrapper {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: 10vh;
+}
+
+.step {
+    margin-bottom: 70vh;
+    opacity: 0.3;
+    transform: translateY(10px);
+    transition: opacity 0.4s ease-out, transform 0.4s ease-out;
+}
+
+.step.is-active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.step:last-child {
+    margin-bottom: 70vh;
+}
+
+.step h2 {
+    margin-top: 0;
+    color: #0056b3;
+    font-size: 1.6rem;
+}
+
+.step p {
+    font-size: 1rem;
+    color: #444;
+    margin: 0.5rem 0;
+}
+
+.step-trigger {
+    height: 100vh;
+}
+
+@media (max-width: 900px) {
+    #vis-container {
+        position: fixed;
+        width: 100%;
+        height: 50vh;
+        top: 0;
+        left: 0;
+        padding: 1rem;
+        z-index: 1;
+        display: block;
+        box-sizing: border-box;
+    }
+
+    #vis-svg {
+       display: block;
+       height: calc(100% - 80px);
+       width: 100%;
+    }
+
+    #text-container {
+        width: 100%;
+        margin-left: 0;
+        position: relative;
+        z-index: 10;
+        margin-top: 50vh;
+        background-color: transparent;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .text-wrapper {
+        margin-right: 0;
+        margin-left: 0;
+        max-width: none;
+    }
+
+    .step {
+        margin: 0 1rem 50vh 1rem;
+        padding: 1.5rem;
+        background-color: #f0f2f5;
+        border-radius: 8px;
+        opacity: 1;
+        color: #b0b0b0;
+        transition: color 0.4s ease-out, transform 0.4s ease-out;
+    }
+
+    .step.is-active {
+        color: #333;
+    }
+
+    #timestamp-container {
+        position: relative;
+        top: auto;
+        right: auto;
+        padding-top: 1rem;
+        text-align: center;
+        height: 80px;
+    }
+} 

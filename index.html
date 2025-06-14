@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ритм війни: 2025-й під звуки сирен</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <section id="intro-section">
+        <h1>Ритм війни: 2025-й під звуки сирен</h1>
+        <svg class="scroll-down-icon" width="30" height="50" viewBox="0 0 30 50">
+            <rect x="1" y="1" rx="14" ry="14" width="28" height="48" stroke="currentColor" stroke-width="2" fill="none"/>
+            <circle class="scroll-wheel" cx="15" cy="15" r="4" fill="currentColor"/>
+        </svg>
+    </section>
+
+    <main id="scrolly-container">
+        <div id="vis-container">
+            <svg id="vis-svg"></svg>
+            <div id="tooltip"></div>
+            <div id="timestamp-container">
+                <h2 class="timestamp-title">Як це було</h2>
+                <div id="timestamp-display"></div>
+            </div>
+        </div>
+        <div id="text-container">
+            <div class="text-wrapper">
+                <section class="step" data-step="1">
+                    <h2>Час у тривозі. Скільки у нас його вкрадено?</h2>
+                    <p>Від початку 2025 року повітряна тривога пролунала <b>6041</b> разів. Зі загальною тривалістю <b>2379</b> годин, або <b>99</b> днів.</p>
+                </section>
+                <section class="step" data-step="2">
+                    <h2>Географія тривог. Де небо гуде найчастіше?</h2>
+                    <p>Загроза не розподілена рівномірно. Східні регіони приймають на себе основний удар, але жодна область не залишається в повній безпеці.</p>
+                </section>
+                <section class="step" data-step="3">
+                    <h2>Часова динаміка. Як змінювалася інтенсивність?</h2>
+                    <p>Інтенсивність повітряних атак залишається на сталому рівні з незначними коливаннями. Це свідчить про те, що ворог не змінює свою тактику і продовжує використовувати їх як засіб впливу на Україну.</p>
+                </section>
+                <section class="step" data-step="4">
+                    <h2>Доба під сиреною. Коли лунає тривога?</h2>
+                    <p>Тривога — це не лише загроза, а й порушення нормального ритму життя. Більшість атак відбуваються ввечері та вночі, позбавляючи людей відпочинку, сну та спокою.</p>
+                </section>
+                <section class="step" data-step="5">
+                    <h2>Життя в укритті. Скільки часу ми проводимо в небезпеці?</h2>
+                    <p>Середня тривалість тривоги по країні становить <b>2</b> години. Проте в деяких регіонах люди змушені проводити в укритті значно більше часу. Рекордна тривога тривала <b>21</b> годину у <b>Сумській</b> області.</p>
+                </section>
+    
+                <div class="step-trigger" data-step="6"></div>
+            </div>
+        </div>
+    </main>
+    
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html> 
