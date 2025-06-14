@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
             })
             .on("mousemove", (event) => {
                 if (!isChoroplethMapActive) return;
-                tooltip.style("left", `${event.pageX}px`).style("top", `${event.pageY - 20}px`);
+                tooltip.style("left", `${event.clientX}px`).style("top", `${event.clientY - 20}px`);
             })
             .on("mouseout", () => {
                 tooltip.style("opacity", 0);
@@ -267,8 +267,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 tooltip
                     .style("opacity", 1)
                     .html(`Тиждень ${d.week}<br>Тривалість: ${d.duration_hours.toFixed(0)} год.`)
-                    .style("left", (event.pageX + 20) + "px")
-                    .style("top", event.pageY + "px");
+                    .style("left", (event.clientX + 20) + "px")
+                    .style("top", event.clientY + "px");
             });
 
         const radialChartGroup = chartGroup.append("g").attr("class", "radial-chart-wrapper").style("opacity", 0);
@@ -304,7 +304,7 @@ document.addEventListener('DOMContentLoaded', () => {
             })
             .on("mousemove", (event) => {
                 if (!isRadialChartActive) return;
-                tooltip.style("left", `${event.pageX}px`).style("top", `${event.pageY - 20}px`);
+                tooltip.style("left", `${event.clientX}px`).style("top", `${event.clientY - 20}px`);
             })
             .on("mouseout", () => {
                 tooltip.style("opacity", 0);
